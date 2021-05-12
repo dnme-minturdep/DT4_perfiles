@@ -1,0 +1,14 @@
+---
+title: "Documento Técnico N°4: Perfiles"
+subtitle: "Descripción, Análisis y Utilización de los Registros Administrativos para la medición del Turismo"
+author: "Dirección Nacional de Mercados y Estadísticas -  Subsecretaría de Desarrollo Estratégico"
+date: "`r format(Sys.Date(), format = '%d de %B de %Y')`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Descripción, Análisis y Utilización de Registros Administrativos para la medición del Turismo"
+---
+
+# **Presentación** {.unnumbered}
