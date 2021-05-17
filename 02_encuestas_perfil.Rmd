@@ -1,0 +1,41 @@
+# **Encuestas nacionales de perfil**
+
+El Ministerio de Turismo y Deportes de la Nación (en adelante MINTURDEP) cuenta actualmente con dos estudios que permiten conocer las características de los visitantes residentes y no residentes en el país. Se trata de la Encuesta de Turismo Internacional (ETI) y de la Encuesta de Viajes y Turismo de los Hogares (EVyTH)[^encuestas_perfil-1]. En esta sección se esbozarán sus principales características[^encuestas_perfil-2], puesto que serán tomadas como referencia en este documento. Como principio general, estas encuestas se sustentan conceptual y metodológicamente en las recomendaciones que propone en cada materia la OMT, lo cual no implica la ausencia de limitaciones en estos estudios, que también serán mencionadas. 
+
+[^encuestas_perfil-1]: También la Encuesta de Ocupación Hotelera (EOH) brinda información al respecto, fundamentalmente acerca del origen de quienes se alojan en los hoteles y parahoteles, así como su estadía promedio.
+
+[^encuestas_perfil-2]: Para más información, véase el Documento Técnico \#1: Conceptos y elementos básicos para la medición provincial de los turistas.
+
+Cabe mencionar que estas encuestas, al estar centradas en un enfoque nacional, presentan la ventaja de contar con insumos privilegiados, fundamentalmente en lo que hace a la disposición y calidad de marcos muestrales (registros migratorios y listado de teléfonos en la ETI y en la EVyTH, respectivamente, ambos de carácter censal), lo cual adquiere una complejidad mayor en el caso de los contextos provinciales.
+
+## La ETI
+
+La ETI tiene por objetivo general conocer las características de los viajes (motivo, duración, destino/s, tipos de alojamientos, etc.), y de los viajeros (lugar de residencia, conformación del grupo viajero, etc.), así como los gastos en alojamiento, alimentación, traslados, transportes y compras que estos últimos realizan.
+
+Este operativo releva un subconjunto de viajeros no residentes de Argentina que visitaron el país (al salir del país) y de viajeros residentes en Argentina que viajan al Exterior (al volver al país). Las entrevistas (dirigidas a grupos de viaje, donde uno de sus integrantes actúa como informante) se realizan en los espacios donde se produce el movimiento internacional de seis puntos de entrada y salida del país: Aeropuerto de Ezeiza, Aeroparque Jorge Newbery, Puerto de Buenos Aires, Aeropuerto Internacional de Córdoba, Aeropuerto Internacional de Mendoza y el paso terrestre Sistema Cristo Redentor (Mendoza) que representan aproximadamente la mitad del flujo internacional de viajeros. 
+
+Desde el punto de vista de los viajes realizados por no residentes dentro del país, la encuesta contempla trece destinos principales (localidad o zona o provincia, según el caso) y una categoría por región que engloba a todos los destinos regionales no contemplados entre los anteriores.
+
+Una de las principales fortalezas de la ETI radica en que su marco muestral está conformado por todos los ingresos y egresos del país, información que es registrada y suministrada al MINTURDEP por la Dirección Nacional de Migraciones. Por tanto, los resultados obtenidos en el trabajo de campo (organizado en torno a arribos y partidas de los servicios aerocomerciales y de embarcaciones en el caso del Puerto de Buenos Aires, de acuerdo a su participación en el total del movimiento internacional de cada uno de los puntos migratorios considerados) son expandidos a partir del origen/destino de los servicios de transporte y de la información que surge del Registro de Migraciones. Por tanto, la ETI además de permitir caracterizar a los visitantes (porcentaje de visitantes que utilizaron hoteles o visitaron un determinado destino, por ejemplo), permite estimar cantidades totales de: turistas, pernoctes y gasto total, con su desagregación por rubros. 
+
+En este sentido, es preciso tener en cuenta que el comportamiento y las características de los viajes de quienes ingresan o egresan por los puntos de acceso cubiertos por la encuesta, es diferente al de los viajeros que lo hacen por otros puntos. Además, en el caso del turismo receptivo, la información no se presenta desagregada por provincias y no en todos los casos las estimaciones resultan robustas desde el punto de vista estadístico. En cuanto al turismo emisivo, si bien el lugar de residencia se indaga a nivel de provincia, en muchos casos estos datos resultan con valores marginales (o, vale decir, con bases pequeñas), sujetos a niveles de error estadístico muy elevados.
+
+## LA EVyTH
+
+El objetivo principal de la EVyTH es proporcionar información sobre los viajes turísticos de los residentes de Argentina hacia dentro y fuera del país: cuándo viajan, hacia dónde viajan, qué medios de transporte utilizan, dónde se alojan, cuáles son los motivos por los que viajan, cómo organizan sus viajes, qué actividades turísticas realizan, cuánto gastan, etc.
+
+Se trata de una encuesta a hogares, en la que se indaga por los viajes turísticos (viajes con pernocte y/o visitas de un día) realizados por todas las personas que componen el hogar a lugares ubicados fuera de su entorno habitual. El universo bajo a estudio abarca a hogares residentes en los aglomerados urbanos definidos para la Encuesta Permanente a Hogares del INDEC -EPH- (62% del total de la población argentina, aproximadamente), excluyendo de este modo a los residentes en ciudades medianas y pequeñas, en pueblos y en zonas rurales. En cambio, el análisis de los resultados por destino contempla a todas las ciudades o localidades del país.
+
+El diseño muestral de esta encuesta es probabilístico, y se encuadra en un diseño estratificado con selección sistemática al azar dentro de cada uno de los estratos. Los estratos están conformados por las regiones turísticas utilizadas habitualmente por el MINTURDEP. A nivel nacional, las estimaciones mensuales se realizan sobre una muestra de alrededor de 5 mil hogares, integrados por unas 16 mil personas. Dado que su marco muestral está constituido por los hogares que cuentan con teléfono fijo -es decir, por la guía telefónica- (la calibración de los factores de expansión toma como referencia la Encuesta Permanente de Hogares del INDEC, de modo de representar al total de la población de las grandes ciudades) es posible caracterizar tanto a los viajes y a los visitantes, como también estimar su volumen.
+
+Debido a que la encuesta fue diseñada para obtener resultados a niveles regionales, las estimaciones provinciales deben ser consideradas con cautela, pues en algunos casos la cantidad de hogares relevados en el aglomerado resulta escasa. Por otro lado, este estudio, en su versión actual[^encuestas_perfil-3], sólo indaga por el gasto total del viaje, sin distinguir entre la porción del gasto que corresponde al transporte y la parte gastada en bienes y servicios consumidos en el o los destinos del viaje.
+
+[^encuestas_perfil-3]: La versión actual se releva en forma continua desde inicios de 2012. En el año 2006 se realizó un relevamiento puntual mediante entrevistas presenciales, donde se indagó también por el gasto turístico desagregado en rubros.
+
+\
+\
+\
+
+\
+
+\
