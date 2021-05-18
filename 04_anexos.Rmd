@@ -1,0 +1,1426 @@
+# **Anexos** {-}
+
+Anexo 1. Formulario modelo CIT
+
+Anexo 2. Formulario modelo perfil
+
+Se considera VISITANTES a aquellas personas que no residen en la localidad  y se alojan allí (en cualquier tipo de alojamiento) o pasan al menos dos o tres horas en ella. Además de los residentes en la localidad y de los no residentes que se quedan menos de dos horas, se EXCLUYE (no debe encuestarse) a quienes cumplen al menos una de las siguientes condiciones:
+-Residen en una localidad cercana (hasta 20 kilómetros) -excepto si se aloja en Segunda Vivienda-
+-Visitan la localidad una o más veces a la semana -excepto si se aloja en Segunda Vivienda-
+-La duración de la estadía será superior a un año.
+-Viajan para ser contratados por una empresa o una institución del destino o son tripulantes de transporte de carga o pasajeros.
+ 
+El cuestionario aplica para todos los integrantes del grupo de viaje (personas que viajan juntas y comparten los gastos del viaje). 
+Una persona de 18 años o más oficiará de informante de las características y los gastos de todo el grupo de viaje.
+
+N° de Cuestionario:
+Hora: __ __/__ __
+Fecha: _ _/_ _/201__
+Día de la semana:
+Punto muestra:
+Encuestador:
+Supervisor:
+Editor:
+
+****BLOQUE A: RESIDENCIA, FRECUENCIA DE VISITA y MOTIVO**** 
+Detecta a quienes han empezado la encuesta, pero no son visitantes.
+
+OPCIÓN A DE RESIDENCIA
+A1.A. ¿Podría indicarme su lugar de residencia habitual? ESPONTANEA/RESP ÚNICA
+1 CABA
+2 Partidos GBA
+3 Interior BsAs
+4 Catamarca
+5 Córdoba
+6 Corrientes
+7 Chaco
+8 Chubut
+9 E Ríos
+10 Formosa
+11 Jujuy
+12 La Pampa
+13 La Rioja
+14 Mendoza
+15 Misiones
+16 Neuquén
+17 Río Negro
+18 Salta
+19 S Juan
+20 S Luis
+21 S Cruz
+22 Sta Fé
+23 S Estero
+24 T del Fuego
+25 Tucumán
+26 Bolivia
+27 Brasil
+28 Chile
+29 Paraguay
+30 Uruguay
+41 Venez
+31 Rest A Lat.
+32. EE.UU/Can
+33 Alemania
+34 España
+35 Francia
+36 G Bretaña
+37 Italia
+38 Rest Europa
+39 Asia
+40Rest mundo
+ 
+ 
+ 
+
+A1.B. Si reside en (provincia de destino) (código… en A.1): ¿En qué localidad reside? ESPONTANEA/RESP ÚNICA
+Localidad a 20km o menos de la ciudad de destino
+1
+→Finalizar (excepto Seg. Viv., consultar)
+Otras
+2
+→Especificar:
+
+
+
+OPCIÓN B DE RESIDENCIA
+A.1. ¿Podría indicarme su lugar de residencia habitual? ESPONTANEA/RESP ÚNICA
+Localidad de destino  
+1
+→
+FINALIZAR
+Localidad a 20 km o menos de la localidad de destino 
+2
+→
+FINALIZAR (excepto Seg. Viv., consultar)
+Localidad de la misma provincia a más de 20 km
+3
+→
+Especificar localidad:
+
+
+Otra provincia del país (a más de 20 km de la localidad)
+4
+→
+Especificar provincia:
+
+
+Otro país
+5
+→
+Especificar país:
+
+
+
+A.2. ¿Con qué frecuencia visita…? ESPONTANEA/RESP ÚNICA
+Una vez o más por semana
+1
+→FINALIZAR (excepto SV, consultar)
+Entre una y tres veces por mes
+2
+
+
+Más de una vez al año, pero menos de 1 vez por mes 
+3
+
+
+Una vez al año
+4
+
+
+Menos de una vez por año
+5
+
+
+Es la primera vez que visita
+6
+
+
+Ns/Nc
+99
+
+
+
+A.3. ¿Cuál es el PRINCIPAL motivo de su visita? ESPONTÁNEA/RESPUÉSTA ÚNICA
+Vacaciones/ocio/recreación
+
+
+10
+
+
+Visita a familiares o amigos
+
+
+20
+
+
+Negocios/Trabajo
+Congreso/conferencia/feria/exposición
+31
+
+
+Relación de empleo
+32
+→Finalizar
+Tripulación de tte. regular de carga/pasajeros
+33
+→Finalizar
+Otros negocios o trabajo
+34
+
+
+Estudios y formación
+
+
+40
+
+
+Tratamiento de salud
+
+
+50
+
+
+Religioso
+
+
+60
+
+
+Compras (bienes)
+
+
+70
+
+
+Otros. Especificar:..........................................
+98
+
+
+***BLOQUE B: CARACTERÍSTICAS DEL GRUPO DE VIAJE*** 
+Grupo de viaje: Visitantes que realizan juntos un viaje y comparten los gastos del mismo.
+
+B.1. ¿Cuántas personas integran el grupo del viaje que usted realiza a esta ciudad? ESPONTANEA.
+
+
+(Si viaja solo, pasar a B3)
+
+B.2. ¿Cuál es la relación que existe entre las personas que componen el grupo? ESP/MULTIPLE
+Pareja
+1
+Familia
+2
+Amigos
+3
+Otro
+98
+→Especificar:_____________________
+
+B.3.¿Forman parte de algún contingente, es decir, otras personas que estén realizando el mismo viaje que ustedes (traslado, alojamiento, etc.)?
+Si
+1
+No
+2
+
+OPCIÓN A DE EDAD y SEXO DE LOS VISITANTES
+
+B.4.A. Dentro del grupo de viaje, indicar cantidad de integrantes por sexo. 
+LA SUMA VARONES Y MUJERES DEBE SER IGUAL A LA CANTIDAD DE INTEGRANTES ESPECIFICADAS EN B1.
+Varones:
+Mujeres:
+
+B.4.B. Dentro del grupo de viaje, indicar cantidad de integrantes por rango de edad. 
+LA SUMA INTEGRANTES POR TRAMO ETARIO DEBE SER IGUAL A LA CANTIDAD DE INTEGRANTES ESPECIFICADAS EN B1.
+Menos de 18 años:
+18 a 29 años:
+30 a 39 años:
+40 a 49 años:
+50 a 64:
+65 o más:
+
+OPCIÓN B DE EDAD y SEXO DE LOS VISITANTES
+
+B.4. Dentro del grupo de viaje, indicar cantidad de integrantes por sexo y edad. 
+LA CANTIDAD DE INTEGRANTES DEL GRUPO DE VIAJE QUE DEBE SER IGUAL A LA CANTIDAD ESPECIFICADA EN B1.
+
+
+SEXO
+1. Varón
+2. Mujer
+EDAD (exacta)
+
+
+
+
+1
+
+
+
+
+2
+
+
+
+
+3
+
+
+
+
+4
+
+
+
+
+5
+
+
+
+
+6
+
+
+
+
+7
+
+
+
+
+8
+
+
+
+
+
+B.5. Si tuviera que definir los viajes que ustedes realizan durante todo un año, a cualquier destino, diría que LEER OPCIONES /RESP ÚNICA
+Viajan ocasionalmente (algunos años sí, otros no)
+1
+Realizan un viaje largo, de una semana o más, una vez al año (vacaciones)
+2
+Realizan un viaje largo de vacaciones, y algunas escapadas durante el año
+3
+Sólo realizan algunos viajes cortos o escapadas
+4
+Otras formas (NO LEER)
+98
+→Especificar:
+Ns/Nc (NO LEER)
+99
+
+B6. Entre ustedes, ¿quién alcanzó el máximo nivel de estudios? ¿Qué nivel? LEER /RESP ÚNICA
+Sin Estudios / Primaria Incompleta
+1
+Terciaria/Técnica incompleta
+5
+Primaria Completa
+2
+Terciaria/Técnica completa
+7
+Secundaria Incompleta
+3
+Universitaria incompleta
+6
+Secundaria Completa
+4
+Universidad completa o posgrado
+8
+
+
+Ns/Nc
+99
+
+***BLOQUE C: ESTADÍA, ALOJAMIENTO EN DESTINO Y TRANSPORTE (excursionistas)***
+
+C.1- ¿Pasaron o pasarán alguna noche alojados en …? 
+
+Sí  (pasar a C6)
+1
+No 
+2
+
+
+C2. En este viaje, ¿Se están alojando en alguna localidad o provienen desde su lugar de residencia?
+
+Se alojan en otra localidad
+1
+Proviene de su lugar de residencia (pasar C4.A)
+2
+
+
+C3. ¿En qué localidad se están alojando? ESP/RESP ÚNICA
+Localidad A
+1
+Localidad B
+2
+Localidad C
+3
+Localidad D
+4
+Otra Localidad
+98
+→Especificar:
+Ns/Nc
+99
+
+C.4.A. ¿Qué medio de transporte utilizaron para venir de (lugar de residencia/ver C3) a ...? ESP/MULTIPLE
+1
+Automóvil (o similar) particular
+2
+Automóvil alquilado  
+3
+Ómnibus de línea regular
+5
+Transporte Aéreo
+6
+Taxi o remís*
+7
+Otro. Especificar
+*No considerar para traslado dentro de localidad de origen o destino
+FILTRO: Si se alojan en otra localidad (C2=1), pasar a Bloque E
+
+C.4.B. ¿Cuánto estiman que gastarán en el viaje de ida y vuelta hasta aquí?
+Si viajan en automóvil propio o alquilado y no residen en la provincia (ver A1), considerar sólo gasto en combustible y peajes en la provincia (incluyendo en la localidad de residencia y en la de destino).
+No considerar el servicio de alquiler de automóvil o similar
+Si no pagaron con fondos propios de los visitantes pero tuvo costo, solicitar que estimen el mismo.
+Monto en $
+Ns/Nc Monto
+Incluido en PT
+$
+99
+97
+FILTRO: Si no residen en la provincia (ver A1) pasar a Bloque E
+
+C.5.A. Sin contar transporte o contratación de servicios por Internet u otro medio, en su lugar de residencia tuvieron gastos en alimentos y bebidas que consumieron en el viaje, en taxi o remís hasta la terminal/aeropuerto, alquiler de automóvil u otros gastos similares? ¿Cuánto gastaron?
+Si no pagaron con fondos propios de los visitantes, solicitar que estimen el mismo.
+Monto en $
+Ns/Nc Monto
+NADA /No tuvieron gastos
+$
+99
+98
+
+C.5.B. Y cuanto estiman que gastarán cuando regresen a su localidad, en taxi o remís hasta la terminal/aeropuerto, impresión de fotografías y otros gastos directamente relacionados a este viaje? 
+Si no pagarán con fondos propios de los visitantes, solicitar que estimen el mismo.
+Monto en $
+Ns/Nc Monto
+NADA/ No tendrán gastos
+$
+99
+98
+En TODOS los casos, pasar a Bloque E
+
+C.6. En total, ¿Cuántas noches pernoctarán en …?  
+____________ → (Si contesta más de un año, finalizar)
+
+
+
+
+C.7. ¿En qué tipo de alojamiento se alojan o tienen pensado alojarse en …? ESP/RESP ÚNICA
+Segunda vivienda→ (PASAR A BLOQUE D)
+1
+Residencial
+7
+
+
+Vivienda de flia o amigos→ (PASAR A BLOQUE D)
+2
+Hostel
+8
+
+
+Vivienda o departamento de alquiler (sin serv.)
+3
+Hostería
+9
+
+
+Camping
+4
+Apart hotel
+10
+→Cant. Estrellas: ____
+Estancia o casa rural
+5
+Hotel
+11
+→Cant. Estrellas: ____
+Cabaña o bungalow (con serv.)
+6
+Otros
+98
+→Especificar:...............
+
+C.8.A. ¿Cómo realizó la reserva del lugar donde se hospeda? ESP/RESP. ÚNICA
+Web 
+1
+Mail 
+2
+Telefónica
+3
+Otros
+→Especificar:__________________
+4
+No reservó
+5
+
+
+PASE A BLOQUE D
+
+C.8.B. Ud mencionó que realizó la reserva vía web, ¿me podría decir a través de qué sitio? ESP/RESP. ÚNICA
+Booking.com
+1
+
+
+Despegar.com
+2
+
+
+Web del hotel
+3
+
+
+XXXXXXX
+4
+
+
+Otros
+5
+Especificar:
+Ns/Nc
+99
+
+
+
+
+****BLOQUE D: RECORRIDO DEL VIAJE Y TRANSPORTE (turistas)****
+ SOLO A QUIENES PERNOCTAN EN EL DESTINO AL MENOS UNA NOCHE (C1=1)
+D.1.A. A esta localidad, ¿vinieron directo desde su lugar de residencia o durmieron previamente en alguna otra localidad?
+1
+Desde lugar de residencia (pase a D2.A)
+2
+Desde otra localidad (donde pernoctaron)
+
+D1.B. Durante este viaje, antes de llegar aquí, ¿En qué localidades se alojaron y cuántas noches pasaron en cada una de ellas? Anotar en orden
+Orden
+Destino
+Cant. de noches
+Localidad
+Provincia (sólo si distinta pcia)
+País (sólo si exterior)
+Código
+1
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+D1.C. Resumen encuestador (no indagar, responder en base a D1.B, sin considerar los destinos en el exterior). ¿La/s localidad/es donde pernoctó se ubican....
+1
+Sólo en esta provincia 
+2
+Sólo en otra provincia
+3
+En esta y en otra/s provincias
+
+D.2.A. ¿En qué medio de transporte vinieron desde (lugar de residencia / último destino en D1.B) a esta localidad?
+1
+Automóvil (o similar) particular
+2
+Automóvil alquilado  
+3
+Ómnibus de línea regular
+5
+Transporte Aéreo
+6
+Taxi o remís*
+7
+Otro. Especificar
+*No considerar para traslado dentro de localidad de origen o destino
+
+D.2.B. ¿Cuánto gastaron en este traslado?
+Si viajaron en automóvil propio o alquilado y no residen en la provincia (ver A1) o el último destino previo está en otra provincia (ver D.1.B) considerar sólo gasto en combustible y peajes en la provincia (incluyendo en la localidad de residencia).
+No considerar el servicio de alquiler de automóvil o similar.
+Si compraron pasajes de ida y vuelta y no pueden discriminar, anotar la mitad del gasto.
+Si no pagaron con fondos propios de los visitantes pero tuvo costo, solicitar que estimen el mismo.
+Monto en $
+Ns/Nc Monto
+Incluido en PT
+$
+99
+97
+FILTRO:
+Si no provienen de su lugar de residencia (D1.A=2) pasar a D.4.A.
+Si provienen de su lugar de residencia (D1.A=1) pero no residen en la provincia (ver A1) pasar a D.4.A.
+Si provienen de su lugar de residencia (D1.A=1) y residen en la provincia (ver A1) continuar en D3.
+
+D.3. Sin contar transporte o contratación de servicios por Internet u otro medio, en su lugar de residencia tuvieron gastos en alimentos y bebidas que consumieron en el viaje, en taxi o remís hasta la terminal/aeropuerto, alquiler de automóvil u otros gastos similares? ¿Cuánto gastaron?
+Si no pagarán con fondos propios de los visitantes, solicitar que estimen el mismo.
+Monto en $
+Ns/Nc Monto
+NADA /No tuvieron gastos
+$
+99
+98
+
+D.4.A. Y desde esta localidad, ¿regresarán directamente a su hogar o antes visitarán alguna otra localidad, quedándose a dormir allí?
+1
+Regresan lugar de residencia (pase a D5.A)
+2
+Pernoctarán en otra localidad
+
+D4.B. ¿En qué localidades se alojarán y aproximadamente cuántas noches pasarán en cada una de ellas?  Anotar en orden
+Orden
+Destino
+Cant. de noches
+Localidad
+Provincia (sólo si distinta pcia)
+País (sólo si exterior)
+Código
+1
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+D.5.A. ¿En qué medio de transporte irán desde esta localidad a (lugar de residencia / próximo destino en D4.B)?
+1
+Automóvil (o similar) particular
+2
+Automóvil alquilado  
+3
+Ómnibus de línea regular
+5
+Transporte Aéreo
+6
+Taxi o remís*
+7
+Otro. Especificar
+*No considerar para traslado dentro de localidad de origen o destino
+
+D.5.B. ¿Cuánto estiman que gastarán en ese traslado?
+Si viajarán en automóvil propio o alquilado y no residen en la provincia (ver A1) o el próximo destino está en otra provincia (ver D.4.B), considerar sólo gasto en combustible y peajes en la provincia (incluyendo esta localidad).
+No considerar el servicio de alquiler de automóvil o similar.
+Si compraron pasajes de ida y vuelta y no pueden discriminar, anotar la mitad del gasto.
+Si no pagaron con fondos propios de los visitantes pero tuvo costo, solicitar que estimen el mismo.
+Monto en $
+Ns/Nc Monto
+Incluido en PT
+$
+99
+97
+FILTRO:
+Si no regresan a su lugar de residencia (D4.A=2) pasar a D.7.A.
+Si regresan su lugar de residencia (D4.A=1) pero no residen en la provincia (ver A1) pasar a D.7.A.
+Si regresan su lugar de residencia (D4.A=1) y residen en la provincia (ver A1) continuar en D6.
+D.6. ¿Cuánto estiman que gastarán cuando regresen a su localidad, en taxi o remís hasta la terminal/aeropuerto, impresión de fotografías y otros gastos directamente relacionados al viaje? 
+Si no pagarán con fondos propios de los visitantes, solicitar que estimen el mismo.
+Monto en $
+Ns/Nc Monto
+NADA/ No tendrán gastos
+$
+99
+98
+
+D7.A. Durante el tiempo que pasen alojados en ....., visitarán otras localidades, sin dormir allí, pero pasando al menos dos o tres horas?
+1
+Si
+2
+No (pasar a Bloque E)
+
+D7. B. ¿Qué localidades visitarán durante su estadía en .....? 
+Localidad
+Provincia (sólo si distinta pcia)
+País (sólo si exterior)
+Código
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****BLOQUE E: PLANIFICACIÓN DEL VIAJE****
+
+E.1. Cuando usted estaba pensando en venir a ...., ¿tenía otros destinos alternativos en mente? 
+
+Sí 
+1
+No (pasar a E3)
+2
+
+
+
+E.2. ¿Qué otros destinos tenía en mente? ESP/ RESPUESTA MÚLTIPLE
+Lugar A
+1
+
+
+Lugar B
+2
+
+
+Lugar C
+3
+
+
+Lugar D
+4
+
+
+Otro lugar
+5
+Especificar:
+
+E.3. ¿Con cuánto tiempo planificó su viaje a …? ESP/ RESPUESTA ÚNICA.
+
+No planificó/ 
+El mismo día
+1
+Menos de una semana
+2
+Entre una sem. y un mes
+3
+Más de un mes y hasta 6 meses
+4
+Más de 6 meses
+5
+
+Ns/Nc
+
+9
+
+
+E.4. Antes de realizar el viaje, ¿ud. buscó información sobre … en algún medio?  →
+
+Sí 
+1
+No (pasar a F1)
+2
+
+
+E.5. ¿Cuáles fueron las fuentes o medios de consulta dónde buscó información de …? ESP./MÚLTIPLE.
+Páginas especial. de Internet 
+1
+Visitas previas
+6
+
+
+Diarios/Revistas
+2
+Vía pública
+7
+
+
+Ag. De turismo
+3
+En otros destinos
+8
+
+
+Casa de la provincia
+4
+Otros medios
+9
+→Especificar___________
+Flia/amigos
+5
+NS/NC
+99
+
+
+SI NO RESPONDIÓ "Internet" (Cod 1), PASAR a F1
+
+E.6. En qué sitios de internet buscó información sobre…? ESP./MÚLTIPLE.
+Sitio oficial de la provincia
+1
+
+
+Sitio B
+2
+
+
+Sitio C
+3
+
+
+Sitio D
+4
+
+
+Otro sitio
+5
+→Especificar:
+Ns/Nc
+99
+
+
+
+
+****BLOQUE F: PAQUETE TURÍSTICO****
+
+
+F.1-.¿Contrataron un paquete turístico para realizar este viaje? 
+1
+Si
+2
+No (pasar a Bloque G, pregunta G.2)
+
+F.2-  ¿A través de qué medio contrató el paquete turístico? ESPONTÁNEA/RESPUESTÁ ÚNICA
+Ag. de turismo
+1
+Mutual
+2
+Web
+3
+Otros: 
+→Esp________________
+4
+
+F.3- ¿Qué servicios incluyó el paquete turístico? LEER OPCIONES-MARCAR SI O NO EN CADA CASO
+
+
+Sí
+No
+1.Transporte internacional
+1
+2
+2.Transporte ida y vuelta (dentro del país)
+1
+2
+3.Alojamiento 
+1
+2
+4.Algunas comidas (aparte del desayuno) 
+1
+2
+5.Todas las comidas 
+1
+2
+6. Alquiler de automóvil o similar
+1
+2
+7.Transporte en destino (en la localidad)
+1
+2
+8.Excursiones/ espectáculos /Recreación
+1
+2
+9.Seguro de salud o asistencia al viajero 
+1
+2
+10.Otros. Especificar:..............................
+1
+2
+Filtro:
+Si no pernoctó en la localidad (C1=2) pasar a F6.
+Si pernoctó en la localidad (C1=1) y ésta fue el único destino del viaje (D1.A=1 y D4.A=1) pasar a F6.
+Si pernoctó en la localidad (C1=1) y ésta no fue el único destino del viaje (D1.A=2 y/o D4.A=2) continuar en F4.
+
+F.4- ¿Cuántas noches de alojamiento incluyó en total el paquete turístico? __ __ __
+
+F.5- ¿Cuántas noches de alojamiento en … incluyó el paquete turístico? __ __ __
+
+F.6- ¿Cuánto les costó en total el paquete turístico? 
+Si no lo pagaron con fondos propios de los visitantes, solicitar que estimen el mismo.
+Monto en $
+NS/NC
+$
+99
+
+****BLOQUE G: GASTOS DURANTE LA ESTADÍA EN LA LOCALIDAD ****
+-EN EL CASO DE QUIENES PERNOCTARON EN LA LOCALIDAD, SE DEBEN INCLUIR TAMBIÉN LOS GASTOS EFECTUADOS EN OTRAS LOCALIDADES VIISITADAS POR EL DÍA DURANTE EL TRANSCURSO DE LA ESTADÍA AQUÍ.
+-SI LOS GASTOS NO FUERON FINANCIADOS SÓLO CON FONDOS PROPIOS DE LOS VISITANTES, SOLICITAR QUE IGUALMENTE SE RESPONDA POR LOS GASTOS (Y, EN CASO QUE NO SE CONOZCAN CON EXACTITUD, QUE LOS ESTIMEN).
+-SI LA ESTADÍA O CUALQUIER OTRO SERVICIO LO CONTRATARON POR INTERNET O EN UNA AGENCIA DE VIAJES O SIMILAR FUERA DE LA LOCALIDAD, CONSIDERAR DE TODOS MODOS EL GASTO SI SE UTILIZÓ DURANTE LA ESTADÍA EN LA LOCALIDAD.
+-QUIENES CONTRATARON UN PAQUETE TURÍSTICO (PREGUNTAS G1, G1.A Y G1.B) DEBEN RESPONDER ÚNICAMENTE POR LOS GASTOS EN CONSUMOS NO INCLUIDOS EN EL PAQUETE.
+
+REALIZAR G1, G1A y G1B SOLO A QUIENES CONTRARON PAQUETE TURÍSTICO (F1=1)
+G.1. OPCIÓN A (PARA LOS ENCUESTADOS QUE NO ESTÁN FINALIZANDO EL VIAJE Y ARRIBARON EL MISMO DÍA DE LA REALIZACIÓN DE LA ENCUESTA O QUE NO PERNOCTAN EN LA LOCALIDAD) Y, por fuera de los gastos incluidos en el paquete turístico, ¿cuánto cree que gastará todo el grupo de viaje en el día de hoy en los siguientes conceptos? 
+G.1. OPCIÓN B (PARA LOS ENCUESTADOS QUE NO ESTÁN FINALIZANDO EL VIAJE Y NO ARRIBARON EL MISMO DÍA DE LA REALIZACIÓN DE LA ENCUESTA) Y, por fuera de los gastos incluidos en el paquete turístico, ¿cuánto gastó todo el grupo de viaje en el día de ayer en los siguientes conceptos? 
+G.1. OPCIÓN C (PARA LOS ENCUESTADOS QUE ESTÁN FINALIZANDO EL VIAJE) Y, por fuera de los gastos incluidos en el paquete turístico, ¿cuánto ha gastado todo el grupo de viaje en a lo largo de su estadía en… en los siguientes conceptos? 
+
+
+
+Monto en $
+NS/NC Monto
+Todo Incluido en PT
+No gastaron
+1. Alojamiento (SOLO OPCIÓN C)
+$
+99
+97
+98
+2.Alimentación 
+$
+99
+97
+98
+3.Transporte en destino (taxis, buses, etc.)
+$
+99
+97
+98
+4. Alquiler de automóvil (en destino) (SOLO OPCIÓN C)
+$
+99
+97
+98
+5.Excursiones/ Recreación/ Espectáculos
+$
+99
+97
+98
+6.Compra de artesanías o productos regionales
+$
+99
+97
+98
+7. Combustible (para movilidad en destino)
+$
+99
+97
+98
+8. Otros productos (bienes)
+$
+99
+97
+98
+9.Otros servicios
+$
+99
+97
+98
+10.Total
+$
+99
+97
+98
+FILTRO: Si no pernoctaron o no pernoctarán en la localidad (C.1=2) pasar a G.1.B
+
+G.1.A. Independientemente del paquete turístico ¿cuánto gastarán en alojamiento en toda su estadía en esta localidad? (SOLO OPCIÓN A o B)
+Monto en $
+NS/NC monto
+Todo Incluido en PT
+No usaron aloj. pago
+$
+99
+97
+98
+
+G.1.B. Durante su estadía en ..., ¿alquilaron o alquilarán un automóvil? ¿cuánto gastaron o estiman gastar? (SOLO OPCIÓN A o B)
+Monto en $
+NS/NC monto
+Alquilaron antes de llegar a la localidad
+Incluido en PT
+No alquilaron automóvil
+$
+99
+96
+97
+98
+FILTRO: EN TODOS LOS CASOS, PASAR A G.3
+
+REALIZAR G2, G2A y G2B SOLO A QUIENES NO CONTRARON PAQUETE TURÍSTICO (F1=2)
+G.2. OPCIÓN A (PARA LOS ENCUESTADOS QUE NO ESTÁN FINALIZANDO EL VIAJE Y ARRIBARON EL MISMO DÍA DE LA REALIZACIÓN DE LA ENCUESTA O QUE NO PERNOCTAN EN LA LOCALIDAD) ¿Cuánto cree que gastará todo el grupo de viaje en el día de hoy en los siguientes conceptos? 
+G.2. OPCIÓN B (PARA LOS ENCUESTADOS QUE NO ESTÁN FINALIZANDO EL VIAJE Y NO ARRIBARON EL MISMO DÍA DE LA REALIZACIÓN DE LA ENCUESTA) ¿Cuánto gastó todo el grupo de viaje en el día de ayer en los siguientes conceptos? 
+G.2. OPCIÓN C (PARA LOS ENCUESTADOS QUE ESTÁN FINALIZANDO EL VIAJE), ¿Cuánto ha gastado todo el grupo de viaje en a lo largo de su estadía en… en los siguientes conceptos? 
+
+
+Monto en $
+NS/NC Monto
+No gastaron
+1. Alojamiento (SOLO OPCIÓN C)
+$
+99
+98
+2.Alimentación 
+$
+99
+98
+3.Transporte en destino (taxis, buses, etc.)
+$
+99
+98
+4. Alquiler de automóvil (en destino) (SOLO OPCIÓN C)
+$
+99
+98
+5.Excursiones/ Recreación/ Espectáculos
+$
+99
+98
+6.Compra de artesanías o productos regionales
+$
+99
+98
+7. Combustible (para movilidad en destino)
+$
+99
+98
+8.Otros productos (bienes)
+$
+99
+98
+9.Otros servicios
+$
+99
+98
+10.Total
+$
+99
+98
+FILTRO: Si no pernoctaron o no pernoctarán en la localidad (C.1=2) pasar a G.2.B
+
+G.1.A. Independientemente del paquete turístico ¿cuánto gastarán en alojamiento en toda su estadía en esta localidad? (SOLO OPCIÓN A o B)
+Monto en $
+NS/NC monto
+No usaron aloj. pago
+$
+99
+98
+
+G.1.B. Durante su estadía en ..., ¿alquilaron o alquilarán un automóvil? ¿cuánto gastaron o estiman gastar? (SOLO OPCIÓN A o B)
+Monto en $
+NS/NC monto
+Alquilaron antes de llegar a la localidad
+Incluido en PT
+No alquilaron automóvil
+$
+99
+96
+97
+98
+G.3. Los gastos realizados durante la estadía en ... fueron financiados con recursos propios en forma total, en forma parcial o todos los gastos fueron financiado por empresas, instituciones u otras personas? RESP. UNICA
+
+Pagaron todo
+1
+Pagaron parte
+2
+No pagaron nada
+3
+NS/NC
+4
+
+****BLOQUE H: ACTIVIDADES REALIZADAS EN LA LOCALIDAD DE DESTINO****
+
+H.1. Durante su estadía en esta localidad, tanto aquí como en los otros lugares que visitó, dígame por favor si realizaron las siguientes actividades: LEER ACTIVIDADES-MARCAR SI O NO EN CADA CASO
+Cod
+Actividad
+SI
+NO
+1
+A
+1
+2
+2
+B
+1
+2
+3
+C
+1
+2
+4
+D
+1
+2
+5
+E
+1
+2
+6
+F
+1
+2
+7
+G
+1
+2
+8
+H
+1
+2
+9
+I
+1
+2
+10
+J
+1
+2
+
+
+****BLOQUE I: EVALUACIÓN DE LA LOCALIDAD****
+
+I.1. A continuación, le voy a pedir que me indique qué tan conforme se encuentra con diferentes cuestiones. Considerando una escala de muy bueno, bueno, malo y muy malo, ¿cómo evaluaría los siguientes aspectos? LEER ÍTEMS-MARCAR UNA RESPUESTA EN CADA CASO
+
+
+MUY BUENO
+BUENO
+REGULAR
+(no leer)
+MALO
+MUY MALO
+NO USÓ (no leer)
+NS/NC (no leer)
+Hotelería / Alojamiento
+5
+4
+3
+2
+1
+97
+99
+Restaurantes / oferta gastronómica
+5
+4
+3
+2
+1
+97
+99
+Información para el turista
+5
+4
+3
+2
+1
+97
+99
+Servicios de salud / emergencias
+5
+4
+3
+2
+1
+97
+99
+Limpieza de los lugares que visitó
+5
+4
+3
+2
+1
+97
+99
+Seguridad
+5
+4
+3
+2
+1
+97
+99
+Conservación de la naturaleza
+5
+4
+3
+2
+1
+97
+99
+Oferta de excursiones y paseos
+5
+4
+3
+2
+1
+
+
+99
+Calidad de excursiones y paseos
+5
+4
+3
+2
+1
+
+
+99
+Seguridad
+5
+4
+3
+2
+1
+
+
+99
+Sistema de señalización en rutas
+5
+4
+3
+2
+1
+
+
+99
+Calidad de sus rutas
+5
+4
+3
+2
+1
+
+
+99
+Facilidad de Acceso | accesibilidad
+5
+4
+3
+2
+1
+
+
+99
+
+I.2. Y, en términos generales, si tuviera que calificar su estadía en la localidad de … diría que fue muy buena, buena, mala o muy mala? RESPUESTÁ ÚNICA
+
+Muy buena
+1
+Buena
+2
+Regular
+3
+Mala
+4
+Muy mala
+5
+Ns/Nc
+99
+I.3. Hablando ahora del clima, de acuerdo a sus expectativas, … diría que fue muy bueno, bueno, malo o muy malo? RESPUESTÁ ÚNICA
+
+Muy buena
+1
+Buena
+2
+Regular
+3
+Mala
+4
+Muy mala
+5
+Ns/Nc
+99
+I.4.A. ¿Volvería a visitar …? 
+Sí (pasar a I.5)
+1
+No 
+2
+
+
+
+I.4.B. ¿Por qué no volvería a visitar…? ESP./RESP MÚLTIPLE.
+OPCIÓN A
+1
+
+
+OPCIÓN B
+2
+
+
+OPCIÓN C
+3
+
+
+OPCION D
+4
+
+
+OTRAS
+5
+→Especificar:
+
+I.5. ¿Qué fue lo que más le gustó de…? ESP./RESP MÚLTIPLE.
+OPCIÓN A
+1
+
+
+OPCIÓN B
+2
+
+
+OPCIÓN C
+3
+
+
+NADA
+4
+
+
+OTRAS
+5
+→Especificar:
+
+
+SOLO PARA LOS QUE VISITARON OTRAS LOCALIDADES DE LA MISMA PROVINCIA (D1.C=1 ó 3)
+I.6. Ahora, comparando la localidad de … con las localidades que visitó en esta provincia en este viaje, a nivel general, usted diría que… es… LEER OPCIONES.
+
+Mucho peor
+1
+Peor
+2
+Ni mejor ni peor (no leer)
+3
+Mejor
+4
+Mucho mejor
+5
+Ns/Nc
+(no leer)
+99
+SOLO PARA LOS QUE VISITARON OTRAS PROVINCIAS (D1.C=2 ó 3)
+I.7. Comparando la localidad de … con las localidades que visitó en otras provincias en este viaje, a nivel general, usted diría que… es… LEER OPCIONES.
+
+Mucho peor
+1
+Peor
+2
+Ni mejor ni peor (no leer)
+3
+Mejor
+4
+Mucho mejor
+5
+Ns/Nc
+(no leer)
+99
+MUCHAS GRACIAS POR SU RESPUESTA
+
+OBSERVACIONES (Completar sólo si es necesario, con información que complemente o aclare donde sea necesario. Indicar número de pregunta al que se refiere la observación) 
+................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
