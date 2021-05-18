@@ -10,7 +10,11 @@ Por otra parte, en general suele existir la inquietud por relevar de modo contin
 
 Una investigación surge por la inquietud o por la necesidad de conocer una parte de la realidad, y se materializa por medio de un proceso que, basado en el estado del arte[^propuestas_metodologicas-1], plantea un conjunto de definiciones conceptuales y reglas metodológicas que permiten recortar con claridad el objeto de estudio y su modo de abordaje, con el fin de dar respuesta a una serie de aspectos concretos del tema en cuestión.
 
-[^propuestas_metodologicas-1]: El conocimiento del estado del arte implica tanto la revisión crítica de los conceptos usuales que abordan la temática (en este caso, este lugar es ocupado, por ejemplo, por las Recomendaciones Internacionales de Estadística de Turismo -RIET- de la OMT, cuya última versión data del año 2008; por el marco normativo que regula la actividad turística en cada contexto específico; y también por una serie de herramientas técnicas, como las que aporta la teoría del muestreo) como de las experiencias concretas (propias, pero también de otros organismos, de otros niveles de gobierno e incluso de otros países), lo cual permite conocer previamente qué tipo de problemas plantea un estudio de este tipo y reflexionar acerca del modo más eficiente de abordarlos.
+[^propuestas_metodologicas-1]: | Estadía promedio       | 72/11=    | **6,5** |
+    |------------------------|-----------|---------|
+    | Gasto diario promedio  | 21000/72= | **292** |
+
+    e las experiencias concretas (propias, pero también de otros organismos, de otros niveles de gobierno e incluso de otros países), lo cual permite conocer previamente qué tipo de problemas plantea un estudio de este tipo y reflexionar acerca del modo más eficiente de abordarlos.
 
 Por ello, un primer paso fundamental en una investigación radica en definir con claridad sus objetivos. Plasmar los objetivos de una investigación constituye el momento en que se recorta el objeto de estudio y se formulan concretamente los propósitos de la investigación y su alcance (explorar, describir, explicar, etc.). Estos objetivos deben ser acordes al marco conceptual y posibles de abordar, desde el punto de vista lógico, a partir de la metodología propuesta. 
 
@@ -839,10 +843,556 @@ En cualquier caso, la manera incorrecta de proceder consistiría en indagar por 
 
 -   En el caso de estudios con alcance provincial, por un lado se debe **procurar conocer el peso relativo de cada localidad o destino en el total**, mientras que por otro lado se debe prestar especial atención a los visitantes que realizan viajes multidestino, de modo tal de evitar contar varias veces a un mismo visitante.
 
-## **El cuestionario y las variables** 
+## **El cuestionario y las variables**
 
 ### **Aspectos generales**
 
 En líneas generales, los cuestionarios o formularios de entrevista aplicados en las distintas provincias muestran contenidos similares, aunque emplean distintas formas de indagar sobre cuestiones similares, lo cual introduce problemas de comparabilidad en los resultados.
 
+A la hora de diseñar formularios, es importante tomar en cuenta algunos puntos clave:
+
+-   En primer lugar, **reflejar y priorizar los objetivos de la investigación**. Si bien puede parecer obvio, en no pocos casos suelen incluirse más preguntas de las necesarias para cubrir los objetivos propuestos, o bien, a la inversa, no se abordan cabalmente estos objetivos con las preguntas incluidas en el cuestionario. En este sentido, es preciso fijar objetivos de investigación claros y priorizarlos, e ir derivando de ellos las preguntas que conformarán el cuestionario del modo más eficaz, es decir, procurando cubrir estos objetivos con la menor cantidad de preguntas posible. 
+
+-   **Reflejar plenamente las variables disponibles en el marco muestral**, en particular las empleadas para la estratificación. Si se dispone de un marco muestral con variables sobre la población general (por ejemplo, la residencia y la edad de los visitantes a un parque nacional), es clave que estas preguntas estén incluidas en el formulario, dado que permiten medir cuánto se acerca la estructura relevada en la muestra a la estructura existente en el marco muestral. Si ambas estructuras son diferentes, esto permite calibrar la muestra de forma de mejorar su calidad. 
+
+-   **Tomar en cuenta el momento del viaje en el que se aplica el cuestionario**. No es lo mismo un diseño que plantee entrevistar a los visitantes cerca de su arribo a un destino (por ejemplo, las encuestas en CIT), que promediando su estadía o finalizándola (por ej. en las terminales de transporte). Cierto caudal de información básica podrá ser brindado en cualquier momento (motivo, transporte, alojamiento, etc.), pero otras preguntas, como la calificación de los servicios o, especialmente, las ligadas al gasto ameritan que haya transcurrido buena parte de la estadía en destino.
+
+-   **Definir operacionalmente las preguntas de modo que su redacción sea simple y que el encuestado pueda comprenderlas fácilmente, y lo mismo aplica para las categorías de respuesta.** En la sección siguiente se abordan estas cuestiones con mayor detalle.
+
+-   Eventualmente, **distinguir claramente cuando las preguntas refieren al grupo de viaje o a un visitante individualmente**. Si la pregunta refiere a algún aspecto subjetivo y es dirigida al grupo de viaje, su redacción lo debe dejar bien establecido.
+
+-   En los estudios de alcance provincial, **debe quedar claro cuándo la pregunta se dirige a la estadía en la localidad y cuándo a toda la provincia**.
+
+-   **Acompañar los formularios con manuales o guías para los encuestadores**, de modo tal que comprendan cabalmente qué es lo que se procura medir con cada pregunta y a la vez dotarlos de recursos que les permitan plasmar correctamente situaciones que escapan a lo común.
+
+-   **Evitar el cansancio de los encuestados**. Los formularios demasiado largos cansan al encuestado, que comienza a responder con cada vez menos atención. Como regla general, la entrevista no debería exceder los 10 minutos de duración. 
+
+-   Disponer de versiones en inglés (u otros idiomas) de los formularios (y personal capacitado), sobre todo en zonas de alta preeminencia de turismo internacional.
+
+### **Las variables**
+
+Formalmente, una **variable** es una propiedad o atributo de las unidades de análisis, que asume distintos valores. Pero esa propiedad o atributo no existe per se, sino que es una construcción en el marco de una teoría o marco conceptual. Esto tiene diversas implicancias.
+
+Una variable es un concepto y, como tal, puede tener una acepción diferente a la que el sentido común le otorga a esa palabra (si existe) o bien puede no ser comprendido por el entrevistado o bien puede ser interpretada de forma diferente por los distintos entrevistados. Por tanto, para medir una variable es preciso realizar un proceso que la transforme en algo medible. Ese proceso se denomina **operacionalización** e implica el pasaje desde una definición nominal o conceptual a una definición operacional o medible. A su vez, esa operacionalización puede implicar que un único concepto requiera de una o más preguntas en el cuestionario para su efectiva medición. La o las preguntas deben ser sencillas y de entendimiento intuitivo para el entrevistado, de modo que su respuesta obedezca realmente a la información que se pretende obtener.\
+
+Por ejemplo, el entorno habitual es una variable con un alto nivel de abstracción, cuya definición indica que "es la zona geográfica donde se ubica su residencia habitual y, además de ésta, las zonas geográficas en las que se desenvuelve cotidianamente (ya sea por trabajo, estudio u otras actividades regulares)". Claramente, si al encuestado se le pregunta, sin más, si en su viaje salió de su entorno habitual, más que probablemente no se obtenga la respuesta deseada.
+
+Si se avanza un paso más y se le plantea la definición conceptual, la respuesta obtenida no será comparable con la de otros entrevistados, pues no todos considerarán un espacio similar a la hora de pensar en "la zona geográfica cercana", del mismo modo que no todos entenderán lo mismo por zona no cercana en la que se "desenvuelve cotidianamente".
+
+Por tanto, es preciso establecer una definición operacional concreta y clara, que permita obtener respuestas comparables y ligadas al objetivo planteado. En el ejemplo, podría plantearse entonces que se considera que un destino está fuera del entorno habitual si se ubica a más de una determinada distancia (por ej., 20 kilómetros) del lugar de residencia y si, además, es visitado con una frecuencia menor a una vez por semana. Lógicamente, esta definición operacional precisará, para no confundir al entrevistado, de al menos dos preguntas, una relativa a la distancia entre su lugar de residencia y el destino, y otra relativa a la frecuencia con la que visita el destino.
+
+Para que los valores de una variable sean comparables entre dos estudios realizados en diferentes momentos del tiempo o bien entre estudios aplicados a diferentes lugares, es precondición necesaria que se parta de una **misma definición conceptual**. 
+
+En lo que hace a los estudios de caracterización de la demanda turística, una primera e ineludible pauta para lograr esto es partir del marco conceptual, que en las estadísticas de turismo se encuentra en las **Recomendaciones Internacionales de la OMT**. Allí pueden encontrarse elementos para la construcción conceptual de las variables más relevantes y/o comunes (alojamiento, transporte, motivo, paquete turístico, duración, gasto, etc.).
+
+No obstante, muchas variables que pueden ser relevantes (recorrido del viaje, calificación de los servicios, etc.) no aparecen desarrolladas allí, al menos con detalle, por lo que es necesario producir definiciones comunes y comparables para ser aplicadas en todo el país.
+
 \
+**La definición operacional de las variables se revela también como un punto crucial para garantizar la comparabilidad de la información**, y a la vez existen menos elementos estandarizados para plantear soluciones. En este punto, cabe consignar que las preguntas que se deriven de la operacionalización pueden diferir en su construcción, siempre y cuando permitan llegar al mismo resultado, desde el punto de vista lógico.
+
+Ligado a esto, una variable deberá contar con un **sistema de categorías,** que son los atributos o valores que puede asumir la variable para las diferentes unidades de análisis. Un sistema de categorías debe cumplir las siguientes pautas:
+
+-   **Pertinencia teórica**: Las categorías deben estar lógicamente relacionadas con la pregunta formulada. Por ejemplo, si se realiza la siguiente pregunta: "¿Les gustó la comida típica del lugar", las categorías deben ser "Si" y "No", y no "Muy bueno", "Bueno", "Regular", etc.
+
+-   **Exclusividad**: Implica la definición unívoca de cada categoría, es decir, que cada respuesta obtenida sólo pueda ser englobada en una categoría. Por ejemplo, si se indaga por el tramo de edad y las opciones son "Hasta 18 años" y "18 años o más", una persona de 18 años podría ser ubicada en cualquiera de las dos categorías.
+
+-   **Exhaustividad**: Todas las respuestas posibles deben estar contenidas en el sistema de categorías. Por ejemplo, si se indaga por el alojamiento utilizado, no podrían establecerse como opciones de respuesta únicamente "Hotel" y "Camping", pues una parte de los turistas se pudo haber alojado en vivienda de familiares o amigos, segundas viviendas, casas o departamentos de alquiler, etc.
+
+Nuevamente, **es preciso que los sistemas de categorías de las variables sean comparables entre sí**. Ello no implica que deban ser exactamente iguales, pero sí deben ser equivalentes en determinado punto. Por ejemplo, ciertos destinos, como Bariloche o Carlos Paz, podrían considerar relevante presentar por separado el motivo "Viaje de egresados", que constituye un subtipo del motivo "Ocio, recreación, esparcimiento", mientras que en otros lugares esto no sería necesario y, eventualmente, de surgir algún caso con este motivo, sería incluido en la categoría general de "Ocio, recreación, esparcimiento". Como puede observarse, esto no afecta la comparabilidad, pues al momento de comparar la preeminencia de los viajes por ocio, simplemente sería suficiente con que las dos localidades mencionadas agreguen en una misma categoría tanto a los visitantes que han viajado por motivo de su viaje de egresados como a los que lo han hecho por otras razones ligadas al ocio o esparcimiento. Esto no debería constituir una salvedad, sino que incluso, en vistas de la necesidad de armonizar las estadísticas provinciales y locales, **es recomendable partir de sistemas de categorías comparables a un determinado nivel con bajo nivel de apertura, a partir del cual cada destino pueda desagregar aquellas cuestiones que considera relevantes**[^propuestas_metodologicas-82].\
+
+[^propuestas_metodologicas-82]: Esto es especialmente aplicable a lo referido a una variable crucial como el tipo de alojamiento utilizado, donde la variabilidad que se encuentra en los distintos destinos del país es muy alta.
+
+No obstante, es preciso remarcar que un sistema de categorías, en atención a los requisitos planteados, pero también al contexto de la entrevista y al tamaño de la muestra, debe **presentar un nivel de apertura razonable**. Por un lado, si el tipo de pregunta indica que las opciones de respuesta deben ser leídas al entrevistado (preguntas de respuesta **guiada**), un listado largo probablemente resulte cansador y genere un déficit de atención en el entrevistado que lo lleve a responder incorrectamente, mientras que del lado de quien aplica la encuesta puede haber errores en el registro de la opción indicada por el encuestado. Por otra parte, las más de las veces la inclusión de largos listados resulta una carga de trabajo inútil, pues los resultados obtenidos para las categorías con mayor prevalencia carecerán de una mínima robustez estadística. Por lo general, si bien esto dependerá del tamaño de cada muestra, categorías cuya participación en el total de respuesta sea inferior al 3% o bien correspondan a menos de 25 casos estarán sometidas a un nivel de error estadístico muy grande que harán inviable su comparación entre distintos grupos o bien a lo largo del tiempo. En este punto, la inclusión de la categoría "Otros", donde registrar los casos no especificados en las categorías listadas, siempre resulta de utilidad (y, además, garantiza la exhaustividad del sistema de categorías).
+
+Finalmente, cabe hacer mención a la "**no respuesta**". Esto puede deberse o bien al desconocimiento del entrevistado o bien a su negativa a responder una determinada pregunta (diferencia que al menos en algunas preguntas, y de ser posible, es conveniente registrar). Si bien siempre el dispositivo de carga de la información debe contemplar esta situación, no es recomendable incluir en el formulario esta opción (excepto que ello suceda en preguntas como el gasto, donde es esperable cierto nivel de no respuesta), pues el entrevistador podría verse tentado a señalar dicha opción en lugar de profundizar la indagación hasta obtener una respuesta válida[^propuestas_metodologicas-83].
+
+[^propuestas_metodologicas-83]: No obstante, sí es imprescindible que en el programa de carga se estipule la forma de registrar (e identificar posteriormente) la no respuesta o la ausencia de información.
+
+**Tipos de variables**
+
+Existen diversas formas de clasificar a las variables, de las que aquí se posará la atención sobre dos: a) su nivel de medición y b) su lugar en el marco teórico o en la hipótesis en que subyace su inclusión en la investigación.
+
+En primer lugar, las variables se pueden clasificar en tres tipos de acuerdo a su **nivel de medición**:
+
+-   **Nominales:** Presentan opciones de respuesta que distinguen o clasifican a los casos pero que no permiten establecer un orden entre ellos. Por ejemplo, motivo del viaje, tipo de alojamiento, sexo, etc.
+
+-   **Ordinales:** Presentan opciones de respuesta que no solo diferencian entre casos (como las nominales) sino que permiten ordenarlos. Por ejemplo, cuando se indaga  si la calificación de un servicio turístico es buena, mala o regular.
+
+-   **Numéricas** (o intervalares, de escala, etc.): No sólo diferencian entre casos y permiten ordenar las respuestas (como las ordinales) sino que indican cuál es la distancia entre las diferentes respuestas, ya que al expresarse en números, permiten realizar operaciones aritméticas. Por ejemplo, cantidad de noches de estadía, monto del gasto turístico, etc[^propuestas_metodologicas-84].
+
+[^propuestas_metodologicas-84]: Las variables numéricas a su vez pueden distinguirse entre **discretas**, cuando no admitan valores intermedios entre números enteros (por ejemplo, cantidad de integrantes del hogar, noches de estadía en el destino, etc.) y **continuas**, cuando admiten valores intermedios entre números enteros (por ejemplo, el gasto si se indaga con decimales).
+
+Las variables nominales y ordinales se consideran variables **cualitativas**, mientras que a las variables numéricas se las clasifica también como variables **cuantitativas**.
+
+En cuanto al **rol de las variables**, más allá de la información que aportan individualmente (en un análisis univariado o de distribución de frecuencias, que permite conocer cómo se distribuye la población bajo estudio de acuerdo a las categorías planteadas para la misma), es preciso destacar que en los cruces o **análisis bivariados** pueden distinguirse aquellas que cumplen el rol de variables **dependientes** y las que ocupan el papel de variables **independientes**, es decir que, de acuerdo a la hipótesis planteada explicarían el comportamiento de las variables independientes. Por ejemplo, cuando se analiza el gasto promedio diario por lugar de residencia del turista, se presume que esta última tiene cierta influencia sobre el nivel del gasto turístico. Claro que esta clasificación no es rígida y el rol de cada variable se define de acuerdo al cruce analítico planteado.
+
+**Tipos de preguntas**
+
+Cabe destacar que, en aras de garantizar la comparabilidad de los resultados de un mismo estudio, es de vital importancia tanto que todos los encuestadores **formulen las preguntas tal como figuran en el cuestionario** como que tengan bien claro el **modo en que debe administrarse la pregunta** (por ejemplo, leyendo o no las opciones) y el **modo de señalar la respuesta**, lo cual debe estar indicado inequívocamente en el cuestionario.
+
+Las preguntas pueden ser clasificadas de acuerdo al **tipo de respuesta esperada**.
+
+Una primera distinción puede establecerse entre las **preguntas cerradas**, cuando las opciones de respuesta se encuentran definidas y son leídas al encuestado (o bien en el enunciado de la pregunta o bien a continuación), como las **preguntas abiertas o espontáneas**, donde sólo se formula la pregunta y se espera una respuesta del entrevistado. Entre las últimas cabe distinguir entre las preguntas donde se indaga por un valor numérico (cantidad de noches de estadía, integrantes del grupo de viaje) de aquellas en las que se indaga una respuesta de otro tipo (¿Qué fue lo que más le gustó de esta localidad?)[^propuestas_metodologicas-85].
+
+[^propuestas_metodologicas-85]: En estos casos, no implica que el cuestionario no pueda tener un conjunto de opciones listadas, obtenidas a partir de experiencias previas (sólo que estas no deben ser leídas). Esto es recomendable pues facilita el trabajo del encuestador (que se evita transcribir la respuesta obtenida), como en instancias posteriores, donde la codificación de este tipo de preguntas suele insumir mucho tiempo.
+
+Por otro lado, las preguntas se pueden clasificar en **simples**, cuando se espera una sola respuesta, o **múltiples**, cuando se admita más de una opción de respuesta. 
+
+Si bien el tipo de pregunta debe definirse de acuerdo al objetivo con que cada pregunta fue incluida en el cuestionario, vale remarcar que siempre debe buscarse la simplicidad, tanto en lo que implica la situación de la entrevista como en el tratamiento posterior de la información. Así, como criterio general, salvo que sea realmente necesario o útil, es preferible utilizar preguntas cerradas en lugar de preguntas abiertas (excepto cuando se releven cantidades) y preguntas de opción simple a preguntas de opción múltiple.
+
+### **Las preguntas**
+
+Cada encuesta de caracterización de la demanda tiene sus propios objetivos y con ello sus particularidades, aún cuando existe un conjunto común de preguntas presentes en (casi) todas las investigaciones.
+
+En el **Anexo** se presentan **dos cuestionarios**. Cabe señalar que, en ambos casos, se trata de versiones genéricas, que pueden servir como base, pero no son directamente aplicables a ningún contexto específico.
+
+El primero de ellos corresponde a una propuesta relativa a la metodología de medición de la **caracterización de la demanda turística en los CIT**, comentada en secciones anteriores. Se trata de registrar información muy básica sobre las características de todas las personas (y sus grupos de viaje) que concurran a los CIT y, a una muestra de ellos (uno de cada tres, en el ejemplo), aplicar un breve cuestionario ligado a lo que es posible obtener en ese tipo de estudios, donde, por un lado, no corresponde desviar de su tarea principal, por un tiempo excesivo, a quienes trabajan en el CIT (que lógicamente cumplirían el rol de encuestador) y donde, por otro lado, lo usual es que quienes concurran a los CIT lo hagan al inicio de su estadía en el destino.
+
+El segundo cuestionario corresponde a un **formulario típico de encuestas de perfil del visitante**. Su construcción se basa en una revisión exhaustiva de los formularios aplicados por las instituciones provinciales y municipales de turismo, y se ha procurado allí dar cuenta de la mayoría de los elementos relevados. A continuación se comentarán brevemente algunos aspectos de este formulario.
+
+En primer lugar, vale remarcar que se trata de un cuestionario genérico, que releva información sobre casi todas las dimensiones que pueden considerarse relevantes. Sobre esa base, cada provincia o municipio podría hacer su propia selección, en función de los objetivos e intereses particulares, para la construcción del formulario específico a aplicar. Obviamente, puede incluirse toda aquella información relevante que aquí no se ha considerado.
+
+Adicionalmente, en algunos casos, se proponen formas alternativas de relevar un mismo tipo de información, de modo tal de escoger aquella que se adapte más al objetivo del estudio y al momento en que se releva la encuesta en cada caso particular.
+
+\
+Cabe indicar que este formulario fue elaborado desde un enfoque provincial. Si bien obviamente será aplicado en localidades específicas (seleccionadas en el marco del armado de una muestra de alcance provincial), las preguntas permiten reconstruir el recorrido del viaje y distinguir no sólo entre formas de turismo (visitantes residentes en la provincia, en el resto del país y en el exterior) y tipo de visitante (turista o excursionista), sino también establecer si se trata de un viaje de destino único (la localidad de referencia) o de un viaje multidestino (de los cuales uno es la localidad de referencia) y, en este caso, si la localidad constituye el primer destino, el último destino o un destino intermedio. Esto es fundamental para evitar duplicaciones en la contabilización de los visitantes (contar dos veces a quien en un mismo viaje visita dos destinos) y, fundamentalmente, en la contabilización de su gasto turístico. Con este fin, se indaga por el gasto realizado durante la estadía en la localidad (por los consumos efectuados allí pero también en otros lugares mientras se alojó en esa localidad), y el mismo criterio se sigue para las actividades turísticas.
+
+El formulario se estructura en bloques, que refieren a diferentes dimensiones.
+
+1.  El primer bloque indaga por el lugar de residencia, la frecuencia de visita al destino y el motivo de viaje. Más allá del valor intrínseco de esta información, cabe señalar que en ellas se operacionaliza una definición de entorno habitual y se detecta a quienes son empleados en una unidad económica del destino o tripulantes de transporte regular, que, junto a quienes viajan a lugares dentro de su entorno habitual[^propuestas_metodologicas-86], no son considerados visitantes[^propuestas_metodologicas-87]. Además, conocer el lugar de residencia permite clasificar a los visitantes por forma de turismo (interno, receptivo doméstico, receptivo internacional).
+
+2.  Posteriormente se indaga por el tamaño y la composición del grupo de viaje. Como se ha marcado largamente hasta aquí, conocer la cantidad de visitantes que conforman el grupo de viaje es crucial, puesto que aunque la estrategia metodológica sugerida selecciona y encuesta grupos, las unidades de análisis (aquellas sobre las que se calcularán los resultados) son los visitantes. Además, se registra información sobre la relación entre los integrantes del grupo, sobre su composición por edad y sexo, sobre su comportamiento turístico habitual y sobre el máximo nivel educativo alcanzado por la persona con más estudios entre quienes lo integran[^propuestas_metodologicas-88].
+
+3.  El siguiente bloque indaga por si pernoctan o no en el destino. En el caso de quienes no pernoctan (excursionistas) se diferencia entre quienes provienen de su localidad de residencia (excursionistas "puros") de quienes se encuentran alojados en otra localidad y van a pasar el día a la localidad de referencia[^propuestas_metodologicas-89]. Además de indagar sobre el medio de transporte y el gasto del traslado hacia la localidad, en el caso de los excursionistas "puros" residentes en la provincia se releva información sobre los gastos del viaje realizados en su lugar de residencia. En cambio, en el caso de los turistas este bloque releva la duración de la estadía en la localidad (lo cual permite señalar a quienes no son visitantes, cuando la estadía sea superior al año) y el tipo de alojamiento utilizado.
+
+4.  A continuación, únicamente para los turistas, se pregunta por el recorrido del viaje, es decir, por otros destinos (países, provincias y/u otras localidades de la provincia) que el grupo de viaje haya visitado o vaya a visitar (pernoctando allí) durante el viaje sobre el que se está indagando. Esto aporta vital información para reconstruir los circuitos en los que se integra la localidad, a la vez que, si el mismo formulario se aplicara en otros destinos de la provincia, permitiría conocer los efectos de la duplicación de los viajes multidestino y estimar resultados válidos (sin este sesgo) para toda la jurisdicción. Además, se solicita información sobre las localidades visitadas por el día durante el tiempo que permanecen alojados en la localidad. Aquí también se indaga por el medio de transporte utilizado tanto para la llegada como para la salida de la localidad (desde o hacia el lugar de residencia o al destino con pernocte anterior o posterior) y, cuando provengan y/o regresen a su lugar de origen y sean residentes en la provincia, por los gastos relativos al viaje realizados en la localidad de destino.
+
+5.  Posteriormente, se indaga por aspectos ligados a la planificación del viaje y a las fuentes de consulta de información previa sobre el destino.
+
+6.  Luego, la indagación se centra en la contratación de paquete turístico y, en caso afirmativo, en su costo, en los servicios que incluye y en el lugar en que fue adquirido.
+
+7.  El siguiente bloque releva el gasto turístico durante la estadía en la localidad de referencia, pero incluyendo los gastos en localidades visitadas por el día en ese lapso (por tanto, se excluye el transporte desde y hacia destino, el paquete turístico y los gastos en la localidad de origen para los residentes en la misma provincia, cuestiones sobre las que se indaga en bloques anteriores), con un amplio nivel de desagregación y en forma diferenciada según se haya contratado o no un paquete turístico. Esto será abordado en detalle en la sección siguiente.
+
+8.  El bloque venidero propone examinar sobre la realización de un conjunto de actividades turísticas durante la estadía en la localidad, tanto allí como en otros destinos visitados por el día.
+
+9.  Finalmente, se realiza una serie de preguntas tendientes a conocer la evaluación que los visitantes hacen sobre el destino, tanto en términos generales como para los principales servicios ligados a la actividad turística.
+
+[^propuestas_metodologicas-86]: Cabe recordar que, por definición, los viajes a segundas viviendas son viajes turísticos, independientemente de la distancia recorrida y la frecuencia de visita.
+
+[^propuestas_metodologicas-87]: En ciertos casos, la participación de los viajeros no visitantes (especialmente aquellos viajeros que son empleados en el destino) puede ser cuantitativamente relevante, por ejemplo, en localidades cercanas a grandes explotaciones petrolíferas o mineras. En esos casos, puede continuarse la aplicación del cuestionario de modo tal de mensurar el impacto del consumo de los viajeros no visitantes (teniendo en cuenta que es imprescindible luego discriminar el realizado por visitantes).
+
+[^propuestas_metodologicas-88]: Aquí no se han incluido otras preguntas relativas a caracterizar socioeconómicamente a los visitantes (ocupación, ingresos, etc.). Si bien puede ser deseable contar con esta información, por un lado no sólo resulta complejo de medir sino que también implica destinar espacio a otras cuestiones más directamente vinculadas al turismo, mientras que por otro, su interpretación implica necesariamente recurrir a fuentes secundarias.
+
+    Por ejemplo, para conocer el nivel educativo de los visitantes es necesario o bien indagar esta cuestión para todos los integrantes del grupo de viaje o bien tomar algún criterio arbitrario (por ejemplo, cómo se ha hecho aquí, el máximo nivel educativo alcanzado por cualquiera de las personas que forman el grupo, que no necesariamente, por ejemplo, formarán parte de un mismo hogar). Lo incorrecto sería indagar esta información sólo para quien responde la encuesta, lo cual obviamente traería aparejado serios sesgos en los resultados. 
+
+    Por otro lado, si los resultados arrojan que el 70% de los visitantes tiene al menos título de nivel secundario, ello no permite extraer conclusiones sobre si el destino es o no elegido por personas con alto nivel educativo. ¿Por qué? Porque para determinarlo es necesario conocer si ese 70% es alto o bajo dentro no sólo de la población desde la que llegan los visitantes sino también entre quienes, dentro de esa población, suelen realizar viajes. Eventualmente, la información serviría para realizar comparaciones entre subgrupos de visitantes (cuánto gastan los visitantes que integran grupos con alto y bajo nivel educativo) y entre diferentes otros destinos (qué porcentaje de visitantes de diferentes localidades integran grupos con alto nivel educativo).
+
+    \
+
+[^propuestas_metodologicas-89]: Estos excursionistas desde el punto de vista de la localidad no deberán ser considerados en el agregado de los resultados provinciales, pues se encuentran contabilizados como turistas en las localidades en las que están pernoctando.
+
+## **El gasto turístico**
+
+Esta sección comienza planteando algunos puntos centrales sobre la definición conceptual del gasto turístico para pasar luego al tema de las posibles aperturas o desagregación del mismo. En base a estos elementos, se reflexiona sobre las complejidades que plantea su medición desde la óptica provincial y, posteriormente, se comenta brevemente una posible operacionalización de este concepto. Finalmente, se presenta y ejemplifica la forma correcta de medir el gasto promedio diario, quizás la variable más importante de este tipo de estudios.
+
+### **Definición**
+
+El gasto de consumo turístico se define como la **suma pagada por la adquisición de bienes y servicios de consumo y de objetos valiosos, para uso propio o para regalar, antes y durante los viajes turísticos. Incluye los gastos incurridos por los propios visitantes, así como los gastos pagados o reembolsados por otros** (OMT, RIET 2008)[^propuestas_metodologicas-90].
+
+[^propuestas_metodologicas-90]: Este concepto excluye la adquisición de ciertas partidas, como ser las transferencias sociales en especies que benefician a los visitantes, la imputación de servicios de alojamiento en viviendas de vacaciones que pertenecen a los visitantes, y servicios de intermediación financiera medidos indirectamente.
+
+    \
+
+Se considera que entre los bienes y servicios que forman parte del gasto turístico, se encuentran aquellos que se adquieren para **satisfacer las necesidades de alimentación, indumentaria, alojamiento, salud, transporte, esparcimiento, educación, y otros bienes y servicios diversos, efectuados con motivo de la realización de los viajes o visitas de un día**.
+
+Dentro de los gastos efectuados **durante el viaje**, se incluyen tanto los que sean para consumir durante el mismo, para regalar, como para utilizar una vez de regreso del viaje. Sin embargo, deben excluirse del gasto turístico aquellos bienes y servicios adquiridos, durante el viaje, destinados a la actividad económica y no al consumo del hogar[^propuestas_metodologicas-91].\
+
+[^propuestas_metodologicas-91]: Por ejemplo: si se organiza un "tour de compras" de vestimenta con el fin de revenderla a una zona ubicada fuera del entorno habitual, sólo se deben registrar los gastos en transporte, eventualmente alojamiento, comida, etc., pero no los gastos en aquellos productos que destinará a la actividad económica de reventa. Tampoco deben incluirse como gastos del viaje la adquisición de activos financieros, propiedades inmuebles, automóviles y similares, puesto que en estos casos no se trata de gastos de consumo.
+
+En cambio, entre los gastos en los que se incurre **antes de realizar el viaje**, sólo se incluyen aquellos destinados a la obtención de bienes y servicios que se utilizan y agotan durante el mismo[^propuestas_metodologicas-92]. Asimismo, hay algunas adquisiciones que se hacen **luego de realizar el viaje**, en el lugar de residencia del hogar, que deben registrarse como gasto turístico[^propuestas_metodologicas-93]. Por el contrario, no deben ser incluidos como gasto turístico aquellos gastos que se realizan en el lugar de residencia en bienes y servicios que, si bien pueden ser utilizados durante un viaje, su utilización se extiende más allá del mismo[^propuestas_metodologicas-94].
+
+[^propuestas_metodologicas-92]: Por ejemplo: paquetes turísticos; pago anticipado de hospedaje; pago anticipado de entradas a espectáculos, museos, excursiones, etc.; pago de trámite de visado o permisos temporarios; seguro de salud o de pérdida de equipaje para el viaje; traslados desde el domicilio hacia el aeropuerto, terminal de ómnibus, etc.; combustibles; alimentos y bebidas para consumir durante el viaje; rollos fotográficos; cremas y filtros solares, etc.
+
+[^propuestas_metodologicas-93]:  Se trata de bienes y servicios que están directamente relacionados con el viaje, como ser los traslados en taxi o remís desde el aeropuerto, terminal de ómnibus, etc. hacia el domicilio, o el revelado fotográfico.
+
+[^propuestas_metodologicas-94]: Por ejemplo: máquinas fotográficas, filmadoras, casetes, valijas, ropas, etc.; el costo de trámites para obtener el DNI, pasaporte, registro internacional, etc.; reparaciones y acondicionamiento del vehículo para el viaje, etc.
+
+A su vez, resulta relevante a términos del análisis conocer si todos los gastos del viaje fueron abonados por el hogar. Se considera que el hogar pagó totalmente los gastos del viaje cuando lo financió con recursos propios o le regalaron el dinero para hacer el viaje, no así si le otorgaron medios de pagos abonados con anterioridad tales como vouchers, tickets, etc. La relevancia de esta cuestión se debe a la realización de viajes de trabajo. En dichos casos, la empresa o institución concede una suma de dinero para cubrir los gastos de pasajes, alojamiento y viáticos en general (independientemente si esa suma es inferior, igual o superior al gasto total que efectivamente se realizará). En estos casos, al momento de encuestar al viajero, sólo responderá por los gastos que fueron financiados por él, aunque, se deberá tener en cuenta también lo abonado por la empresa o institución para así tener un valor más preciso del gasto turístico total, pues tiene igualmente influencia sobre la contribución económica del turismo al territorio bajo análisis.
+
+El **valor por el cual se deben registrar** los bienes y servicios es el valor de contado neto de descuentos, independientemente de la forma en que el hogar los pague. Si el hogar adquiere un bien o un servicio y, por alguna circunstancia especial, obtiene un descuento sobre el precio de contado, se debe registrar como precio de la adquisición el valor que efectivamente pagó. En caso de abonar un bien o servicio en estratos, los intereses no forman parte del costo de la adquisición, por lo que debe registrar el valor de contado.
+
+Un dato adicional para evaluar el gasto turístico es tener presente **el momento de registro** de la transacción, ya que con frecuencia la adquisición y el pago de los bienes y servicios no se realizan en el mismo momento. Al igual que en el Sistema de Cuentas Nacionales, el gasto turístico se basa en el **criterio de devengado**, según el cual los flujos se registran en el momento en el cual el valor económico se crea, transforma, intercambia, transfiere o extingue. Esto significa **que los servicios se registran cuando se prestan y la producción cuando se obtienen los productos, con independencia del momento en que los mismos se pagan**, es decir, sin importar si el gasto se realiza al contado o a crédito.
+
+### **3.5.2. Desagregación**
+
+La apertura del gasto turístico en diferentes ítems es recomendable para poder relacionar la demanda de los visitantes con la oferta de la economía. Para ello, es deseable recopilar información vinculada con el valor total del gasto turístico, como así también sobre los componentes de ese total.
+
+A continuación se presenta la desagregación del gasto turístico recomendada por la OMT en las Recomendaciones Internacionales para la Estadística de Turismo del año 2008[^propuestas_metodologicas-95]:
+
+[^propuestas_metodologicas-95]: Esta desagregación se nutre de los clasificadores estandarizados de productos económicos (cuya contraparte desde la oferta, es decir, los productores, son las actividades económicas).
+
+1.  Viajes combinados, vacaciones combinadas y paquetes turísticos
+
+2.  Alojamientos
+
+3.  Alimentos y bebidas
+
+4.  Transporte local
+
+5.  Transporte internacional
+
+6.  Actividades recreativas, culturales y deportivas
+
+7.  Compras
+
+8.  Otras
+
+A partir de la desagregación del gasto turístico recomendada internacionalmente y las utilizadas en las encuestas nacionales, se presenta una propuesta para ser aplicada en todo el territorio nacional. 
+
+Esta propuesta es flexible, pues permite decidir entre niveles alternativos de apertura, según la posibilidad de recopilación de datos con que se cuente y según los objetivos de la investigación. 
+
+Así se distingue una diferenciación básica entre paquete turístico, transporte al destino y otros gastos. Luego, el transporte en destino y, especialmente, el ítem otro gastos dejan abierta la posibilidad de desagregar la indagación. 
+
+Es importante remarcar que el gasto en los servicios contenidos dentro del paquete turístico se relevan únicamente en ese ítem, de modo de evitar una doble contabilización del gasto. Por esta razón, es importante conocer qué servicios turísticos fueron incluidos dentro del paquete, ya que dicha información constituye el insumo esencial para, luego de obtenidos los datos, despaquetizar (es decir, desagregar el monto total del paquete e imputarlo a los diferentes productos).
+
+Cabe señalar que tanto la ETI como la EVyTH en su versión 2006 se nutren de esta clasificación y la profundizan, constituyendo un insumo esencial a la hora de plantear la construcción de la Cuenta Satélite de Turismo.
+
+**Grafico 001**
+
+### **Enfoque provincial**
+
+Las definiciones y las posibles aperturas referidas al gasto turístico analizadas en los apartados anteriores aplican a la medición del gasto turístico total de un viaje, o, en el mejor de los casos, al gasto del viaje desde la óptica de un país. Por ello, es preciso puntualizar ciertas cuestiones cuando se trata de medir la contribución económica del turismo desde la perspectiva de un territorio económico subnacional, sea una provincia o una localidad.
+
+En primer lugar, es necesario definir con precisión qué gastos de un viaje pretenden medirse. Desde la **perspectiva provincial**, atendiendo a las formas de turismo (según el origen del visitante), deberían contemplarse:
+
+**Turismo Interno** (residentes de una provincia viajando dentro de ella): todos los gastos que se realicen durante el viaje, independientemente del lugar de compra o contratación de bienes y servicios destinados al viaje. Por ejemplo, además de los gastos realizados en el o los destinos del viaje, si un visitante compra provisiones en el supermercado de su lugar de residencia para consumir durante el viaje, estos deberían ser contemplados, al igual que si utiliza un taxi para trasladarse entre la terminal aérea o de autobuses a su domicilio.
+
+**Turismo Emisivo** (residentes de una provincia que viajan fuera de ella, sea a otra provincia o a otro país): los gastos realizados en la provincia de residencia (en su localidad o en otra) en bienes y servicios para ser consumidos durante el viaje (provisiones en negocios de su localidad, taxi de ida y/o vuelta a una terminal aérea o terrestre, pero también servicios de alojamiento, restaurantes, etc. si, por ejemplo, realizó escalas en una o más localidades de la provincia antes de abandonar su territorio). Lógicamente, no deberían incluirse los gastos realizados en el o los destinos ubicados por fuera del territorio económico de la provincia de referencia. Los gastos de los viajes emisivos realizados en el territorio de referencia constituyen la parte interna del turismo emisivo.
+
+**Turismo Receptivo** (residentes de otra provincia o de otro país que visitan la provincia de referencia): en este caso, deben incluirse todos los gastos del viaje realizados en el territorio económico de referencia y excluirse los realizados fuera de él.
+
+Como puede deducirse, una encuesta de perfil del visitante realizada desde un enfoque provincial permitirá estimar el gasto correspondiente al turismo interno, al turismo receptivo y, sólo cuando implique alguna escala en un destino de la provincia, al turismo emisivo [^propuestas_metodologicas-96] [^propuestas_metodologicas-97].
+
+[^propuestas_metodologicas-96]: En el caso del turismo emisivo internacional, la ETI (cuya economía de referencia es el territorio nacional) mensura los gastos del viaje realizados fuera del país, es decir, no considera la parte interna de los gastos del viaje (por ejemplo, cuando un residente en una provincia pasa una noche en la Ciudad de Buenos Aires para abordar un vuelo internacional al día siguiente).
+
+    La EVyTH, en su versión continua (desde 2012), por su parte, indaga por el gasto total del viaje, tanto cuando el destino se ubica dentro del país como cuando este se halla fuera de él.
+
+[^propuestas_metodologicas-97]: De lo expuesto en este apartado resulta evidente que una parte de los gastos del turismo emisivo (a otra provincia o a otro país), debería considerarse en la estimación de la contribución económica del turismo a la provincia, aún cuando no impliquen una parada o escala en alguna localidad de la provincia (distinta a la de residencia), pero lógicamente esto no resulta posible de abordar desde un estudio de caracterización de la demanda.
+
+    Por otra parte, y aunque escapa largamente a este tipo de estudios, los gastos realizados por los residentes en la provincia de referencia en sus viajes a otras provincias o países no carecen de importancia (puesto que sólo conociéndolos se podría estimar el saldo de la balanza turística).
+
+No obstante, ciertos aspectos deben ser analizados con detalle.
+
+En primer lugar, como se mencionó más arriba, los gastos en servicios turísticos se realizan no en el momento de la contratación (aún cuando sean pagados en ese momento) sino al momento de su consumo. Esto es particularmente relevante en el caso de los paquetes turísticos o de servicios turísticos individuales (transporte, alojamiento, excursiones, etc.) que son contratados por medio de agencias de viaje antes de realizar el viaje. Así, si se contrata un hotel en una agencia del lugar de residencia del visitante, el monto correspondiente al alojamiento debe ser computado como un gasto en el destino en el que se ubica el hotel, con la excepción del margen de agencia[^propuestas_metodologicas-98].
+
+[^propuestas_metodologicas-98]: El margen de agencia es la porción del monto pagado que la agencia de viajes se apropia por el servicio de intermediación entre el consumidor y el establecimiento hotelero. Por ejemplo, si se pagan \$500 por una noche de hotel y éste recibe \$450 mientras que la agencia se apropia de \$50, estos \$50 no deberían computarse como gasto de alojamiento, sino como margen de agencia y ser considerados como gastos en el destino únicamente si dicha agencia se sitúa en el territorio económico de referencia. Lógicamente, se trata de una cuestión más que probablemente desconocida por el visitante, por ello debe ser captada indirectamente, al menos en aquellos casos donde puede implicar un monto sustancial (por ejemplo, en el caso de los paquetes turísticos) y/o se conozca que la venta de servicios turísticos por medio de agencias de viaje no situadas en el territorio económico de referencia represente una parte sustantiva del mercado.
+
+El tratamiento del gasto en paquete turístico implica un importante desafío. Por un lado, es necesario poder discriminar el monto total en los productos turísticos que lo componen (incluyendo el margen de agencia). Por otro lado, en aquellos casos en que el viaje incluya varios destinos (más aún cuando éstos se ubican en provincias diferentes), será necesario establecer qué porción de esos gastos fue realizada en el territorio económico de referencia. En el apartado siguiente se presta especial atención a esta cuestión.
+
+Finalmente, un tema de especial relevancia lo constituye el transporte[^propuestas_metodologicas-99]. Desde la óptica de una provincia, no todo el gasto que sus visitantes realizan en transporte durante su viaje debe computarse como gasto turístico. La siguiente tabla, lógicamente relacionada con las distintas formas de turismo, esquematiza y conceptualiza los distintos tipos de desplazamientos o traslados.
+
+[^propuestas_metodologicas-99]: De acuerdo a la EVyTH 2006, entre los viajes realizados por los residentes del país dentro del mismo, aproximadamente el 30% del gasto turístico total corresponde al transporte desde, hacia y entre los destinos del viaje.
+
+Tabla A
+
+Desde la óptica de la provincia de referencia, es claro que el gasto en transporte internacional indirecto no debería ser contemplado, mientras que lo contrario ocurre con el gasto en transporte interno y local, que sí debería ser considerados en su totalidad.
+
+En cambio, la decisión se torna más compleja al considerar el gasto en transporte internacional directo y en transporte nacional, aunque es posible considerar como alternativa, por ejemplo, imputar la mitad del gasto en estos conceptos[^propuestas_metodologicas-100] a la provincia de referencia (bajo esta lógica, la mitad del gasto correspondería al lugar de inicio y la otra mitad al lugar de finalización del viaje). En estos casos, el problema se presenta cuando se utilizan servicios públicos (avión, ómnibus, tren, etc.), ya que cuando se utiliza transporte privado tal cuestión puede ser zanjada indagando por el gasto en combustible y peajes realizado en el territorio de referencia. En el caso del auto alquilado, el importe del servicio debería ser considerado si el lugar físico donde se renta el vehículo se ubica en el territorio económico de referencia.
+
+[^propuestas_metodologicas-100]: Claro que podrían utilizarse alternativas más complejas, como considerar el porcentaje de la distancia del viaje recorrida en la provincia (más cuando los viajes nacionales suelen atravesar más de dos provincias), pero ello implicaría dedicar un esfuerzo mucho mayor y, además, analizar la estructura de negocios de las empresas de transporte.
+
+Otro punto a considerar es quién estuvo a cargo de afrontar los gastos del viaje. En la mayoría de los casos, los fondos son aportados por los propios visitantes, pero en no pocas oportunidades, las erogaciones son realizadas por terceros. Esto es común en los gastos de viajes por trabajo o negocios, donde las empresas o instituciones realizan directamente los pagos de los servicios utilizados por el visitante o los reembolsan posteriormente (o bien, se da una combinación de ambas), pero pueden darse casos de personas que viajen por otro motivo y cuyos gastos sean afrontados por otros hogares o instituciones. Ante estas situaciones, la recomendación **es que se indague por el gasto de consumo realizado, independientemente si los mismos son pagados o no con recursos propios de quien realiza el viaje**. En general, el visitante conocerá dicho monto, y cuando no lo sepa exactamente, estará en condiciones de brindar una estimación razonable (ahorrando, de este modo, la engorrosa tarea de tener que reconstruir posteriormente dichos importes).
+
+### **Operacionalización**
+
+En este apartado se comenta una posible forma de operacionalizar la medición del gasto turístico en encuestas de perfil del visitante aplicadas en una localidad. Puntualmente, se comentará brevemente la estrategia empleada para la construcción del Formulario genérico para encuestas de caracterización del visitante (ver Anexo 2).
+
+Cómo se ha mencionado (ver apartado 2.4.3), dicho formulario pretende constituir el instrumento para la medición del gasto desde la óptica provincial, con una muestra construida a tal fin, pero realizando, inevitablemente, las encuestas en distintas localidades de la provincia.
+
+Con el objetivo de evitar la duplicación de los gastos, la estrategia consiste en relevar únicamente los gastos del viaje relativos a la localidad de referencia, pero excediendo el alcance de las mediciones habituales, que se ciñen al gasto en ese destino (lo cual puede ser pertinente desde la perspectiva de una localidad), sin considerar el gasto realizado en la localidad donde residen los visitantes (para quienes residen en la misma provincia), el gasto en transporte, y, en muchos casos, el gasto realizado en visitas del día a otras localidades mientras se encuentran alojados en la localidad de referencia.
+
+El **gasto en la localidad de residencia** en consumos directamente relacionados con el viaje (alimentos y bebidas, transporte hacia terminales o aeropuerto, alquiler de vehículos, impresión de fotografías al regreso, etc.)[^propuestas_metodologicas-101] se indaga únicamente para los visitantes residentes en otras localidades de la provincia (pues carece de importancia cuando este gasto se realiza fuera del territorio provincial) en los siguientes casos: excursionistas "puros", es decir, aquellos que viajan por el día desde su localidad de residencia a la localidad de referencia; turistas que tienen como único destino la localidad de referencia; turistas que llegan desde su lugar de residencia pero que pernoctarán posteriormente en otra localidad (en este caso, sólo se indaga por los gastos realizados antes del viaje) y turistas que no llegan desde su localidad pero que desde la localidad de referencia regresarán a ella (aquí se pide que estimen los gastos que realizarán después del viaje)[^propuestas_metodologicas-102]. Es decir, además de los no residentes en la provincia, no se indaga sobre este gasto en aquellos turistas de la localidad de referencia que no provienen ni regresan desde allí a su localidad de residencia, ni en aquellos que son excursionistas de la localidad de referencia pero que están alojados en otra localidad.
+
+[^propuestas_metodologicas-101]: Se excluye taxativamente en la formulación de la pregunta la contratación de servicios vía Internet o por medio de agencias de viaje "físicas" de la localidad de origen del transporte, de paquetes turísticos y de cualquier producto turístico (alojamiento, excursiones, alquiler de vehículo, etc.) cuyo consumo sea realizado en el destino.
+
+[^propuestas_metodologicas-102]: En todos los casos, se indaga por el gasto total en la localidad de residencia, sin desagregar por tipo de producto.
+
+En cuanto al gasto en **transporte desde y hacia la localidad de referencia** se releva únicamente el gasto relativo al traslado entre el lugar en que durmieron antes de llegar allí y en el que dormirán luego de abandonar dicha localidad, independientemente de si esos lugares son la localidad de referencia o constituyen otra etapa del viaje. En el caso de los excursionistas "puros" se releva el medio de transporte de ida y vuelta[^propuestas_metodologicas-103] y el gasto en ambos tramos conjuntamente. En el caso de los turistas se indaga por separado el medio de transporte y el gasto en el trayecto de ida o llegada y en el de regreso o salida de la localidad. Cuando se trate de viajes de destino únicos de residentes en la provincia, es claro que todo el gasto deberá ser considerado. En cambio, en viajes multidestino y/o de residentes fuera de la provincia, se deberían establecer criterios para determinar qué proporción de dicho gasto corresponde considerarse desde el enfoque provincial, tanto para evitar la duplicación como para evitar considerar gastos que deben ser computados en otros territorios provinciales[^propuestas_metodologicas-104]. Si bien aquí no se ahondará en esta discusión, el formulario releva la información necesaria para tomar las decisiones adecuadas.
+
+[^propuestas_metodologicas-103]: En el caso de los excursionistas alojados en otra localidad, también se releva el gasto puesto que además podría desearse realizar una estimación desde el punto de vista de la localidad, aunque no deberá ser considerado en un análisis de enfoque provincial (puesto que este tipo de gastos son relevados en la localidad que estos visitantes están alojados).
+
+[^propuestas_metodologicas-104]: Cabe puntualizar que para los gastos en vehículos propios o alquilados en gastos en combustibles y peajes desde o hacia localidades ubicadas en otras provincias, se solicita que se informe sólo los gastos realizados dentro de la provincia. 
+
+    Por otro lado, en el caso de utilizar transporte público (ómnibus, avión, ferrocarril) se indica responder  sólo por el tramo sobre el que se indaga.
+
+Para una correcta estimación del gasto es fundamental indagar por la contratación de un **paquete turístico** para realizar el viaje, pues más allá de la importancia de esta variable, es fundamental para reconstruir el gasto turístico. Un paquete turístico está conformado por un agregado de servicios que se comercializan en conjunto y, por tanto, no es posible conocer el precio de cada uno de los servicios en forma individual. Si bien por lo común, los paquetes son comercializados por agencias de viaje, en ocasiones pueden ser ofrecidos por otro tipo de actores, como sindicatos, mutuales, clubes de jubilados, etc.
+
+En este marco, es preciso conocer el costo del paquete turístico, así como los servicios que este incluyó y dónde fue contratado[^propuestas_metodologicas-105]. Además, es de suma importancia indagar, en aquellos viajes con más de un destino, cuantas noches de alojamiento incluyó en total y cuantas noches incluyó en la localidad de referencia, pues esta información será crucial para estimar cuánto del gasto en paquete turístico, descontando el gasto en transporte desde y hacia el destino, es imputable al gasto realizado en dicha localidad[^propuestas_metodologicas-106].
+
+[^propuestas_metodologicas-105]: Esta información es necesaria si se pretende despaquetizar dicho monto, es decir, estimar cuánto del monto del paquete corresponde a cada uno de los productos o servicios incluidos y también para establecer si el margen de agencia de viaje debe computarse o no en la provincia.
+
+[^propuestas_metodologicas-106]: Por ejemplo, si un visitante realizó un viaje que incluyó dos localidades y contrató un paquete que costó \$10.000 e incluyó transporte (estimado en \$2.000), deben distribuirse los \$8.000 restantes entre las dos localidades. Si en total el paquete incluyó 10 noches de las cuales 6 correspondieron a la localidad de referencia y 4 a otra localidad, puede suponerse que el 60% del gasto en paquete excluyendo el transporte es aplicable a la localidad de referencia (ya que a ella le corresponden 6 de las 10 noches), lo que implica un monto de \$4.800 (60% de los \$8.000).
+
+Cabe indicar que las preguntas que refieran a otros conceptos del gasto turístico deben dejar claramente establecido que no deben contemplarse los gastos en los servicios incluidos en el paquete, pues en caso contrario se estaría registrando por duplicado el monto del gasto. Para evitar confusiones al respecto, en el formulario **se indaga de manera diferenciada el gasto en otros conceptos según hayan utilizado o no un paquete turístico**.
+
+En este punto, para ambos casos, el formulario **presenta tres alternativas diferentes de relevar el gasto en otros conceptos, englobados como "gastos durante la estadía en la localidad"** (que incluyen no sólo los gastos realizados en ella sino también en otros lugares visitados mientras los visitantes pernoctaban allí)**. Estas tres estrategias se relacionan con el momento del viaje (en realidad, de la estadía en la localidad) en que se realiza la entrevista**.
+
+-   Alternativa A: La entrevista se realiza en cualquier momento de la estadía en el destino, pero el grupo de viaje debe haber arribado allí al menos una noche / 24 horas antes.
+
+-   Alternativa B: La entrevista se realiza a excursionistas o a turistas sólo cuando el grupo de viaje no arribó allí al menos 24 horas antes.
+
+-   Alternativa C: La entrevista se realiza al momento de finalizar la estadía del grupo de viaje en la localidad de referencia.
+
+La alternativa C, realizar la encuesta **al momento en que los visitantes abandonan el destino**, es, como ya se ha desarrollado**, lo más recomendable**. En ese caso, se indagará por los **gastos realizados durante toda la estadía** en el destino.
+
+No obstante, no siempre resulta posible implementar un diseño muestral que cuente con dicha posibilidad. Ante esta situación, la solución es indagar por el gasto realizado durante el día anterior[^propuestas_metodologicas-107] (alternativa A), o bien indagar por el gasto que llevan realizado al momento y que piensan realizar en un lapso de 24 horas, en el caso de los turistas que no arribaron al menos 24 horas antes al destino o, en el caso de los excursionistas, en el tiempo que permanezcan en el destino (alternativa B). Sin embargo, en estas alternativas **se sugiere que el gasto en alojamiento**, de importancia nodal, no sea relevado tomando como referencia el día sobre el que se indaga el gasto, sino **sobre toda la estadía**, pues, en general, es un dato que los entrevistados pueden dar sin mayores dificultades (a diferencia de prever cuánto gastarán en alimentación, excursiones, etc.). Bajo una lógica similar, aquí también se indaga por separado por el gasto en alquiler de vehículo (cuando el retiro del vehículo se realice en la localidad de referencia).
+
+[^propuestas_metodologicas-107]: Esta metodología implica que el gasto total de la estadía será estimado multiplicando el gasto del día de referencia por la cantidad de noches de estadía. Como puede notarse, el día seleccionado hace las veces de muestra del total de días. 
+
+    Es probable que esta metodología arroje algunos resultados ilógicos desde el nivel de microdato (el caso particular), pero esto no constituye un sesgo pues, por las propias leyes de la estadística, este efecto se compensa (en algunos casos arrojará un gasto más alto que el real, en otros un gasto más bajo) en el agregado.
+
+De este modo, a partir del formulario se podrá estimar el gasto turístico provincial (relativo a la estadía en la localidad de referencia, de modo que la agregación de los resultados de las distintas localidades arrojen el gasto turístico provincial total) desagregado en:
+
+-   Paquete Turístico (que luego deberá ser despaquetizado en los distintos productos)
+
+-   Margen de agencias de viaje (estimado bajo ciertos supuestos para paquete y alojamiento, pero también para transporte y servicios recreativos y culturales).
+
+-   Transporte (según medio utilizado) desde lugar de residencia / etapa anterior (donde pernoctaron) hacia la localidad y desde la localidad hacia el lugar de residencia / etapa siguiente (donde pernoctarán). Luego, dependiendo si el trayecto es desde/hacia lugar de residencia o no y de donde se ubique esa localidad, se podrá estimar cuanto computar como gasto en transporte en la provincia.
+
+-   Alojamiento (según tipo de hospedaje utilizado).
+
+-   Alquiler de automóvil o similar.
+
+-   Transporte en destino (taxis, remises, buses, etc. para movilizarse en destino, tanto dentro de la localidad de referencia como para las visitas a otras localidades).
+
+-   Combustible (para movilidad en destino).
+
+-   Alimentación.
+
+-   Excursiones/ recreación/Espectáculos.
+
+-   Compra de artesanías o productos regionales.
+
+-   Otros productos (bienes).
+
+-   Otros servicios.
+
+Finalmente, se incluye una pregunta destinada a conocer si los gastos del viaje fueron exclusivamente afrontados con recursos propios de los visitantes o no (es decir, si fueron financiados por empresas, instituciones u otros hogares).
+
+\
+\#\#\# **El gasto diario promedio**
+
+El gasto diario promedio es un indicador típico de las encuestas de caracterización de la demanda, y es relevante no sólo por el tipo de información que en sí mismo aporta para describir el perfil de los turistas y su evolución en el tiempo, sino porque muchas veces constituye un insumo esencial para la estimación del volumen global del gasto de los turistas (o de los visitantes, si se incluye a los excursionistas) en un determinado destino (localidad, zona o provincia). Esto suele realizarse a partir de multiplicar la cantidad de turistas que arriban al destino (dato obtenido mediante otro tipo de estudio, y que puede referir al total o a un segmento de los turistas) por la estadía promedio y por el gasto diario promedio.
+
+Las encuestas de perfil se suelen realizar a individuos en tanto que forman parte de grupos (es decir, se encuesta sólo a un integrante del grupo). Allí se indaga, entre otras cuestiones, por información sobre el tamaño del grupo, sobre la duración de la estadía y sobre el gasto total (o diario) para el grupo completo, procediéndose luego a su individualización (es decir, a dividir el monto total del gasto del grupo por la cantidad de integrantes que lo conforman, lo cual expresa el gasto por turista).
+
+En base a esta información se puede estimar el gasto diario promedio. Si bien hay diversas formas de arribar a un resultado, sólo una de ellas es matemáticamente correcta (sin embargo, lamentablemente, no es esta forma la que habitualmente se utiliza). Cómo se verá, esto está íntimamente ligado con la forma en que se definen el universo bajo estudio, las unidades de análisis y las unidades de relevamiento. A continuación se desarrolla en detalle un ejemplo para echar luz sobre esta determinante cuestión.
+
+**Tablas varias 002**
+
+**Forma de cálculo 2**: Cada caso vale uno para la estadía promedio (como en la forma anterior), pero en el caso del gasto diario se toman en cuenta los pernoctes (es decir se realiza un promedio ponderado: el gasto diario se multiplica por su estadía y luego se divide por la suma de las estadías[^propuestas_metodologicas-108]).
+
+[^propuestas_metodologicas-108]: La multiplicación del gasto diario promedio por la estadía arroja el gasto total por turista.
+
+Como puede apreciarse en este ejemplo ficticio, las formas de cálculo arrojan resultados sensiblemente diferentes en el caso de la estadía promedio y muy distinto en el caso del gasto promedio diario.
+
+Ahora bien, ¿las tres formas son correctas? En caso negativo, ¿se puede identificar la forma correcta? Una manera de dar respuesta a este interrogante es usar los diferentes valores estimados de estadía y gasto diario para obtener los totales, multiplicándolos por la cantidad de turistas (dato que aquí es conocido y permite la constatación de si cada alternativa es o no válida, pero en muchos casos, cuando se trata de estimar el volumen del gasto realizado por los turistas, proviene de otras fuentes, ligadas a alojamiento, medios de transporte, etc.). 
+
+De la tabla anterior, la suma de los turistas que componían los tres grupos de los que formaban parte los encuestados arroja un total de 11 turistas entre los que se contabilizan 72 pernoctes y un gasto total de \$21.000. ¿Qué sucede con los totales en cada reconstrucción frente al total real?
+
++------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
+| Forma de cálculo | Total de turistas | Estadía promedio | Gasto diario promedio  | Estimación de total de pernoctes | Estimación de total de gasto |
++==================+===================+==================+========================+==================================+==============================+
+| Personas         | Noches            | \$               | Noches                 | Dif. % con total real\           | \$                           |
+|                  |                   |                  |                        | (72 noches)                      |                              |
++------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
+| A                | B                 | C                | AxB                    | \                                | AxBxC                        |
++------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
+| Forma 1          | 11                | 6,0              | 633                    | 66                               | -8,3%                        |
++------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
+| Forma 2          | 11                | 6,0              | 367                    | 66                               | -8,3%                        |
++------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
+| Forma 3          | 11                | 6,5              | 292                    | 72                               | 0,0%                         |
++------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
+
+\
+Como se observa, **sólo a partir de la forma de cálculo 3 se obtienen resultados que permiten reconstruir correctamente el total**. Las dos primeras formas subestiman la cantidad total de noches -en la misma magnitud, pues la fórmula era idéntica- (66 noches contra 72 noches reales), mientras que el gasto total de los turistas en la primera forma casi duplica al gasto real (\$41.800 frente a \$21.000), mientras que en la segunda forma la estimación arroja resultados un 15,2% superior a los reales (\$24.200 versus \$21.000)[^propuestas_metodologicas-109].
+
+[^propuestas_metodologicas-109]:  Esta segunda forma de cálculo arrojaría resultados válidos sí y sólo sí se trabajara con diseños muestrales donde la unidad de muestreo (aquellas teóricamente posibles de ser encuestadas) fuesen los individuos, sin importar el grupo de pertenencia (es decir, donde existiese la probabilidad de encuestar a dos o más integrantes de un mismo grupo, si la selección aleatoria así lo dispusiera). Cómo se comentó más arriba, esta posibilidad, quizás la ideal desde el punto de vista teórico, es impracticable en la realidad, debido a la complejidad que ello supondría para el trabajo de campo.
+
+**De este modo, matemáticamente, sólo es válida la forma que contempla el tamaño del grupo de viaje, la extensión de la estadía y el gasto total del grupo, obteniendo sus resultados a partir de promedios ponderados (o, lo que es lo mismo, de la razón entre cantidades acumuladas).**
+
+Ahora bien, más allá de las diferencias mencionadas en el ejemplo hipotético anterior: ¿resultan realmente significativas las diferencias al contemplar una u otra fórmula de cálculo?
+
+\
+Para dar respuesta a este interrogante, se recurrirá a un ejemplo contundente y real. La EVyTH del año 2013 arrojó los siguientes totales anuales para el turismo interno[^propuestas_metodologicas-110]: 30,24 millones de turistas, 170,89 millones de pernoctes y un gasto total de los turistas que ascendió a \$33.739 millones. Asumiendo que la cantidad de turistas fuera conocida por medio de otra fuente ¿Qué valor asumirían estas últimas dos cantidades (pernoctes y gasto) si se hubiese utilizado como insumo las diferentes estimaciones de estadía media y de gasto diario promedio que surgen de las tres fórmulas de cálculo planteadas?
+
+[^propuestas_metodologicas-110]:  Visitantes residentes en los grandes aglomerados urbanos del país que viajaron a destinos ubicados en Argentina, pernoctando al menos una noche fuera de su entorno habitual.
+
+Aplicando las fórmulas comentadas más arriba sobre la base de datos de la EVyTH, de acuerdo a la forma de cálculo 1, la estadía promedio sería de 5,67 noches mientras que la media del gasto diario llegaría a \$341,9. En la forma 2, se replica la estadía (5,65 noches) y el gasto diario promedio se ubica en \$246,1. Finalmente, de acuerdo a la forma de cálculo 3, la estadía promedio era de 5,65 noches (valor muy similar a los anteriores), mientras que el gasto promedio era de \$197,4, valor sustancialmente inferior a los de las otras dos formas de cálculo, especialmente al correspondiente a la forma 1.
+
+Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo", obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total  para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un 73,7% al valor correcto (\$58.594 millones frente a los \$33.739 millones reales).
+
++------------------+-------------------+------------------+-----------------------+----------------------------------+------------------------------+
+| Forma de cálculo | Total de turistas | Estadía promedio | Gasto diario promedio | Estimación de total de pernoctes | Estimación de total de gasto |
++==================+===================+==================+=======================+==================================+==============================+
+| miles\           | noches            | \$               | miles                 | Dif. % con total real\           | Millones                     |
+| (dato externo)   |                   |                  |                       | (170.895)                        |                              |
++------------------+-------------------+------------------+-----------------------+----------------------------------+------------------------------+
+| Forma 1          | 30.243            | 5,67             | 341,9                 | 171.373                          | 0,3%                         |
++------------------+-------------------+------------------+-----------------------+----------------------------------+------------------------------+
+| Forma 2          | 30.243            | 5,67             | 246,1                 | 171.373                          | 0,3%                         |
++------------------+-------------------+------------------+-----------------------+----------------------------------+------------------------------+
+| Forma 3          | 30.243            | 5,65             | 197,4                 | 170.895                          | 0,0%                         |
++------------------+-------------------+------------------+-----------------------+----------------------------------+------------------------------+
+
+Estos resultados no indican que en todos los casos se registrará esta tendencia y menos aún que es esperable la misma brecha. No obstante, se trata de una simulación sobre una base de datos sumamente robusta, y con resultados contra los cuales contrastar las estimaciones obtenidas, lo cual permite extraer importantes conclusiones.
+
+En primer lugar, se ha visto que el cálculo de la estadía promedio no arroja resultados tan diferentes entre las distintas formas de cálculo. Por eso, es esperable que la utilización de las formas erróneas de estimación (1 y 2) no implique resultados demasiados distantes del valor correcto; además, este error en la fórmula podría ubicar el resultado obtenido algo por encima o algo por debajo del correcto[^propuestas_metodologicas-111].\
+
+[^propuestas_metodologicas-111]: Los resultados estimados con la EVyTH indican que para el conjunto de los turistas residentes en los grandes aglomerados urbanos que viajaron dentro del país no existiría relación entre la cantidad de integrantes (miembros del hogar) del grupo de viaje y la duración de la estadía. No obstante, no puede descartarse que estas variables muestren algún tipo de asociación en determinados segmentos de turistas.
+
+En segundo lugar, sí se registraría un error de magnitud al utilizar las formas erróneas de cálculo del gasto promedio diario. Si bien no es lógicamente imposible que suceda, resultaría verdaderamente muy difícil encontrar una situación real en la que la estimación mediante la forma 2 y, especialmente, mediante la forma 1 arrojen valores inferiores a los correctos (es decir, a los que se arriba mediante la forma de cálculo 3); por lo general, el valor alcanzado será sustancialmente más elevado que el real.
+
+Esto obedece a que el gasto turístico (al igual que en muchos otros casos) responde a lógicas de escala: manteniendo constantes las mismas variables (medio de transporte, tipo de alojamiento, motivo, etc.) la tendencia es que el gasto promedio diario por turista disminuya a medida que se incrementa la cantidad de integrantes del grupo de viaje[^propuestas_metodologicas-112] y a medida que se incrementa la estadía[^propuestas_metodologicas-113]. Cómo se mencionó, la relación no es lineal (es decir no se verifica en todos los casos), pero sí presenta un alto nivel de probabilidad de ocurrencia. Además, esta relación no afecta por igual a todos los rubros, lo que implica también que estas variables afectan la estructura relativa del gasto turístico (es decir, qué parte corresponde a alimentación, alojamiento, etc.) [^propuestas_metodologicas-114]. Las siguientes figuras muestran (siguiendo con el turismo interno de la EVyTH[^propuestas_metodologicas-115]) cómo disminuye el gasto promedio diario cuando aumenta la cantidad de integrantes del grupo de viaje (a la izquierda, columnas bordó), cuando aumenta la estadía (en el centro, columnas azules) y también cuando aumenta el resultado de la combinación de ambas (a la derecha, columnas verdes) [^propuestas_metodologicas-116].
+
+[^propuestas_metodologicas-112]: Para dar un ejemplo cotidiano: suponiendo que una habitación doble para dos personas en un hotel cuesta \$500, el gasto diario en alojamiento para cada una de las personas será de \$250. Si sólo viajara una persona, el costo de una habitación (la misma u otra simple), sería el mismo o algo menor, pero difícilmente la mitad de aquel. Así, si el costo de una habitación en el mismo hotel para una persona fuera de \$400, es evidente que el gasto diario en este rubro resulta superior al que se registraba cuando la habitación la compartían dos personas (\$250).
+
+[^propuestas_metodologicas-113]: Nuevamente, hay ciertos gastos que adquieren la forma de "componente fijo" en el gasto total del viaje, como es el caso del transporte a destino, donde se gastará lo mismo sea cual sea la estadía (por ejemplo \$1.000), pero su monto en el gasto diario dependerá de cuánto dure la estadía: si la estadía se extiende por dos noches, el gastos diario en transporte será de \$500, en cambio, si el viaje se extiende por 20 noches, el gasto diario en transporte será de sólo \$50; además, no sólo caerá su valor absoluto, sino también su peso relativo: cuanto más se extienda el viaje, menor será el gasto en transporte en relación al resto de los rubros (por ejemplo, alimentación y alojamiento). En otros rubros, la relación no es tan directa pero evidentemente existe: el tipo de gasto en comidas y bebidas no será el mismo para quien viaja una noche (y que probablemente concurrirá a restaurantes para alimentarse) para quien lo hace por dos semanas, donde quizás acuda algunas veces a restaurantes pero otras se alimente mediante estrategias más económicas (comprar comida "para llevar", cocinar sus propios alimentos, etc.): si bien en el segundo caso el monto global del gasto en alimentación será mayor que en el primero, al prorratear ese monto por la extensión del viaje el gasto diario de quien viajó por una noche y se alimentó en restaurante será sustancialmente superior.
+
+[^propuestas_metodologicas-114]: Evidentemente, existe un amplio abanico de variables relacionadas con el nivel del monto del gasto de los turistas (el tipo de alojamiento, las actividades realizadas, los lugares y formas de alimentarse, etc.), pero esas variables están referidas a la multiplicidad de características que puede asumir un viaje y, por tanto, con los valores que asumirá dicho gasto en cada contexto específico, lo cual es algo independiente y totalmente distinto a los errores en las fórmulas de estimación de los indicadores, que es lo que aquí se pone en cuestión.
+
+[^propuestas_metodologicas-115]: Cabe señalar que la EVyTH indaga por la totalidad del gasto en el viaje, desde el momento de la salida hasta el del retorno al entorno habitual, por tanto, se incluye en dicho monto el traslado de ida y vuelta hacia el destino del viaje. Sin dudas, se trata de uno de los rubros que más elasticidad muestra respecto a su peso absoluto y relativo en la composición del gasto turístico en cuanto a las dos variables contempladas, es decir, tamaño del grupo de viaje y estadía. Dado que en general las encuestas de perfil (realizadas desde la óptica del destino) suelen o bien excluir o bien indagar por separado entre este gasto y el gasto en destino, es esperable que allí la brecha que surja de los resultados obtenidos mediante las formas de cálculo 1 y 2 respecto al valor correcto (forma 3) sea algo menor a la que muestra este ejercicio basado en la EVyTH. 
+
+    No obstante, como se sugirió en la sección anterior, el gasto en transporte (la parte correspondiente a la provincia) no debe ser soslayado en la medición de la contribución económica del turismo.
+
+[^propuestas_metodologicas-116]: Otra manera de expresar esta relación, de modo sintético, es a partir de coeficientes de correlación, como el r de Pearson (que varía entre -1 y +1, no existiendo correlación en el valor 0). Este coeficiente alcanza un valor de -0,157 al considerar el gasto diario promedio y la cantidad de participantes del viaje (se suele considerar que la existe correlación significativa a partir de valores de 0,05/-0,05) y llega hasta -0,301 en el caso de la estadía y el gasto. Es decir, existe una correlación inversa (cuando una variable crece la otra disminuye) fuerte entre gasto diario y tamaño del grupo viajero y una correlación inversa muy fuerte entre gasto diario y estadía del viaje.
+
+**Figuras 0010**
+
+Recapitulando, las formas 1 y 2 son incorrectas porque sus fórmulas no contemplan estas variables, y la cuestión de gasto de escala asociada a ellas. La forma 1 de calcular el gasto promedio es incorrecta porque no contempla ni el tamaño del grupo de viaje ni la extensión de la estadía, con lo cual, trayendo a cuenta un ejemplo extremo, a la hora de calcular el gasto diario valdrían lo mismo (pues se realiza un promedio simple) un turista japonés que viajó sólo y estuvo una noche en el destino, alojado en un hotel de alta categoría y utilizando servicios de alta gama, que un encuestado residente en la misma provincia, que viajó a otra localidad junto a toda su familia (cinco integrantes en total), con quienes se alojó en un camping económico durante 30 noches, procurando gastar lo menos posible en alimentación y sin gastar dinero, prácticamente, en otros rubros. En el caso de la forma 2 el error se subsana en parte, pues al estimar el gasto promedio diario de los turistas de un destino toma en cuenta la duración de la estadía (siguiendo el ejemplo, el turista japonés valdría uno, mientras el turista proveniente de provincia limítrofe valdría 30), pero sigue sin tomar en cuenta el tamaño del grupo de viaje. **La única manera entonces, de arribar a resultados válidos, es tomar en cuenta no sólo el nivel de gasto diario del encuestado sino también la duración de su estadía y el tamaño del grupo de viaje del que formaba parte**.
+
+## **El campo, consistencia y procesamiento**
+
+Hasta aquí el centro de la atención ha sido puesto en el diseño de la investigación, es decir, en lo referido a la definición de los objetivos y universo bajo análisis, a la construcción de la muestra y al diseño del formulario. 
+
+No obstante, que todas estas cuestiones sean resueltas satisfactoriamente no implicará que se arribe a resultados exitosos si no se atiende a la calidad del trabajo de campo y a las etapas posteriores al mismo. En esta sección se presenta una enumeración y una breve descripción de las tareas involucradas en estas etapas. Como se mencionó, si bien las etapas pueden ser ordenadas lógicamente, existe un ida y vuelta constante entre ellas.
+
+### **Capacitación**
+
+La capacitación del equipo de campo (encuestadores, supervisores, jefes de campo, analistas, ingresadores) constituye una condición imprescindible para garantizar la calidad de la información recolectada.
+
+\
+Un formulario no puede resolver explícitamente todas las situaciones y complejidades que la realidad presenta, ni debe pretenderlo, pues se correrá el riesgo de que, en la búsqueda de la exhaustividad plena, se complejice la recolección de la información para los casos que no presentan dificultades especiales y que, las más de las veces, constituyen la gran mayoría de los casos.
+
+Por eso, es preciso que el equipo de campo reciba una capacitación donde se explique el objetivo de cada pregunta, el concepto que está por detrás, la forma en que debe ser administrada y el alcance de cada opción de respuesta. Además, en esta instancia es cuando deben brindarse las herramientas para que el encuestador pueda resolver las situaciones complejas que se presentarán en la situación de entrevista.
+
+Durante la capacitación debe hacerse especial hincapié en que los encuestadores deben leer las preguntas tal como aparecen en el formulario, de modo de garantizar la comparabilidad de la información obtenida (eventualmente, deben plantearse alternativas para explicarle al entrevistado cuando no entienda la pregunta original, sin que ello afecte a la validez de la respuesta). En este marco, otro aspecto fundamental es conminar al encuestador a realizar todas las preguntas del formulario, sin inferir por sí mismo las respuestas.
+
+Explicar las consideraciones que deben tenerse al marcar una opción de respuesta "otro/a/s" en una pregunta y cómo proceder ante ese caso, así como insistir en la necesidad de obtener respuestas válidas, instando a repreguntar cuando el entrevistado no sepa o no pueda responder ante la primera vez que se realiza la pregunta son también cuestiones de crucial importancia.
+
+\
+Pero la capacitación no debe versar únicamente sobre una explicación detallada del formulario. El equipo de campo debe conocer los objetivos del estudio y poder identificar inequívocamente a la población bajo estudio. Además, el encuestador debe ser entrenado acerca de las mejores maneras de abordar a los potenciales entrevistados y, fundamentalmente, en los procedimientos e instrucciones para la identificación y/o la selección de los casos a encuestar, más cuando esta cuestión se revela de capital importancia para garantizar la bondad de una muestra para obtener información estadística realmente representativa del universo que se pretende estudiar.
+
+Además de la instancia de capacitación (idealmente combinando exposición de conceptos y ejercitación), es altamente recomendable que ésta sea acompañada por un **manual** donde se plasme toda la información que el equipo de campo requiere para llevar a cabo su trabajo satisfactoriamente. El manual debería ser la primera referencia para consultar ante dudas que puedan surgir, tanto de índole conceptual como práctica. Cabe indicar que, además del manual del encuestador, es de utilidad producir otros manuales que detallen las tareas y las formas en que se debe proceder en otras funciones del trabajo de campo (supervisores, analistas de información, jefes de campo, etc.).
+
+### **Planificación**
+
+Esta instancia implica tanto establecer las funciones del personal que participará del operativo de campo como explicitar las pautas generales y específicas para la realización del mismo.
+
+Más allá de la función esencial del encuestador, es recomendable contar con supervisores y con personal dedicado a la recepción y al análisis del material completado en campo,  además lógicamente de personal abocado a la carga informática de la información recolectada (dependiendo de la magnitud del estudio, algunas de estas funciones pueden ser encarnadas por las mismas personas).
+
+Los supervisores estarán encargados tanto de asistir a los encuestadores en su trabajo y de controlar que se desempeñen según las pautas conceptuales y operativas establecidas. 
+
+La recepción y el análisis constituye una etapa crucial, pues allí deben aplicarse controles de completitud y consistencia de la información recolectada, es decir, verificar (preferentemente con el encuestador presente) que no se hayan omitido preguntas y que las respuestas entre distintas preguntas sean congruentes.
+
+\
+Al respecto, pueden mencionarse inconsistencias de dos tipos: errores, es decir situaciones que carecen de lógica (por ejemplo, si un grupo de viaje encuestado menciona haberse alojado en un hotel, no puede no tener gasto en alojamiento) y advertencias, es decir, situaciones que si bien no son normales o esperadas, pueden llegar a ser verdaderas, pero requieren de una explicación que así lo justifique (por ejemplo, puede no haber gastos en el día de referencia de la indagación de los gastos porque ese día el grupo de viaje se alojó en la casa de familiares, donde comieron sobras de una fiesta del día anterior). Para organizar y hacer más eficiente esta etapa del trabajo, es recomendable preparar previamente **listados de consistencias** estandarizados.
+
+Otro insumo para este puesto de trabajo son los **libros de códigos**, es decir, tablas que permitan consignar códigos a las respuestas a preguntas abiertas, referidas a lugares geográficos, opiniones, etc. Del mismo modo, en esta etapa debe revisarse la descripción que comúnmente acompaña al registro de la opción "otros", evaluando si realmente se trata de una respuesta no contenida en las opciones previstas o si debe ser asignada a alguna de ellas.
+
+Cuanto más se compriman temporalmente las etapas de levantamiento de las encuestas, de la recepción y análisis y de la carga informática de las mismas, mayor será la calidad de la información, pues cuanto menor tiempo transcurra entre ellas, mayor será la oportunidad de corregir errores u omisiones en el registro de las respuestas por parte de los encuestadores. 
+
+La planificación implica también definir en qué días, horarios y lugares específicos se realizarán las encuestas (en consonancia con el diseño muestral de la investigación) y diseñar la logística necesaria para que lo previsto realmente se cumpla. A partir de esta información y de estimaciones razonables sobre la cantidad de encuestas por hora o por día que una persona puede realizar, podrá estimarse el personal necesario para llegar al tamaño muestral planteado (y su costo). 
+
+También es preciso prever todos los materiales necesarios para que el equipo de campo pueda realizar su tarea, desde los formularios impresos hasta las planillas de registro y de control del trabajo de campo y los útiles necesarios (lápiz, lapicera, goma, etc.).
+
+Por otro lado, deben definirse los momentos (y la periodicidad) y lugares en que los encuestadores deben concurrir a retirar los materiales (formularios, cantidades a relevar, pautas de trabajo, etc.) y a entregar las encuestas completas.
+
+\
+Finalmente, en esta etapa debe preverse de qué modo se realizará la carga de la información en soportes informáticos para su posterior procesamiento. El abanico es amplio y va desde una carga directa en una base de datos hasta la utilización de programas informáticos diseñados a tal fin. La última opción es recomendable, pues permite incorporar pautas de consistencia y así encontrar errores que no hayan sido detectados en etapas anteriores de revisión. En este punto, existen desde programas sencillos (de uso relativamente intuitivo y amigable) hasta otros más complejos, disponibles en plataformas web gratuitas, o bien, si se cuenta con los recursos técnicos y económicos, puede optarse por programas de desarrollo propio. En cualquier caso, debe tenerse en cuenta que algunos formatos de preguntas son complejos (y a veces imposibles) de resolver en los programas de carga, con lo que es recomendable tener en cuenta estas limitaciones para la construcción del formulario. Idealmente, el programa de carga de la información debería ser construido y testeado previo al inicio del operativo de campo.
+
+Muchas veces, no prestar la debida atención a estas cuestiones, que a primera vista pueden parecer triviales o evidentes, puede llevar a que el estudio fracase, en términos de recolectar mucha menos información que la prevista (y/o con un bajo estándar de calidad) y de ese modo no poder dar cuenta de los objetivos de la investigación.
+
+\
+**3.6.3. Prueba Piloto**
+
+La prueba piloto de cualquier estudio constituye una instancia fundamental, pues permitirá corroborar si las decisiones tomadas en el diseño original de la investigación se condicen con la realidad y, eventualmente, será un insumo esencial para realizar los ajustes necesarios para el relevamiento definitivo.
+
+Normalmente, la prueba piloto se realiza un tiempo prudencial antes de la salida a campo definitiva, de modo de contar con el tiempo necesario para las modificaciones y ajustes. Se trata de replicar a pequeña escala el estudio final, con una cantidad de casos pequeña pero que garantice la variabilidad de situaciones que se presume se encontrarán en la población bajo análisis.
+
+Entre otras cuestiones, la prueba piloto debería servir para chequear:
+
+-   La coherencia interna del formulario (pases, filtros, opciones de respuesta no contempladas, que no existan situaciones no resueltas o confusas).
+
+-   La comprensión cabal de las preguntas del formulario por parte de los encuestadores y de los encuestados (es decir, que ambos entiendan qué información se pretende obtener con cada pregunta).
+
+-   Los supuestos del trabajo de campo (cuántas encuestas por día en promedio puede realizar un encuestador, cómo funcionan los procedimientos previstos para la selección de los encuestados en los distintos puntos muestrales, etc.).
+
+-   La eficiencia de las distintas fases del trabajo de campo (entrega del material, instancias de supervisión, recepción y control del material completo, etc.).
+
+\
+
+### **Operativo**
+
+Una vez realizada la prueba piloto y realizados los ajustes necesarios en las diferentes etapas del diseño de la investigación, se estará en condiciones de realizar el operativo de campo o relevamiento de la información. El operativo de campo se inicia cuando los encuestadores empiezan a realizar las encuestas y culmina cuando toda la información recolectada ha sido validada y cargada en un soporte informático.
+
+Lógicamente, esta etapa es el corazón de la investigación y para que sea exitosa deben haberse resuelto satisfactoriamente todas las etapas anteriores: una vez iniciado el relevamiento definitivo, salvo pequeños detalles, no será posible volver atrás en las decisiones tomadas y, por tanto, no será posible revertir los efectos nocivos que podrían acarrear errores en el diseño metodológico y en la organización práctica del relevamiento.
+
+\
+
+### **3.6.5. Depuración y validación** 
+
+Una vez concluido el trabajo de campo y cargada la información, se tendrá la base de datos original. Sin embargo, todavía faltarán algunos pasos para que puedan extraerse de allí los resultados pretendidos.
+
+Una primera tarea consiste en realizar la **depuración y la validación final** de la base de datos. Esto implica, por ejemplo, descartar las encuestas incompletas (entrevistados que contestaron sólo una parte de las preguntas, o que bien llegaron hasta el final pero con una gran cantidad de no respuestas, por desconocimiento o por negarse a responder), o que, pese a haber pasado las instancias anteriores, a juicio de quien o quienes están a cargo de la metodología de la investigación, no cumplen los estándares de calidad mínimos para ser admitidas como casos válidos.
+
+En esta etapa se deberán analizar las respuestas a las preguntas abiertas (si las hubiera), creando una tipología o sistema de categorías que permita clasificarlas para su tratamiento estadístico. Del mismo modo, en aquellas preguntas que la categoría "otros" alcance a una porción sustancial de los casos (más de 5% o 7%, por ejemplo) deberá evaluarse la creación de nuevas categorías en las cuales consignar y dar entidad a situaciones con cierta preeminencia que no habían sido contempladas entre las opciones de respuesta originales.
+
+\
+**3.6.6. Imputación de valores faltantes**
+
+Indefectiblemente, aún con la base depurada, existirán casos con una o algunas preguntas sin respuesta. En algunos casos, en preguntas de tipo nominal u ordinal (motivo de viaje,  calificación de servicios turísticos, etc.) puede aceptarse su existencia siempre que no superen un nivel razonable (por ejemplo, el 3% o el 5% de los casos)[^propuestas_metodologicas-117]. En cambio, en las preguntas sobre cantidades (integrantes del grupo, duración de la estadía, gastos) es recomendable **imputar** los valores faltantes.
+
+[^propuestas_metodologicas-117]: Debe tenerse en cuenta que, aún cuando se trate de variables de tipo nominal u ordinal, existe un subconjunto de preguntas en las que no se podrá admitir la no respuesta: se trata de aquellas que serán utilizadas para la construcción de los factores de expansión. Normalmente, esta información refiere al tamaño del grupo de viaje, al tipo de visitante (turista o excursionista, es decir, si pernoctó o no en el destino) y al lugar de residencia (misma provincia, otra provincia, exterior); sin embargo, dependiendo del marco muestral construido, pueden referir al tipo de alojamiento o al medio de transporte utilizado.
+
+Para ello existen estrategias metodológicas de diferente complejidad, desde imputaciones por la media, la moda[^propuestas_metodologicas-118] o la mediana[^propuestas_metodologicas-119] (para el total de casos o para grupos definidos según otra u otras variables relevantes)[^propuestas_metodologicas-120] hasta regresiones múltiples y modelizaciones. Lógicamente, la estrategia a aplicar dependerá de los recursos técnicos e informáticos disponibles: lo importante es que dicha estrategia sea aplicada en todos los casos respetando la misma metodología (que debería ser explicitada).
+
+[^propuestas_metodologicas-118]: La moda es el valor que registra mayor cantidad de casos en una distribución de frecuencias.
+
+[^propuestas_metodologicas-119]: La mediana es el valor que divide en dos partes iguales a los casos.
+
+[^propuestas_metodologicas-120]: Por ejemplo, la estadía promedio de los turistas puede ser de 4 noches, pero si se considera el lugar de residencia quizás existan fuertes diferencias (por caso, 2 noches para los residentes en la misma provincia, 5 para los del resto del país), lo cual hará recomendable aplicar este último criterio.
+
+Cabe indicar que la no respuesta afecta fundamentalmente a las preguntas sobre gasto, que muchas veces constituyen el objetivo central en este tipo de estudios, lo que implica que se debe prestar especial atención a diseñar las estrategias de imputación más adecuadas, analizando pros y contras de diferentes alternativas y evitando la introducción de sesgos que afecten la representatividad de los resultados.
+
+### **3.6.7. Factores de expansión**
+
+Como se ha comentado largamente hasta aquí, los datos obtenidos no pueden ser analizados en forma simple o directa, asumiendo que todos "valen uno". Es decir, previo al procesamiento es preciso establecer a cuántos casos (o a qué proporción) del universo representa cada encuesta. Esto implica, ni más ni menos que construir los **ponderadores o factores de expansión**.
+
+Lógicamente, para la construcción de los ponderadores debe considerarse el diseño muestral pues de allí se deriva la probabilidad de selección de cada caso (cabe recordar que el ponderador representa la inversa de dicha probabilidad). De allí se obtendrá el **ponderador inicial** que luego del proceso de **calibración** (si correspondiera), es decir, del ajuste de los pesos para que arrojen la estructura de las variables contenidas en el marco muestral, se obtendrá el **ponderador o factor de expansión final.**
+
+Los resultados finales **siempre deben ser los resultados que se obtengan ponderando los casos de la muestra.** 
+
+\
+
+### **3.6.8. Procesamiento e informes**
+
+Cumplidas las etapas precedentes se tendrá la base de datos final ("base usuario"), lista para el procesamiento de la información, es decir, para la obtención de los resultados.
+
+\
+Como principio básico, el o los informes de resultados que surjan deberán responder primordialmente a los objetivos planteados en la investigación. Esto no implica que no pueda incluirse información sobre aspectos no centrales o sobre aspectos novedosos o interesantes que surjan del estudio y que no hayan sido previstos originalmente, sino simplemente que los resultados que den respuesta a los objetivos planteados no pueden faltar.
+
+Una cuestión sobre la que cabe llamar nuevamente la atención es la necesidad de tener siempre presente los niveles de error estadístico de las estimaciones en la lectura de los resultados (fundamentalmente en los cruces de variables y en las comparaciones entre distintos momentos de tiempo), evitando arribar a conclusiones falaces, como mencionar diferencias que en realidad no pueden aseverarse desde el punto de vista estadístico.
+
+Finalmente, es altamente recomendable, y una buena práctica habitual en otros ámbitos de producción de conocimiento, incluir (al inicio, a modo de anexo o donde se considere conveniente) un espacio de notas técnicas donde se dé cuenta de las principales características metodológicas del estudio, tales como el universo bajo análisis, los objetivos, el periodo de referencia y la cobertura territorial, el tipo de muestreo, el diseño de la muestra, su tamaño y el margen de error asociado, las principales características del trabajo de campo y las limitaciones y advertencias del caso necesarias para una correcta interpretación de los resultados.\
