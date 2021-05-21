@@ -284,23 +284,16 @@
 <li><p><strong>Tamaño de la población</strong>. Habiendo definido un determinado nivel de confianza y margen de error, y determinada la dispersión de la población en torno a la/s variables bajo estudio, el tamaño de muestra necesario para obtener información de acuerdo a estos parámetros aumenta a medida que se incrementa el tamaño del universo o población bajo estudio. No obstante, ello ocurre hasta cierto nivel, pues a partir de universos de unos diez mil casos y hasta el infinito, el tamaño de la muestra presenta diferencias insignificantes (es decir, el tamaño de la muestra depende cada vez menos del tamaño de la población). Por ello, a un universo de menos de diez mil unidades se lo suele denominar <strong>población finita,</strong> mientras que si supera este umbral se lo considera como <strong>población infinita</strong>, lo que, entre otras cuestiones, permite la simplificación de los cálculos. Además, en el caso del turismo en general y de las encuestas de perfil en particular, su unidad de análisis, el visitante, resulta esquiva y compleja de cuantificar, por eso, salvo en casos donde exista plena certeza que la población objetivo es relativamente pequeña y puede ser cuantificada (por ejemplo, un festival al que acuden dos mil personas), <strong>siempre se recomienda utilizar el supuesto de población infinita</strong>.</p></li>
 </ul>
 <p>Por razones de simplicidad, aquí se aborda el cálculo del tamaño de una muestra asumiendo un MAS (del cual se derivan todos los demás tipos de muestreo) bajo el supuesto de población infinita y cuando el valor a estimar es una proporción o porcentaje.</p>
+<div class="note">
 <p>Cabe indicar que la determinación del tamaño de la muestra implica en, primer término, identificar las variables más relevantes y considerar el tamaño mínimo necesario para dar respuesta a ellas. Cuando se trata de analizar únicamente porcentajes o proporciones, nuevamente, asumir p=50% garantiza que el tamaño de muestra permitirá obtener resultados con el nivel de precisión deseada. En cambio, si se procura estimar cantidades, la situación es más compleja y exige un análisis profundo de la dispersión (varianza) de las variables involucradas<a href="#fn41" class="footnote-ref" id="fnref41"><sup>41</sup></a>.</p>
+</div>
 <p>En este marco la fórmula para calcular un tamaño muestral es la siguiente:</p>
-<p><strong>Hacer este gráfico</strong></p>
-<table>
-<thead>
-<tr class="header">
-<th>n=z2pqe2</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p><span class="math display">\[n = \frac{z^2pq}{e^2}\]</span></p>
 <p>donde,<br />
-n= tamaño de la muestra (valor a obtener).<br />
-z= valor estandarizado para el nivel de confianza deseado. <strong>Para una confianza del 90%,</strong> z <strong>es igual a 1.645</strong><a href="#fn42" class="footnote-ref" id="fnref42"><sup>42</sup></a>.<br />
-p= La proporción estimada (o la probabilidad del suceso). <strong>Se recomienda</strong> p=0.5<br />
-q= El complemento de la proporción estimada (o la probabilidad del suceso), o sea, 1-p (dado que se recomienda un valor de p igual a 0,5, q equivaldría a ese mismo valor)<br />
+<span class="math inline">\(n=\)</span> tamaño de la muestra (valor a obtener).<br />
+<span class="math inline">\(z=\)</span> valor estandarizado para el nivel de confianza deseado. <strong>Para una confianza del 90%,</strong> z <strong>es igual a</strong> <span class="math inline">\(1.645\)</span><a href="#fn42" class="footnote-ref" id="fnref42"><sup>42</sup></a>.<br />
+<span class="math inline">\(p=\)</span> La proporción estimada (o la probabilidad del suceso). <strong>Se recomienda</strong> p=0.5<br />
+<span class="math inline">\(q=\)</span> El complemento de la proporción estimada (o la probabilidad del suceso), o sea, 1-p (dado que se recomienda un valor de p igual a 0,5, q equivaldría a ese mismo valor)<br />
 e= El margen de error porcentual deseado dividido por 100 (por ejemplo, 0,03 para un error igual a 3%).</p>
 <p><br />
 En la fórmula puede apreciarse por qué el tamaño de la muestra aumenta a medida que se incrementa el nivel de confianza (z) y la variabilidad (p*q) –elementos que se ubican en el numerador- y cuando se procura obtener estimaciones de mayor precisión (es decir, con menor error estadístico). Además esta relación no es lineal sino exponencial (al estar estos elementos elevados al cuadrado).</p>
@@ -972,7 +965,7 @@ Como principio básico, el o los informes de resultados que surjan deberán resp
 <li id="fn38"><p>Nuevamente, el concepto de error aquí asume una connotación técnica diferente a la que registra esta palabra en el sentido común. El margen de error estadístico no surge de una equivocación, sino que indica la máxima distancia a la que se ubica, con un determinado nivel de confianza, el valor verdadero (es decir, del conjunto de la población bajo estudio) respecto a la estimación que brindará la muestra.<a href="propuestas-metodológicas.html#fnref38" class="footnote-back">↩︎</a></p></li>
 <li id="fn39"><p>Una proporción es un valor que oscila entre 0 y 1 (donde 0 indica que ningún elemento de la población asume una determinada característica y 1 indica que esa característica es común a todos los elementos que conforman la población), mientras que el porcentaje simplemente surge de multiplicar por 100 una proporción, con el fin primordial de simplificar la lectura de la información. Por ejemplo, una proporción de 0,15 se corresponde a un porcentaje del 15%.<a href="propuestas-metodológicas.html#fnref39" class="footnote-back">↩︎</a></p></li>
 <li id="fn40"><p>Como regla general, para alcanzar una estimación con un mismo nivel de confianza y error, el tamaño de la muestra, en comparación con la estimación de una proporción, aumenta cuando se pretende estimar promedios y más aún cuando se procura conocer totales. Además, a diferencia de la estimación de proporciones (donde el problema se soluciona considerando p=50%), en el caso de la estimación de promedios y totales, es preciso siempre definir un determinado valor para la varianza. En estos casos, la información puede estar dada por los resultados de un estudio anterior, por una prueba piloto, o por supuestos basados en la analogía con casos similares.<a href="propuestas-metodológicas.html#fnref40" class="footnote-back">↩︎</a></p></li>
-<li id="fn41"><p>El margen de error que se toma en cuenta para el cálculo del tamaño de la muestra se referencia en una estimación puntual, real o hipotética (como el caso de p=50%). Pero una vez definido el tamaño de la muestra, cada resultado tendrá asociado un nivel de error propio. </p>
+<li id="fn41"><p>El margen de error que se toma en cuenta para el cálculo del tamaño de la muestra se referencia en una estimación puntual, real o hipotética (como el caso de p=50%). Pero una vez definido el tamaño de la muestra, cada resultado tendrá asociado un nivel de error propio.</p>
 <p>Esta apreciación es relevante porque es común que la ficha técnica de un estudio informe un determinado nivel de error estadístico: en realidad, ese error indica el margen de error máximo que cabría esperarse para un valor del 50% (es decir, máxima heterogeneidad) en la variable más importante de las que se relevan (por ejemplo, intención de voto en las encuestas de coyuntura política).<a href="propuestas-metodológicas.html#fnref41" class="footnote-back">↩︎</a></p></li>
 <li id="fn42"><p>Cuanto mayor sea el nivel de confianza, mayor será el valor de z. Por ejemplo, para una confianza del 95% (otro nivel usualmente utilizado en investigaciones sociales), z equivale a 1,96, mientras que para una confianza del 99%, z es igual a 2,58.<a href="propuestas-metodológicas.html#fnref42" class="footnote-back">↩︎</a></p></li>
 <li id="fn43"><p> En los casos en que se conoce el tamaño de la muestra (y se asume un MAS) es posible conocer el nivel de error, a partir de la siguiente fórmula: e=√z2pqn=√0,6765752=0,03=3%.<a href="propuestas-metodológicas.html#fnref43" class="footnote-back">↩︎</a></p></li>
@@ -1145,6 +1138,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

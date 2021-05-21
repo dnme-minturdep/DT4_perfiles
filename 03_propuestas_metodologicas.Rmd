@@ -306,24 +306,26 @@ Una muestra probabilística se construye con arreglo a un conjunto de criterios 
 
 Por razones de simplicidad, aquí se aborda el cálculo del tamaño de una muestra asumiendo un MAS (del cual se derivan todos los demás tipos de muestreo) bajo el supuesto de población infinita y cuando el valor a estimar es una proporción o porcentaje.
 
+:::note
+
 Cabe indicar que la determinación del tamaño de la muestra implica en, primer término, identificar las variables más relevantes y considerar el tamaño mínimo necesario para dar respuesta a ellas. Cuando se trata de analizar únicamente porcentajes o proporciones, nuevamente, asumir p=50% garantiza que el tamaño de muestra permitirá obtener resultados con el nivel de precisión deseada. En cambio, si se procura estimar cantidades, la situación es más compleja y exige un análisis profundo de la dispersión (varianza) de las variables involucradas[^propuestas_metodologicas-31].
 
-[^propuestas_metodologicas-31]: El margen de error que se toma en cuenta para el cálculo del tamaño de la muestra se referencia en una estimación puntual, real o hipotética (como el caso de p=50%). Pero una vez definido el tamaño de la muestra, cada resultado tendrá asociado un nivel de error propio. 
+:::
+
+[^propuestas_metodologicas-31]: El margen de error que se toma en cuenta para el cálculo del tamaño de la muestra se referencia en una estimación puntual, real o hipotética (como el caso de p=50%). Pero una vez definido el tamaño de la muestra, cada resultado tendrá asociado un nivel de error propio.
 
     Esta apreciación es relevante porque es común que la ficha técnica de un estudio informe un determinado nivel de error estadístico: en realidad, ese error indica el margen de error máximo que cabría esperarse para un valor del 50% (es decir, máxima heterogeneidad) en la variable más importante de las que se relevan (por ejemplo, intención de voto en las encuestas de coyuntura política).
 
 En este marco la fórmula para calcular un tamaño muestral es la siguiente:
 
-**Hacer este gráfico**
+ $$n = \frac{z^2pq}{e^2}$$ 
 
-| n=z2pqe2 |
-|----------|
 
 donde,\
-n= tamaño de la muestra (valor a obtener).\
-z= valor estandarizado para el nivel de confianza deseado. **Para una confianza del 90%,** z **es igual a 1.645**[^propuestas_metodologicas-32].\
-p= La proporción estimada (o la probabilidad del suceso). **Se recomienda** p=0.5\
-q= El complemento de la proporción estimada (o la probabilidad del suceso), o sea, 1-p (dado que se recomienda un valor de p igual a 0,5, q equivaldría a ese mismo valor)\
+$n=$ tamaño de la muestra (valor a obtener).\
+$z=$ valor estandarizado para el nivel de confianza deseado. **Para una confianza del 90%,** z **es igual a** $1.645$[^propuestas_metodologicas-32].\
+$p=$ La proporción estimada (o la probabilidad del suceso). **Se recomienda** p=0.5\
+$q=$ El complemento de la proporción estimada (o la probabilidad del suceso), o sea, 1-p (dado que se recomienda un valor de p igual a 0,5, q equivaldría a ese mismo valor)\
 e= El margen de error porcentual deseado dividido por 100 (por ejemplo, 0,03 para un error igual a 3%).
 
 [^propuestas_metodologicas-32]: Cuanto mayor sea el nivel de confianza, mayor será el valor de z. Por ejemplo, para una confianza del 95% (otro nivel usualmente utilizado en investigaciones sociales), z equivale a 1,96, mientras que para una confianza del 99%, z es igual a 2,58.

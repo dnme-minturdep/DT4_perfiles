@@ -111,5 +111,25 @@ pre code {
 .page-inner {
   padding-top: 200px !important;
 }
+/* -----------Sidebar div tips------------- */
+/* from r-pkgs.org*/
 
+ div.note {
+    padding: 1em;
+    margin: 1em 0;
+    padding-left: 100px;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 120px;
+    color: #1f5386;
+    background-color: #bed3ec;
+    border: solid 5px #dfedff;
+  }
+
+
+
+div.note {
+  background-image: url("../imagenes/marcadeagua.png");
+}
 
