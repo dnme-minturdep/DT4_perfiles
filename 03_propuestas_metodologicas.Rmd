@@ -28,11 +28,11 @@ Este objetivo plantea el recorte del universo bajo estudio, en términos de defi
 
 [**Objetivos Específicos:**]{.ul}
 
--   Describir las características sociodemográficas básicas de los visitantes (lugar de residencia habitual, sexo, edad, nivel educativo, composición del grupo de viaje, etc.) 
+-   Describir las características sociodemográficas básicas de los visitantes (lugar de residencia habitual, sexo, edad, nivel educativo, composición del grupo de viaje, etc.)
 
 -   Describir las características generales de sus viajes (medio de transporte, alojamiento, motivo, uso de paquete turístico, recorrido, duración, etc.).
 
--   Conocer las percepciones de los visitantes acerca del destino. 
+-   Conocer las percepciones de los visitantes acerca del destino.
 
 -   Estimar el gasto turístico que realizan los visitantes en el destino, y su desagregación en diferentes rubros.
 
@@ -42,13 +42,13 @@ Este objetivo plantea el recorte del universo bajo estudio, en términos de defi
 
 Como puede observarse, estos objetivos circunscriben claramente lo que se pretende abordar con la investigación, aun cuando no resulten exhaustivos en cuanto a toda la información que se producirá en la misma.
 
-Aunque los objetivos de este ejemplo pueden parecer sencillos, su cumplimiento es sumamente exigente desde el punto de vista metodológico. 
+Aunque los objetivos de este ejemplo pueden parecer sencillos, su cumplimiento es sumamente exigente desde el punto de vista metodológico.
 
 Más aún, un error común en el diseño de este tipo de estudios es la falta de claridad en torno a qué se busca describir y/o explicar, tanto en términos del recorte del universo bajo estudio como de las dimensiones del problema que se procura abordar, lo que lleva a realizar "barridos" de una gran cantidad de información (sobreabundante, aunque en otros casos se observa la situación contraria) a una población no bien delimitada, que luego muestran escasa utilidad, pues no se conoce sobre qué universo se realizan las inferencias.
 
 Cabe señalar que siempre, en todo proceso de investigación, existen objetivos. Sobre lo que aquí se procura llamar la atención es la necesidad de que esos objetivos no queden implícitos o se den por sobreentendidos, pues su explicitación, a partir de una reflexión rigurosa sobre lo que se pretende conocer (y sobre los recursos con los que se cuenta para ello), ayudará al diseño y definición de las siguientes etapas de la investigación, conllevando beneficios en términos de la economía (en un sentido amplio) del procedimiento. Si bien estas etapas serán abordadas en detalle más adelante, es necesario detenerse brevemente en su relación con los objetivos.
 
-Como se adelantó en el ejemplo, el planteo de los objetivos lleva implícito un primer recorte del universo, es decir, de la porción de la realidad que se pretende conocer. Este recorte debe definir concretamente las unidades de análisis y su ubicación en el espacio y tiempo. 
+Como se adelantó en el ejemplo, el planteo de los objetivos lleva implícito un primer recorte del universo, es decir, de la porción de la realidad que se pretende conocer. Este recorte debe definir concretamente las unidades de análisis y su ubicación en el espacio y tiempo.
 
 Siguiendo el ejemplo anterior, si en la etapa de campo la encuesta se relevara realiza sólo a los turistas que residen en otras provincias, se alojan en hoteles y visitan la localidad más importante de la provincia durante un evento específico que tiene lugar durante la temporada alta, es evidente que el alcance de la investigación resultará más acotado que el pretendido en los objetivos. En este punto, las alternativas son, o bien ampliar el alcance del marco muestral y del trabajo de campo (de modo tal que queden incluidos todos los visitantes, independientemente de si son turistas o excursionistas, de su lugar de residencia, del tipo de alojamiento utilizado, de la localidad de la provincia que visiten y del momento de la temporada alta en que arriben) o bien acotar los objetivos a lo que realmente se dará cuenta a partir de la investigación que puede llevarse a cabo[^propuestas_metodologicas-2].
 
@@ -74,17 +74,11 @@ Las **unidades de relevamiento** son aquellas sobre quién se obtendrá la infor
 
 El **informante**, por su parte, es quién en concreto brindará la información que se propone obtener de la investigación. En definitiva, es a quien se entrevistará[^propuestas_metodologicas-4].\
 
-[^propuestas_metodologicas-4]:  El informante puede o no coincidir con la unidad de relevamiento. Por ejemplo, en una encuesta de intención de voto, la unidad de análisis, la unidad de relevamiento y el informante coinciden. Pero en una encuesta económica esto no será así: la unidad de relevamiento será la empresa o negocio, pero, obviamente, el informante será una persona en condiciones de brindar la información solicitada.
+[^propuestas_metodologicas-4]: El informante puede o no coincidir con la unidad de relevamiento. Por ejemplo, en una encuesta de intención de voto, la unidad de análisis, la unidad de relevamiento y el informante coinciden. Pero en una encuesta económica esto no será así: la unidad de relevamiento será la empresa o negocio, pero, obviamente, el informante será una persona en condiciones de brindar la información solicitada.
 
-Antes de avanzar en la complejidad que plantean las encuestas de perfil, se planteará un ejemplo sencillo y usual de la definición de estos conceptos.
-
-En Argentina desde hace muchos años se releva la Encuesta Permanente de Hogares (EPH), con el objetivo de contar con un monitoreo continuo y sistemático de la situación del mercado de trabajo y de las condiciones de vida.
-
-El universo teórico de la EPH está constituido por la población argentina, pero su universo concreto se limita a la población residente en los grandes aglomerados urbanos del país (donde residen aproximadamente dos tercios de la población total).
-
-Esta investigación tiene múltiples unidades de análisis: las viviendas, los hogares (aunque generalmente coinciden, en una vivienda puede encontrarse más de un hogar, pues éste se define como el conjunto de personas que habitan en la misma vivienda y que, además, tienen un presupuesto común) y las personas. Entre las personas, un subconjunto de particular interés lo constituyen aquellas que son económicamente activas (ocupados o desocupados), que pueden ser definidas como otra unidad de análisis, claro que derivada de la anterior.
-
-El marco muestral (el listado de unidades sobre el que se seleccionará la muestra) está compuesto por viviendas. En las viviendas seleccionadas se encuestan todos los hogares existentes: los hogares constituyen la unidad de relevamiento de la EPH. Lógicamente, no es el hogar (entidad definida conceptualmente) quien responde la encuesta, sino que el informante es una persona integrante del mismo, en condiciones de brindar información sobre el mismo, el resto de los integrantes del hogar y las características físicas de la vivienda (por ello se solicita que el informante sea una persona mayor de una determinada edad).
+::: {.note}
+Antes de avanzar en la complejidad que plantean las encuestas de perfil, se planteará un ejemplo sencillo y usual de la definición de estos conceptos. En Argentina desde hace muchos años se releva la Encuesta Permanente de Hogares (EPH), con el objetivo de contar con un monitoreo continuo y sistemático de la situación del mercado de trabajo y de las condiciones de vida. El universo teórico de la EPH está constituido por la población argentina, pero su universo concreto se limita a la población residente en los grandes aglomerados urbanos del país (donde residen aproximadamente dos tercios de la población total). Esta investigación tiene múltiples unidades de análisis: las viviendas, los hogares (aunque generalmente coinciden, en una vivienda puede encontrarse más de un hogar, pues éste se define como el conjunto de personas que habitan en la misma vivienda y que, además, tienen un presupuesto común) y las personas. Entre las personas, un subconjunto de particular interés lo constituyen aquellas que son económicamente activas (ocupados o desocupados), que pueden ser definidas como otra unidad de análisis, claro que derivada de la anterior. El marco muestral (el listado de unidades sobre el que se seleccionará la muestra) está compuesto por viviendas. En las viviendas seleccionadas se encuestan todos los hogares existentes: los hogares constituyen la unidad de relevamiento de la EPH. Lógicamente, no es el hogar (entidad definida conceptualmente) quien responde la encuesta, sino que el informante es una persona integrante del mismo, en condiciones de brindar información sobre el mismo, el resto de los integrantes del hogar y las características físicas de la vivienda (por ello se solicita que el informante sea una persona mayor de una determinada edad).
+:::
 
 La definición del universo, tanto teórico como concreto, y de las diferentes unidades en las encuestas de perfil suelen prestarse a confusión: la complejidad del objeto de estudio exige un esfuerzo extra para evitar errores que luego invaliden los resultados obtenidos.
 
@@ -107,13 +101,13 @@ De acuerdo a las pautas internacionalmente aceptadas para la medición del turis
 
 Definir correctamente lo que es un visitante implica poder distinguirlo de otros viajeros que no son visitantes (y que, por tanto, no hacen al turismo) y de otras personas residentes en el destino que pueden realizar actividades típicamente turísticas (visitar atractivos naturales, asistir a eventos artísticos o culturales e incluso, alojarse en hoteles).
 
-La definición conceptual del visitante implica que:
+1.  La definición conceptual del visitante implica que:
 
-1.  A diferencia de otros viajeros, un visitante viaja a un **destino distinto de su** **entorno habitual.** El entorno habitual es la zona geográfica donde se ubica su residencia habitual y, además de ésta, las zonas geográficas en las que se desenvuelve cotidianamente (ya sea por trabajo, estudio u otras actividades regulares).
+    1.  A diferencia de otros viajeros, un visitante viaja a un **destino distinto de su** **entorno habitual.** El entorno habitual es la zona geográfica donde se ubica su residencia habitual y, además de ésta, las zonas geográficas en las que se desenvuelve cotidianamente (ya sea por trabajo, estudio u otras actividades regulares).
 
-2.  En segundo lugar, además de viajar fuera de su entorno habitual, el viaje debe ser de una **duración inferior a un año** (un viaje de duración superior a un año supondría un movimiento migratorio, no un viaje turístico).
+    2.  En segundo lugar, además de viajar fuera de su entorno habitual, el viaje debe ser de una **duración inferior a un año** (un viaje de duración superior a un año supondría un movimiento migratorio, no un viaje turístico).
 
-3.  En tercer, y último lugar, el viaje debe responder a **cualquier finalidad principal que sea distinta de ser empleado laboralmente por una entidad residente** en el lugar visitado[^propuestas_metodologicas-6].
+    3.  En tercer, y último lugar, el viaje debe responder a **cualquier finalidad principal que sea distinta de ser empleado laboralmente por una entidad residente** en el lugar visitado[^propuestas_metodologicas-6].
 
 [^propuestas_metodologicas-6]: Existen algunas pocas excepciones que, aun cumpliendo estos requisitos no deben considerarse visitantes: tripulaciones de transporte regular de pasajeros y de transporte de carga, diplomáticos o militares en misión, nómadas y refugiados, pasajeros en tránsito que no ingresan al territorio de referencia.
 
@@ -137,7 +131,9 @@ El último ítem, la duración del viaje, no sólo brinda información para dete
 
 [^propuestas_metodologicas-9]: El sólo pasar por un área geográfica o localidad no constituye una visita turística: es necesario definir algún tipo de duración o consumo turístico para ser definida en cuanto tal, aunque las recomendaciones internacionales no plantean un criterio estricto al respecto.
 
+::: {.note}
 Un aspecto a destacar es que en el caso de las segundas viviendas (todas aquellas viviendas en propiedad o en alquiler de las que dispone un hogar, que no constituyen su vivienda principal --que es aquella donde pasa la mayor cantidad de tiempo- y que no son ocupadas en forma permanente por otro hogar) no rige el concepto de entorno habitual: por definición, **los viajes a segundas viviendas son viajes turísticos**, independientemente del lugar en que se ubiquen y de la frecuencia con la que sean visitadas. Se trata de un aspecto no menor, pues en gran parte del país, fundamentalmente en los alrededores de las grandes ciudades, es común observar un gran número de viviendas no habitadas en forma permanente pero con una alta frecuencia de uso (todos los fines de semana, por ejemplo) con motivos recreacionales. Por tanto, los estudios de perfil deberían incluir preguntas que permitan identificar estos casos[^propuestas_metodologicas-10].
+:::
 
 [^propuestas_metodologicas-10]: Más allá que no cabe discusión respecto a esta cuestión, pues se corresponde con las definiciones taxativas determinadas por la OMT al respecto, es sumamente recomendable poder diferenciar analíticamente a aquellos visitantes que utilizan segundas viviendas.
 
@@ -153,7 +149,7 @@ Como se mencionó, es usual encontrar confusiones en torno a las unidades involu
 
 Por citar un ejemplo bastante extendido en la práctica, en las instrucciones para el trabajo de campo se solicita identificar y seleccionar grupos de viaje. Dentro de los grupos de viaje escogidos se selecciona a uno de sus integrantes como informante siendo el encuestado una persona que cumple determinados requisitos (ser mayor de edad, ser el líder del grupo, etc.), y este informante será a la vez la unidad de análisis del estudio.
 
-El problema no está aquí en seleccionar grupos de viaje, ni escoger a una determinada persona que lo conforma como informante (dado que cumple ciertas condiciones que permiten presuponer que contará con los elementos para brindar la información requerida). El problema radica en que el informante no es la unidad de análisis, como plantea este diseño, sino simplemente quien brindará la información requerida. En efecto, las unidades de análisis son todos los visitantes que forman parte del grupo de viaje seleccionado (que constituye, a su vez, la unidad de relevamiento, y puede estar compuesto por uno o más visitantes). ¿Por qué? Si lo que se seleccionan son grupos de viajes y dentro de estos a uno de sus integrantes, asumiendo que la probabilidad de selección de todos los grupos de viaje sea la misma, la probabilidad de selección de cada visitante será inversamente proporcional al tamaño del grupo de viaje que integra. En otras palabras, si el grupo de viaje "A" está integrado por dos personas, cuando se selecciona ese grupo de viaje cada uno de sus integrantes tendrá un 50% de chances de ser encuestado (1 de 2), en cambio, en un grupo de viaje de ocho visitantes ("B") cada integrante tendrá una probabilidad de ser seleccionado del 12,5% (1 de 8). 
+El problema no está aquí en seleccionar grupos de viaje, ni escoger a una determinada persona que lo conforma como informante (dado que cumple ciertas condiciones que permiten presuponer que contará con los elementos para brindar la información requerida). El problema radica en que el informante no es la unidad de análisis, como plantea este diseño, sino simplemente quien brindará la información requerida. En efecto, las unidades de análisis son todos los visitantes que forman parte del grupo de viaje seleccionado (que constituye, a su vez, la unidad de relevamiento, y puede estar compuesto por uno o más visitantes). ¿Por qué? Si lo que se seleccionan son grupos de viajes y dentro de estos a uno de sus integrantes, asumiendo que la probabilidad de selección de todos los grupos de viaje sea la misma, la probabilidad de selección de cada visitante será inversamente proporcional al tamaño del grupo de viaje que integra. En otras palabras, si el grupo de viaje "A" está integrado por dos personas, cuando se selecciona ese grupo de viaje cada uno de sus integrantes tendrá un 50% de chances de ser encuestado (1 de 2), en cambio, en un grupo de viaje de ocho visitantes ("B") cada integrante tendrá una probabilidad de ser seleccionado del 12,5% (1 de 8).
 
 Esto tiene profundas implicancias en los resultados. Siguiendo el ejemplo anterior, si el grupo A se aloja en un hotel y el grupo B en la casa de un familiar, la distribución por tipo de alojamiento cambiaría en forma notoria de acuerdo a cuáles se consideren las unidades de análisis.
 
@@ -163,17 +159,22 @@ Si se considera que sólo el integrante del grupo escogido como informante es la
 
 Si a esto se le agrega el hecho que la selección del informante implica que éste debe poseer ciertas cualidades, en el primer caso no se podrán realizar inferencias sobre la composición demográfica de los visitantes, pues la selección de la persona a encuestar estará sesgada por las cualidades que, según exige la instrucción al encuestador, debe cumplir. Por ejemplo, asumiendo que un destino es visitado exclusivamente por familias tipo (padre y madre de unos 35 años y dos hijos menores de edad) y que el informante debe ser el líder del grupo, donde en la mayoría de los casos, se asume que este es el varón, los resultados (que tomarán en cuenta únicamente las características del informante ya que este constituye la unidad de análisis) arrojarán que los visitantes que arriban al destino son sólo personas de cerca de 35 años y mayoritariamente varones, lo cual es, a todas luces, incorrecto.
 
+::: {.note}
 Debido a que los resultados a los que se arribará resultarán matemáticamente erróneos, debe descartarse un diseño que parta de la selección de grupos de viajes y que luego tome como unidad de análisis a uno sólo de los visitantes que lo integran.
-
+:::
 A continuación se presentan dos formas válidas de generar diseños muestrales con coherencia entre las unidades metodológicas y, por tanto, a partir de los cuales extraer resultados correctos.
 
+::: {.note}
 La primera propuesta consiste en **considerar individualmente a todos los visitantes**. Aquí coinciden unidad de análisis, unidad de relevamiento e informante.
+:::
 
 En este caso, deberá garantizarse que todos los visitantes tengan la misma probabilidad de ser seleccionados, independientemente del tamaño del grupo de viaje del que formen parte. En otras palabras, el grupo de viaje no debe intervenir de ningún modo en la selección de los casos a encuestar, lo que implica, incluso, que dos o más integrantes de un mismo grupo de viajes pueden ser teóricamente encuestados si son seleccionados mediante el método dispuesto para la selección aleatoria de los casos. Por otro lado, debe garantizarse que todos los visitantes tienen la misma probabilidad de ser seleccionados (mejor dicho, la asignada por el diseño muestral), más allá de sus características individuales (por ejemplo, la selección podría determinar que se debe encuestar a un bebé, caso en el cual alguno de sus padres podría responder en su nombre).
 
 Más allá que resulta un diseño perfectamente coherente desde el punto de vista lógico, en la realidad, salvo alguna excepción, resulta impracticable para la aplicación de encuestas de perfil del visitante. Y esto es así, fundamentalmente, porque en la práctica (durante el trabajo de campo) se carece de los elementos necesarios para garantizar laprobabilidad de selección definida teóricamente, y por tanto, para evitar los sesgos en los resultados que una selección no aleatoria traería aparejada.
 
+::: {.note}
 En este marco, la segunda propuesta consiste en **considerar como unidad de relevamiento (y de selección) a los grupos de viaje y como unidad de análisis a todos los visitantes que lo conformen**. Esta propuesta, que ya fue esbozada en el ejemplo anteriormente citado, resulta más fácilmente aplicable (aunque no exenta de rigurosidad en los principios que guíen el trabajo de campo) y se encuentra en línea con las recomendaciones internacionales en la materia. El informante, por su parte, puede ser cualquier integrante del grupo de viaje en condiciones de brindar la información requerida[^propuestas_metodologicas-12].
+:::
 
 [^propuestas_metodologicas-12]: Este criterio se utiliza en la ETI y también en la EVyTH, con la particularidad que en este último caso, por definición, los integrantes de un grupo de viaje son contabilizados únicamente entre los integrantes del hogar, dejando fuera de análisis a aquellas personas que, no siendo miembros del hogar, hayan también sido parte del grupo de viaje (por ejemplo, una pareja de novios que no conviven).
 
@@ -201,7 +202,9 @@ Hasta aquí se mencionan dos criterios para la identificación de los grupos de 
 
 [^propuestas_metodologicas-15]: Por ejemplo, tres amigos que se trasladan juntos, que se alojan en una habitación de hotel y que comparten parcial o totalmente sus gastos de alimentación constituyen un grupo de viaje, aunque cada uno de ellos financie su parte correspondiente de los gastos con ingresos propios.
 
+::: {.note}
 De lo expuesto se deriva entonces que un **grupo de viaje puede ser definido como una persona o un grupo de personas que viajan juntos y comparten gastos**. Adicionalmente, cabe señalar un elemento ad-hoc que debe añadirse para las encuestas de perfil realizadas en el destino: además de viajar juntos y compartir los gastos del viaje, **deben encontrarse juntos al momento de ser seleccionados para ser encuestados**.
+:::
 
 Este último agregado está ligado a garantizar que, teóricamente, dos personas no sean contabilizadas más de una vez. Por ejemplo, si un grupo de cuatro visitantes que viajan juntos y comparten gastos, se encontrara momentáneamente disperso en dos parejas (por ejemplo, los padres por un lado y los hijos por otro), bajo una selección aleatoria podrían ser ambas parejas encuestadas y si, en ese caso, respondieran sobre la totalidad del grupo, se estaría contemplando dos veces a los mismos visitantes[^propuestas_metodologicas-16] [^propuestas_metodologicas-17].
 
@@ -263,7 +266,7 @@ Para conocer la probabilidad de selección de las unidades de una población es 
 
 [^propuestas_metodologicas-24]: Cómo se ha dicho, un marco muestral contiene a la población objetivo de la investigación.
 
-En algunos tipos de estudios por encuesta, este marco es una lista a partir de la cual se puede sortear previamente los casos que compondrán la muestra, sin mediar ningún tipo de subjetividad. Un ejemplo práctico de marco muestral es un directorio telefónico, desde donde se pueden seleccionar aleatoriamente números de teléfono a los que se llamará para encuestar a todos o algunos de los residentes en la vivienda. 
+En algunos tipos de estudios por encuesta, este marco es una lista a partir de la cual se puede sortear previamente los casos que compondrán la muestra, sin mediar ningún tipo de subjetividad. Un ejemplo práctico de marco muestral es un directorio telefónico, desde donde se pueden seleccionar aleatoriamente números de teléfono a los que se llamará para encuestar a todos o algunos de los residentes en la vivienda.
 
 En el caso de encuestas de perfil del visitante es difícil contar con un listado de los visitantes que arribarán al destino en donde se propone realizar el estudio, como ya fue señalado previamente. Por lo tanto, contar con un marco muestral en sentido estricto no es, en la práctica, una posibilidad. Ante esto, el uso de información proveniente de otras fuentes (primarias o secundarias) puede aportar a la construcción de una aproximación a un marco muestral, como por ejemplo, la distribución de los visitantes (en cantidades o en estructura, es decir, porcentualmente) de acuerdo a una o más variables, como ser: medio de transporte a través del cual arriban al destino; tipo de alojamiento utilizado; temporada o momento del año; distribución geográfica, en el caso de estudios encarados con pretensión de cobertura provincial; etc[^propuestas_metodologicas-25].\
 
@@ -280,11 +283,11 @@ En el apartado 2.3.4 se presenta una serie de ejemplos de aproximación a la con
 [^propuestas_metodologicas-26]: Cabe indicar que estos ejemplos no se desarrollan en el apartado actual pues para su desarrollo (y entendimiento por parte del lector) es preciso introducir previamente una serie de elementos teóricos y prácticos, que serán desarrollados en los apartados siguientes.
 
 \
-\#\#\# \*\* Tamaño de la muestra\*\*
+### ** Tamaño de la muestra**
 
 Colocando entre paréntesis la cuestión del diseño muestral, esta sección se centra, por un lado, en presentar los elementos y las fórmulas que determinan el tamaño de una muestra probabilística, y, en otra instancia, en discutir los diversos aspectos necesarios para establecer si dicho tamaño se ajusta o no a los objetivos planteados en un estudio.
 
-Cabe reiterar que el cálculo del tamaño de la muestra y las propiedades a él asociadas (nivel de error, de confianza, etc.) tienen validez únicamente cuando se trata de muestras probabilísticas, lo que puede hacerse extensivo a aquellos diseños que, sin contar con los elementos necesarios para construir muestras probabilísticas puras, realizan los máximos esfuerzos en garantizar los criterios probabilísticos en todas las etapas donde ello sea posible, dando lugar a lo que aquí se denominará muestras probabilísticas impuras. 
+Cabe reiterar que el cálculo del tamaño de la muestra y las propiedades a él asociadas (nivel de error, de confianza, etc.) tienen validez únicamente cuando se trata de muestras probabilísticas, lo que puede hacerse extensivo a aquellos diseños que, sin contar con los elementos necesarios para construir muestras probabilísticas puras, realizan los máximos esfuerzos en garantizar los criterios probabilísticos en todas las etapas donde ello sea posible, dando lugar a lo que aquí se denominará muestras probabilísticas impuras.
 
 Una muestra probabilística se construye con arreglo a un conjunto de criterios lógico-matemáticos.
 
@@ -306,10 +309,8 @@ Una muestra probabilística se construye con arreglo a un conjunto de criterios 
 
 Por razones de simplicidad, aquí se aborda el cálculo del tamaño de una muestra asumiendo un MAS (del cual se derivan todos los demás tipos de muestreo) bajo el supuesto de población infinita y cuando el valor a estimar es una proporción o porcentaje.
 
-:::note
-
+::: {.note}
 Cabe indicar que la determinación del tamaño de la muestra implica en, primer término, identificar las variables más relevantes y considerar el tamaño mínimo necesario para dar respuesta a ellas. Cuando se trata de analizar únicamente porcentajes o proporciones, nuevamente, asumir p=50% garantiza que el tamaño de muestra permitirá obtener resultados con el nivel de precisión deseada. En cambio, si se procura estimar cantidades, la situación es más compleja y exige un análisis profundo de la dispersión (varianza) de las variables involucradas[^propuestas_metodologicas-31].
-
 :::
 
 [^propuestas_metodologicas-31]: El margen de error que se toma en cuenta para el cálculo del tamaño de la muestra se referencia en una estimación puntual, real o hipotética (como el caso de p=50%). Pero una vez definido el tamaño de la muestra, cada resultado tendrá asociado un nivel de error propio.
@@ -318,32 +319,27 @@ Cabe indicar que la determinación del tamaño de la muestra implica en, primer 
 
 En este marco la fórmula para calcular un tamaño muestral es la siguiente:
 
- $$n = \frac{z^2pq}{e^2}$$ 
+$$n = \frac{z^2pq}{e^2}$$
 
-
-donde,\
-$n=$ tamaño de la muestra (valor a obtener).\
-$z=$ valor estandarizado para el nivel de confianza deseado. **Para una confianza del 90%,** z **es igual a** $1.645$[^propuestas_metodologicas-32].\
-$p=$ La proporción estimada (o la probabilidad del suceso). **Se recomienda** p=0.5\
-$q=$ El complemento de la proporción estimada (o la probabilidad del suceso), o sea, 1-p (dado que se recomienda un valor de p igual a 0,5, q equivaldría a ese mismo valor)\
-e= El margen de error porcentual deseado dividido por 100 (por ejemplo, 0,03 para un error igual a 3%).
+donde, $n=$ tamaño de la muestra (valor a obtener). $z=$ valor estandarizado para el nivel de confianza deseado. **Para una confianza del 90%,** $z$ **es igual a** $1.645$[^propuestas_metodologicas-32]. $p=$ La proporción estimada (o la probabilidad del suceso). **Se recomienda** $p=0.5$ $q=$ El complemento de la proporción estimada (o la probabilidad del suceso), o sea, 1$-p$ (dado que se recomienda un valor de $p$ igual a $0,5$, $q$ equivaldría a ese mismo valor)\
+$e$= El margen de error porcentual deseado dividido por 100 (por ejemplo, 0,03 para un error igual a 3%).
 
 [^propuestas_metodologicas-32]: Cuanto mayor sea el nivel de confianza, mayor será el valor de z. Por ejemplo, para una confianza del 95% (otro nivel usualmente utilizado en investigaciones sociales), z equivale a 1,96, mientras que para una confianza del 99%, z es igual a 2,58.
 
 \
 En la fórmula puede apreciarse por qué el tamaño de la muestra aumenta a medida que se incrementa el nivel de confianza (z) y la variabilidad (p\*q) --elementos que se ubican en el numerador- y cuando se procura obtener estimaciones de mayor precisión (es decir, con menor error estadístico). Además esta relación no es lineal sino exponencial (al estar estos elementos elevados al cuadrado).
 
-El primer componente del numerador es el nivel de confianza elevado al cuadrado (z2=1,6452=2,706), mientras que el segundo componente está dado por la dispersión o heterogeneidad de la variable (p\*q=0,5\*0,5=0,25). El producto de ambos componentes arroja el valor del denominador (2,706\*0,25=0,6765). 
+El primer componente del numerador es el nivel de confianza elevado al cuadrado ($$z^2=1,645^2=2,706$$), mientras que el segundo componente está dado por la dispersión o heterogeneidad de la variable ($$p^*q=0,5^*0,5=0,25$$). El producto de ambos componentes arroja el valor del denominador ($$2,706^*0,25=0,6765$$).
 
-Dadas las recomendaciones generales acerca de considerar el supuesto de población infinita, de utilizar un nivel de confianza del 90% (z=1,645) y de asumir el máximo nivel de heterogeneidad (p=50%), puede considerarse que el numerador de esta ecuación (0,6765)  es un valor constante (al menos cuando el objetivo del estudio sea la estimación de proporciones). Por tanto, en términos prácticos, **el tamaño de la muestra estará determinado por el nivel de error estadístico deseado**, con lo que la fórmula puede resumirse a los siguientes términos: n=0.6765e2
+Dadas las recomendaciones generales acerca de considerar el supuesto de población infinita, de utilizar un nivel de confianza del 90% (z=1,645) y de asumir el máximo nivel de heterogeneidad (p=50%), puede considerarse que el numerador de esta ecuación (0,6765) es un valor constante (al menos cuando el objetivo del estudio sea la estimación de proporciones). Por tanto, en términos prácticos, **el tamaño de la muestra estará determinado por el nivel de error estadístico deseado**, con lo que la fórmula puede resumirse a los siguientes términos: n=0.6765e2 $$n = \frac{0.6765}{e^2}$$
 
-Siguiendo el ejemplo, el tamaño de una muestra necesario para un error máximo del 3%, será de 752 casos:  n=0.67650.032=0.67650.0009752.\
+Siguiendo el ejemplo, el tamaño de una muestra necesario para un error máximo del 3%, será de 752 casos: n=0.67650.032=0.67650.0009752. $$n = \frac{0.6765}{0.03^2} = \frac{0.6765}{0.0009} = 752$$
 
 Suponiendo que en un caso hipotético, finalmente, el resultado obtenido a partir de esta muestra sea del 48% (porcentaje de varones entre los visitantes a la provincia X), ¿Cómo debería interpretarse estrictamente esta estimación? Con un 90% de confianza, la participación de los visitantes varones a la provincia X se ubica entre el 45% y el 51%. Esto, es, el valor verdadero de la población bajo estudio se encontrará comprendido en el intervalo de confianza cuyos extremos son 45% (estimación muestral de 48% menos el error de 3%) y 51% (estimación muestral más el error).
 
 Nuevamente, cuanto menor sea el nivel de error pretendido, mayor será la muestra requerida. Siguiendo con nuestro ejemplo, para realizar estimaciones con un error de 4% el tamaño de la muestra será de 423 casos, mientras que si se pretende obtener estimaciones con un 2% de margen de error, el número de casos necesarios se eleva hasta 1.691 y llega a 6.795 si la precisión deseada es del 1% (es decir, para aumentar cuatro veces el nivel de precisión es preciso incrementar más de 15 veces el tamaño de la muestra). Como se observa en los casos mencionados, la intensidad de la relación entre margen de error y tamaño de la muestra es decreciente; a partir de cierto punto, cada caso agregado a la muestra genera una reducción en el margen de error cada vez menor en relación al caso agregado previamente[^propuestas_metodologicas-33].
 
-[^propuestas_metodologicas-33]:  En los casos en que se conoce el tamaño de la muestra (y se asume un MAS) es posible conocer el nivel de error, a partir de la siguiente fórmula: e=√z2pqn=√0,6765752=0,03=3%.
+[^propuestas_metodologicas-33]: En los casos en que se conoce el tamaño de la muestra (y se asume un MAS) es posible conocer el nivel de error, a partir de la siguiente fórmula: $$e=√z2pqn=√0,6765752=0,03=3%$$.
 
 La figura siguiente muestra de manera clara la relación entre el tamaño de la muestra y el error estadístico, incorporando además lo que implica la utilización de diferentes niveles de confianza. Los puntos violetas indican la cantidad de casos necesaria para diferentes niveles de precisión, mientras que también se indica (en verde) la cantidad de casos requeridos para un error de 3,5% tomando distintos niveles de confianza e, inversamente, se señala cuál será el nivel de error para una muestra de mil casos para cada nivel de confianza (en rojo).
 
@@ -353,13 +349,13 @@ Simplificando esta información al asumir, como se propone, un nivel de confianz
 
 **Figura...**
 
-Como se señaló, el margen de error habitualmente reportado es de hecho el máximo margen de error, es decir, el esperado para una estimación del 50%. Sin embargo, en realidad y como puede observarse en la figura siguiente, cada estimación contiene un margen de error específico: la escala del error se reduce en términos absolutos si la proporción se aleja del 50%. 
+Como se señaló, el margen de error habitualmente reportado es de hecho el máximo margen de error, es decir, el esperado para una estimación del 50%. Sin embargo, en realidad y como puede observarse en la figura siguiente, cada estimación contiene un margen de error específico: la escala del error se reduce en términos absolutos si la proporción se aleja del 50%.
 
 Así, manteniendo constantes los otros elementos (tamaño de la muestra y nivel de confianza; 752 casos y 90%, respectivamente, en el ejemplo), tanto para una estimación del 20% (30 puntos porcentuales por debajo del 50%) como para una del 80% (30 puntos por encima) el margen de error es de 2,4% (menor al 3,0% que corresponde al 50%), lo que indica que el valor real en el universo bajo estudio se ubica en el intervalo de confianza situado entre 17,6% y 22,4% en el primer caso y entre 77,6% y 82,4% en el segundo[^propuestas_metodologicas-34].\
 
 [^propuestas_metodologicas-34]: Esto sucede porque el producto de p\*q disminuye a medida que el valor estimado se aleja del 50%, donde el componente dispersión asume el máximo valor, es decir 0,25 (0,5\*0,5). En los casos mencionados (p=20% y p=80%) p\*q asume el mismo valor, que es inferior a 0,25 (lógicamente, 0,8\*0,2 es equivalente a 0,2\*0,8, y el producto de ambos términos asciende a 0,16).
 
-    e=z2pqn=(1,6452\*(0,2\*0,8)752=(2,706\*0,16)752=0,432964752=0,024=2,4%.
+$$ e=z^2pqn = (1,6452^*(0,2^*0,8)752 = (2,706^*0,16)752 = 0,432964752 = 0,024 = 2,4% $$
 
 No obstante, debe notarse que el nivel de error relativo disminuye significativamente en forma inversamente proporcional al valor de la estimación. Así, el intervalo de confianza de una estimación del 3% muestra una gran variabilidad (oscila entre el 2% y el 4%), brindando realmente poca precisión para la estimación obtenida (es decir, los elementos del universo que cumplen con la condición estimada pueden ser o bien uno de cada 50 o bien uno de cada 25); en cambio, el intervalo de confianza de una estimación del 97% se ubica entre 96% y 98%: si bien el rango entre el límite inferior y el superior para ambas estimaciones es de dos puntos porcentuales (lo que equivale a un margen de error de 1%), en este caso sí permite obtener una conclusión fuerte: la gran mayoría de los elementos del universo cumplen con la condición estimada (es decir, son varones, o extranjeros, o adquirieron paquetes turístico, etc.).
 
@@ -369,7 +365,7 @@ Una manera usual en que se expresa el error relativo es en términos de coeficie
 
 **Figura...**
 
-Es importante remarcar que, adicionalmente a dar cuenta de la precisión de la estimación, sólo considerando los intervalos de confianza pueden realizarse comparaciones y conocer si las diferencias encontradas son o no estadísticamente significativas. 
+Es importante remarcar que, adicionalmente a dar cuenta de la precisión de la estimación, sólo considerando los intervalos de confianza pueden realizarse comparaciones y conocer si las diferencias encontradas son o no estadísticamente significativas.
 
 Como se puede observar en la figura anterior, un valor estimado de un 50% indica que el valor verdadero se ubica entre 47,0% y 53,0%. Si se lo compara con un valor del 40% (intervalo 37,1%-42,9%), sería válido afirmar con un 90% de confianza que existe una diferencia estadísticamente significativa entre ambas proporciones, dado que los intervalos de confianza no se solapan[^propuestas_metodologicas-36].
 
@@ -389,7 +385,7 @@ En otras palabras, el margen de error máximo que suele informarse remite a la d
 
 [^propuestas_metodologicas-38]: En el ejemplo, si la estimación hubiera arrojado un 50% para el total de los casos, implicaría un intervalo de confianza de 47%-53%, mientras que si esa misma proporción correspondiese a quienes arribaron al lugar de destino en automóvil el intervalo de confianza representaría un rango más amplio (44,8%-55,2%).
 
-Por estas razones, las muestras pequeñas deben ser utilizadas sólo para describir variables en forma individual,ya que no son aptas para el análisis multivariado (tablas de contingencia), debido a que las muestras independientes que surgirían de los cruces de variables que pretende realizarse contarán con muy pocos casos. Adicionalmente, a la recomendación general de no realizar inferencias sobre atributos presentes en menos de 25 casos, cabe indicar la necesidad de no analizar cruces de variables en los que los casos totales de las muestras independientes (es decir, los marginales o subtotales de una tabla de doble entrada o tabla de contingencia) sea inferior a 100. 
+Por estas razones, las muestras pequeñas deben ser utilizadas sólo para describir variables en forma individual,ya que no son aptas para el análisis multivariado (tablas de contingencia), debido a que las muestras independientes que surgirían de los cruces de variables que pretende realizarse contarán con muy pocos casos. Adicionalmente, a la recomendación general de no realizar inferencias sobre atributos presentes en menos de 25 casos, cabe indicar la necesidad de no analizar cruces de variables en los que los casos totales de las muestras independientes (es decir, los marginales o subtotales de una tabla de doble entrada o tabla de contingencia) sea inferior a 100.
 
 Una última conclusión referida a esta problemática retoma la importancia de considerar los objetivos de la investigación al diseñar la muestra. Así, si un objetivo fundamental del estudio es comparar características (motivo de viaje, alojamiento, etc.) de diferentes subpoblaciones (residentes y no residentes en el país, por ejemplo) la muestra construida debe ser lo suficientemente robusta no sólo para los resultados totales (distribución de frecuencias) sino también para permitir realizar análisis multivariado con niveles de precisión razonables[^propuestas_metodologicas-39].\
 
@@ -399,17 +395,17 @@ Del mismo modo, si en los objetivos se señala el interés por realizar comparac
 
 Por estas razones, y partiendo de la premisa básica que indica que los recursos (económicos, técnicos, tiempo disponible) son escasos, y más allá que siempre es preferible un margen de error estadístico bajo a uno alto, la evaluación de la adecuación del nivel de error de una muestra no debe realizarse en abstracto, sino en el marco de los objetivos que se propone el estudio.
 
-Hasta aquí se han analizado las implicancias de los tamaños muestrales en función de diferentes niveles de confianza y, fundamentalmente, de los distintos umbrales de error estadístico, asumiendo la utilización de la fórmula correspondiente a poblaciones infinitas, a partir de la recomendación de utilizar siempre, salvo excepciones puntuales, esta forma de cálculo. 
+Hasta aquí se han analizado las implicancias de los tamaños muestrales en función de diferentes niveles de confianza y, fundamentalmente, de los distintos umbrales de error estadístico, asumiendo la utilización de la fórmula correspondiente a poblaciones infinitas, a partir de la recomendación de utilizar siempre, salvo excepciones puntuales, esta forma de cálculo.
 
 La figura siguiente muestra el por qué de esta recomendación: a partir de los 10 mil casos, la diferencia entre utilizar la fórmula para poblaciones infinitas y finitas[^propuestas_metodologicas-40] resulta apenas leve y adquiere un carácter marginal a partir de 50 mil casos.
 
-[^propuestas_metodologicas-40]: Una alternativa para estimar el tamaño de la muestra para poblaciones finitas es aplicar un factor de ajuste que toma en cuenta el tamaño calculado bajo el supuesto de población infinita y el volumen total de la población o universo: npf=noNno+(N-1), donde: npf es el tamaño de la muestra corregida para población finita; no  el tamaño de la muestra para población infinita y N la población total. 
+[^propuestas_metodologicas-40]: Una alternativa para estimar el tamaño de la muestra para poblaciones finitas es aplicar un factor de ajuste que toma en cuenta el tamaño calculado bajo el supuesto de población infinita y el volumen total de la población o universo: npf=noNno+(N-1), donde: npf es el tamaño de la muestra corregida para población finita; no el tamaño de la muestra para población infinita y N la población total.
 
     Así, por ejemplo, si de la fórmula de población infinita se deriva que para un nivel de confianza del 90% y un error máximo del 3% es necesaria una muestra de 752 casos, en el caso de un universo de 25 mil unidades, el tamaño de la muestra resulta de 730 casos (752×25000752+(25000-1)=1880000025751=730).
 
 **Figura...**
 
-Es decir, en caso de universos relativamente grandes o de tamaño desconocido (como suele suceder en el caso de las encuestas de perfil o caracterización de la demanda) resulta conveniente determinar el tamaño a partir de la fórmula que surge para poblaciones infinitas, pues el ahorro que supone relevar una pequeña cantidad de casos menos (tal como surge de las fórmulas de poblaciones finitas) es ínfimo y no compensa de ningún modo el riesgo de no asumir como infinita a la población. 
+Es decir, en caso de universos relativamente grandes o de tamaño desconocido (como suele suceder en el caso de las encuestas de perfil o caracterización de la demanda) resulta conveniente determinar el tamaño a partir de la fórmula que surge para poblaciones infinitas, pues el ahorro que supone relevar una pequeña cantidad de casos menos (tal como surge de las fórmulas de poblaciones finitas) es ínfimo y no compensa de ningún modo el riesgo de no asumir como infinita a la población.
 
 En cambio, en determinados contextos la aplicación de la fórmula de poblaciones finitas sí puede implicar un ahorro sustantivo de recursos y energía: por ejemplo, si existe plena certeza de que a un festival folclórico asistieron 2.000 personas (dato que podría surgir de las entradas vendidas a no residentes en la localidad, más caras que las destinadas a los residentes), y se desea obtener estimaciones con un error del 3% (y 90% de confianza) el tamaño de la muestra para poblaciones infinitas asciende a 752 casos, frente a los 547 casos (una cuarta parte menos) que surgen al considerar un universo del tamaño mencionado.
 
@@ -417,7 +413,7 @@ En cambio, en determinados contextos la aplicación de la fórmula de poblacione
 
 En secciones precedentes se han abordado los elementos que intervienen en el diseño y en el tamaño de la muestra asumiendo un MAS, con el fin de simplificar la exposición. No obstante, en la práctica el MAS en su forma pura prácticamente no es utilizado, primando diseños muestrales complejos. Esta complejidad no implica una valoración superior: en general, los requisitos del MAS son de tan difícil cumplimiento que, en la práctica, para garantizar la representatividad estadística de la muestra es preciso elaborar otro tipo de diseños, de mayor complejidad que el MAS, como único modo posible de garantizar la selección aleatoria de casos, o, lo que constituye su contraparte, evitar la introducción de sesgos que invaliden el carácter probabilístico de una muestra.
 
-En este marco, la construcción de muestras estratificadas implica segmentar en grupos o estratos a las unidades de análisis del universo, a partir de determinadas características relevantes según el tema bajo estudio: la función principal de la estratificación es aumentar la eficiencia (precisión) de la muestra, pero también permite garantizar que estos estratos estén representados en la muestra (y contar con una muestra suficiente cuando ciertos grupos son definidos como dominios de análisis en la investigación), replicando, con la aplicación de los ponderadores, la estructura poblacional. Por ejemplo, si los visitantes residentes en el exterior constituyen un 40% del total, su peso o participación en los resultados obtenidos a partir de la muestra debería ser también del 40%. 
+En este marco, la construcción de muestras estratificadas implica segmentar en grupos o estratos a las unidades de análisis del universo, a partir de determinadas características relevantes según el tema bajo estudio: la función principal de la estratificación es aumentar la eficiencia (precisión) de la muestra, pero también permite garantizar que estos estratos estén representados en la muestra (y contar con una muestra suficiente cuando ciertos grupos son definidos como dominios de análisis en la investigación), replicando, con la aplicación de los ponderadores, la estructura poblacional. Por ejemplo, si los visitantes residentes en el exterior constituyen un 40% del total, su peso o participación en los resultados obtenidos a partir de la muestra debería ser también del 40%.
 
 Los estratos deberían estar conformados por unidades similares entre sí (homogeneidad interna) y diferentes a las que componen otros estratos (heterogeneidad externa), en relación a la variable de estratificación. Por definición, se asume que dado que esto sucede con la o las variables de estratificación, es esperable que las unidades al interior del estrato tengan un comportamiento similar según la variable bajo análisis (que se asume correlacionada con la variable utilizada en la estratificación).
 
@@ -431,7 +427,7 @@ Luego de definir los estratos se debe determinar el tamaño de cada uno de ellos
 
 No obstante, **pueden determinarse tamaños no proporcionales de estratos**: esto implica que la participación de los casos de un estrato en la muestra total será inferior o superior a su participación en la población. Esto no es inválido ni constituye un problema: en un sentido estricto, desde el punto de vista técnico, el tamaño de cada estrato debería calcularse considerando su grado de dispersión o varianza. Adicionalmente, en muchas ocasiones puede resultar necesario sobremuestrear determinados estratos cuando estos constituyan dominios de análisis de la investigación, por ejemplo, cuando se pretenda analizar la información para un subgrupo específico de gran relevancia económica pero de relativamente baja participación en el universo bajo análisis (por ejemplo, turistas internacionales).
 
-Esta cuestión permite introducir un elemento relevante en cualquier encuesta por muestreo: la necesidad de contar con **ponderadores o factores de expansión**. Básicamente, esto obedece a que no todos los casos relevados valen uno. 
+Esta cuestión permite introducir un elemento relevante en cualquier encuesta por muestreo: la necesidad de contar con **ponderadores o factores de expansión**. Básicamente, esto obedece a que no todos los casos relevados valen uno.
 
 Por ejemplo, se conoce que el 10% de la población de turistas de un destino está conformada por residentes en otros países y se decide que, dada su relevancia, es preciso aumentar su participación en la muestra total de modo tal de tener una cantidad de casos que permita realizar inferencias válidas sobre este grupo, razón por la cual su peso en la muestra llega al 50% del total de casos relevados. Si en el procesamiento de los resultados se considerara que todos los casos (de residentes y no residentes) tienen la misma participación en la población, las características del grupo de turistas no residentes tendrían un impacto mayor al que en realidad tiene en la población, y, por tanto, se estaría sesgando los resultados. Así, si el uso de hoteles entre no residentes alcanzaría al 60% y entre los residentes al 30%, el procesamiento directo de la información indicaría que el 45% de los visitantes se alojan en hoteles (60%\*50%+30%\*50%=45%). En cambio, si a los resultados de cada grupo se los multiplicara por su participación en la población bajo estudio (independientemente de la cantidad de casos asignados en la muestra), se obtendría que el 33% de los turistas se alojan en hoteles (60%\*10%+30%\*90%=33%). Este último valor es el que realmente da cuenta de la estimación correspondiente al total de turistas del destino, mientras que el 45% que surge del procesamiento directo de la información corresponde a una estimación sesgada, debido a que a un grupo de turistas (los no residentes) se le otorga un peso mayor al que se corresponde con su participación en la población bajo estudio.
 
@@ -443,7 +439,7 @@ Por otro lado, si no sólo se conoce la estructura (distribución porcentual) de
 
 [^propuestas_metodologicas-41]: Por ejemplo, este dato podría surgir a partir de un registro que la policía lleva de un control que realiza al ingreso a la localidad (considerada aquí como destino), donde registra para cada grupo que ingresa la cantidad de personas que lo conforman, el lugar de residencia y pernoctarán o no en el destino (lo que permitiría discriminar quiénes son turistas y quiénes son excursionistas).
 
-Si en la muestra del ejemplo se hubieran relevado mil casos, de los cuales 500 (el 50%) correspondían a no residentes en el país y 500 a turistas residentes, mientras que la fuente externa indica que al destino arribaron 60 mil turistas, de los cuales 6 mil son no residentes en el país (el 10%) y 54 mil son residentes en Argentina (el 90%), cada caso muestral correspondiente a un no residente representará a 12 turistas no residentes (6.000/500=12), mientras que cada caso incluido en la muestra correspondiente a un turista residente representará a 108 turistas residentes en el país (54.000/500=108). Cuando el ponderador no sólo permite reconstruir la estructura poblacional de acuerdo a una o más variables relevantes sino que además permite conocer a cuántos casos del universo representa cada caso incluido en la muestra, este ponderador constituye un factor de expansión, a partir del cual se puede estimar cuántos casos comparten una determinada característica. 
+Si en la muestra del ejemplo se hubieran relevado mil casos, de los cuales 500 (el 50%) correspondían a no residentes en el país y 500 a turistas residentes, mientras que la fuente externa indica que al destino arribaron 60 mil turistas, de los cuales 6 mil son no residentes en el país (el 10%) y 54 mil son residentes en Argentina (el 90%), cada caso muestral correspondiente a un no residente representará a 12 turistas no residentes (6.000/500=12), mientras que cada caso incluido en la muestra correspondiente a un turista residente representará a 108 turistas residentes en el país (54.000/500=108). Cuando el ponderador no sólo permite reconstruir la estructura poblacional de acuerdo a una o más variables relevantes sino que además permite conocer a cuántos casos del universo representa cada caso incluido en la muestra, este ponderador constituye un factor de expansión, a partir del cual se puede estimar cuántos casos comparten una determinada característica.
 
 Siguiendo con el ejemplo, si cada turista no residente en la muestra representa 12 casos y los resultados indican que el 60% de los 500 turistas no residentes encuestados (es decir, 300) usaron hoteles, el factor de expansión permite estimar que 3.600 turistas no residentes se alojaron en hoteles (300\*12=3.600). En cuanto a los turistas residentes, la estimación muestral indica que el 30% de los 500 turistas (150) usaron hoteles, por lo que el factor de expansión permite estimar que en total 16.200 turistas residentes (150\*108) se hospedaron en hoteles. La suma de los turistas residentes y no residentes alojados en hoteles arroja un total de 19.800 turistas que usaron este tipo de alojamiento (3.600+16.200=19.800), los que, lógicamente, representan el 33% del total de turistas (19.800/60.000=33%)[^propuestas_metodologicas-42].
 
@@ -463,9 +459,11 @@ Cabe señalar que la utilización de los ponderadores (o factores de expansión)
 
 [^propuestas_metodologicas-44]: La EPH, por ejemplo, como casi todas las encuestas a hogares, incluye un ponderador (o factor de expansión, ya que permite expandir los resultados a la población total) que se compone de un factor de expansión inicial (que está dado por la inversa de la probabilidad teórica de selección del hogar --simplificando, la cantidad de hogares total que residen en un aglomerado dividido por la cantidad de hogares encuestados-) corregido o calibrado por la distribución por sexo y edad de la población (dato que surge de los censos de población y de las proyecciones demográficas).
 
+::: {.note}
 Siempre que la información externa sea robusta y confiable (y en base a la cual se construya una aproximación a un marco muestral) es deseable incluir en el diseño muestral todas las variables que permitan estratificar y/o calibrar los pesos muestrales[^propuestas_metodologicas-45].
+:::
 
-[^propuestas_metodologicas-45]: Como se mencionó, en el ejemplo referido a la distribución de los turistas de la localidad A por lugar de residencia a partir de un registro provincial, quedaban afuera los turistas residentes en otras localidades de la provincia. Sin embargo, a partir de la triangulación de esta información y la estratificación por punto de acceso a la localidad, es posible estimar qué participación tiene este segmento e incluirlo en el estudio. Así, si de los resultados de una muestra que garantiza la ausencia de sesgos (o, al menos los minimiza) en la selección de casos se obtiene que de los mil casos encuestados se registra que 400 corresponden a turistas de otras localidades de la misma provincia, puede deducirse que si los 600 encuestados no residentes en la provincia (sea en otra provincia o en el  exterior) representan a 15.000 turistas, los 400 turistas encuestados que residen en la provincia representarán a 10.000 (15.000/600\*400), y por tanto su peso muestral será de 25 (10.000/400=25).
+[^propuestas_metodologicas-45]: Como se mencionó, en el ejemplo referido a la distribución de los turistas de la localidad A por lugar de residencia a partir de un registro provincial, quedaban afuera los turistas residentes en otras localidades de la provincia. Sin embargo, a partir de la triangulación de esta información y la estratificación por punto de acceso a la localidad, es posible estimar qué participación tiene este segmento e incluirlo en el estudio. Así, si de los resultados de una muestra que garantiza la ausencia de sesgos (o, al menos los minimiza) en la selección de casos se obtiene que de los mil casos encuestados se registra que 400 corresponden a turistas de otras localidades de la misma provincia, puede deducirse que si los 600 encuestados no residentes en la provincia (sea en otra provincia o en el exterior) representan a 15.000 turistas, los 400 turistas encuestados que residen en la provincia representarán a 10.000 (15.000/600\*400), y por tanto su peso muestral será de 25 (10.000/400=25).
 
 La importancia de las variables que intervienen en la estratificación y/o calibración de la muestra es central en las encuestas de perfil del visitante, porque la información que aportan (es decir, la distribución de la población bajo estudio), constituye una razonable aproximación al rol que desempeñan los marcos muestrales. Así, aunque en este tipo de estudios no se dispone de un listado desde donde seleccionar aleatoriamente los casos a incluir en la muestra, la segmentación de la población bajo estudio de acuerdo a variables cuya distribución en la población es conocida permite no sólo evitar o corregir sesgos en la estimación de los resultados sino que también brinda elementos relevantes para construir estrategias de selección de los casos que maximicen la presencia del factor aleatorio.
 
@@ -505,19 +503,21 @@ Por un lado, la necesidad de distribuir los casos a seleccionar de un modo lo m�
 
 Desde el punto de vista lógico, habría dos maneras de solucionar este problema: (i) seguir con el mismo trabajo de campo (misma cantidad de encuestas todos los días) y corregir el peso de cada grupo a partir de ponderadores (esto es, los encuestados del lunes tendrán un mayor ponderador que los del resto de la semana) o (ii) diseñar el trabajo de campo de modo tal de que la cantidad de encuestas diarias no sea siempre la misma sino una proporción (por ej. 10%) de los visitantes que egresan cada día (asignación proporcional). Normalmente, la solución más eficiente será un punto intermedio entre ambos polos, es decir, realizar mayor cantidad de encuestas los días de mayor movimiento y, a la vez, utilizar factores de expansión que eleven el peso de estos casos a la participación que tienen en la población.
 
+::: {.note}
 Por otro lado, es preciso señalar que en este caso, y **siempre que sea posible, es conveniente que las encuestas se realicen al momento de la finalización del viaje en el destino, es decir, en el momento en que el visitante abandona el destino, puesto que en ese momento estará en una mejor situación para brindar la información requerida (especialmente la referida al gasto)**. En el caso de los medios de transporte público (aviones, ómnibus) esto es relativamente sencillo; en cambio, con los vehículos particulares esto reviste una complejidad exponencialmente mayor, lo que requerirá diseñar estrategias en función de las particularidades del destino (por ejemplo, ubicar los puntos de realización de las encuestas en estaciones de servicio en los que habitualmente se carga combustible antes de emprender el viaje de regreso).
+:::
 
 **Viajeros alojados en hoteles y parahoteles**
 
 En ciertas ocasiones, no es posible conocer en detalle todo el universo de visitantes, con lo que, al menos primeramente, resulta conveniente centrarse en un subgrupo de ellos. En este sentido, aquellos turistas que se alojan en hoteles y parahoteles constituyen una porción de los visitantes relativamente más sencilla de ser captada y mesurada que la de quienes, por ejemplo, se alojan en viviendas de familiares y amigos.
 
-Más aún, en muchos destinos se realizan encuestas de ocupación de este tipo de establecimientos, con lo cual es posible determinar cómo se distribuyen los viajeros y/o los pernoctes en diferentes subgrupos o estratos (por ejemplo, hoteles de 4 ó 5 estrellas, hoteles de 1 a 3 estrellas, parahoteles, e incluso campings), dato que constituye un excelente insumo como proxy de un marco muestral. 
+Más aún, en muchos destinos se realizan encuestas de ocupación de este tipo de establecimientos, con lo cual es posible determinar cómo se distribuyen los viajeros y/o los pernoctes en diferentes subgrupos o estratos (por ejemplo, hoteles de 4 ó 5 estrellas, hoteles de 1 a 3 estrellas, parahoteles, e incluso campings), dato que constituye un excelente insumo como proxy de un marco muestral.
 
 Tanto si el estudio para medir la ocupación del sector se realiza censalmente (a todos los establecimientos) o por muestra, es posible seleccionar los hoteles donde se realizarán las encuestas de perfil asignando cuotas de acuerdo a su participación en el total[^propuestas_metodologicas-48].
 
 [^propuestas_metodologicas-48]: A los efectos prácticos, una estrategia sencilla y válida es basarse en los datos del estudio de ocupación del mismo momento del año precedente.
 
-En este caso se debe prestar especial atención a tres cuestiones. 
+En este caso se debe prestar especial atención a tres cuestiones.
 
 -   **A.** Por un lado, no todos los viajeros hospedados son turistas (viajeros frecuentes, residentes en el destino, empleados en el destino, etc.), por lo tanto la encuesta de perfil debe incluir preguntas con el fin de detectar estas situaciones y su participación en el total, de modo de corregir el dato del marco.
 
@@ -541,7 +541,7 @@ Como en el caso del ejemplo anterior, en ciertas ocasiones suele ser preferible 
 
 Las ventajas que presenta centrarse en quienes visitan un destino relevante son fundamentalmente dos. Por un lado, aunque no siempre, suele existir información sobre la cantidad de personas que visitan el atractivo, por ejemplo, a partir de las entradas vendidas (que en ciertos casos pueden ofrecer información que caracterice a los asistentes: lugar de residencia -provincia, resto del país, exterior-, edad -menores, adultos, jubilados-, etc.). Por otro lado, habitualmente es más sencillo diseñar el trabajo de campo en espacios cerrados (con uno o con un número limitado de accesos y horarios de funcionamiento acotados) que en el espacio abierto de la ciudad o localidad de referencia, donde, más allá de ciertos comportamientos habituales de los visitantes, es mucho más complejo determinar su identificación y fijar criterios para su selección aleatoria. En este último punto, si las condiciones específicas del atractivo lo permiten, puede establecerse algún tipo de selección sistemática de los casos[^propuestas_metodologicas-51] (por ejemplo, encuestar a una personas o grupos de personas que atraviesen el ingreso/egreso al atractivo, dejar pasar a 10 personas o grupos y encuestar al siguiente, etc.), lo que permitiría reducir al mínimo la subjetividad del encuestador en la selección final de los encuestados y, por tanto, garantizar la no presencia de sesgos en la muestra.\
 
-[^propuestas_metodologicas-51]:  Conceptualmente, el muestreo sistemático es una variante del azar simple y consiste en ordenar los casos de acuerdo a una variable relevante conocida y luego seleccionar aleatoriamente el valor correspondiente al primer caso, mientras que el segundo caso será aquel que ocupe la posición determinada por la posición del primer elemento y la adición de un intervalo de selección, y así sucesivamente.
+[^propuestas_metodologicas-51]: Conceptualmente, el muestreo sistemático es una variante del azar simple y consiste en ordenar los casos de acuerdo a una variable relevante conocida y luego seleccionar aleatoriamente el valor correspondiente al primer caso, mientras que el segundo caso será aquel que ocupe la posición determinada por la posición del primer elemento y la adición de un intervalo de selección, y así sucesivamente.
 
     El valor del intervalo de selección estará dado por la relación entre el tamaño de la población y el tamaño de la muestra: si se pretende encuestar a 100 unidades de una población de 1.000, el intervalo será de 10 (1.000/100=10). El valor aleatorio inicial debe estar comprendido dentro del intervalo (es decir, 1 a 10). Si se escoge el número 7, el primer caso será el caso que ocupe la posición 7, el segundo el que ocupe la posición 17 (7+10), el tercero la posición 27 (7+10+10=27), etc.
 
@@ -562,7 +562,7 @@ Partiendo, nuevamente, del hecho de que realizar estudios sobre la población qu
 
 La primera ventaja es su **relativamente bajo costo**. Realizar las encuestas es muchas veces una tarea posible de emprender con los recursos humanos disponibles (las mismas personas que brindan la información turística), siempre que pueda garantizarse la eficacia de las pautas estipuladas para el trabajo de campo. Por otro lado, cabe señalar que en gran parte de las provincias y/o municipios se releva actualmente en los CIT parte de la información necesaria para llevar a cabo este tipo de estudios de caracterización de la demanda.
 
-La segunda ventaja es que es **posible construir marcos muestrales de excelente calidad** para el diseño de muestras estadísticamente representativas. 
+La segunda ventaja es que es **posible construir marcos muestrales de excelente calidad** para el diseño de muestras estadísticamente representativas.
 
 En este punto, la estrategia tendría **dos etapas**, la primera ligada a la recopilación de información para la construcción del marco, y la segunda para la aplicación de la encuesta propiamente dicha, a una muestra de los casos.
 
@@ -591,7 +591,7 @@ Al diferenciar por origen y por haber realizado o no pernocte en el destino, se 
 
 El resto de quienes solicitaron información, dado que no residen en el destino, pueden considerarse visitantes[^propuestas_metodologicas-54]. En el ejemplo se observa (filas violeta) que 455 personas pernoctaron en el destino (y, por tanto, son turistas), en tanto que 160 (filas verdes) no lo hicieron (excursionistas).\
 
-[^propuestas_metodologicas-54]: En realidad, parte de estos supuestos visitantes podrían no serlo, siguiendo los criterios de la definición de visitante: si la estadía duró más de un año, si visitan el destino frecuentemente (por ejemplo, cuatro o más veces por mes) o si durante el viaje fueron empleados por una empresa del destino. 
+[^propuestas_metodologicas-54]: En realidad, parte de estos supuestos visitantes podrían no serlo, siguiendo los criterios de la definición de visitante: si la estadía duró más de un año, si visitan el destino frecuentemente (por ejemplo, cuatro o más veces por mes) o si durante el viaje fueron empleados por una empresa del destino.
 
     Por otro lado, es posible que algunas personas asistan más de una vez al CIT durante su estadía en el destino (en un mismo viaje), por lo que serían contabilizadas dos veces.
 
@@ -670,7 +670,7 @@ En conclusión, **vale reiterar entonces que la implementación de encuestas de 
 
 Claro que para que todo lo antedicho sea cierto, es preciso fijar pautas de trabajo claras y garantizar su cumplimiento a lo largo del relevamiento de la información. Otra cuestión a considerar es que nunca debe perderse de vista que quienes concurren a un CIT a solicitar información constituyen un subgrupo del total de visitantes -su participación sobre el total, dato que puede o no ser conocido, variará según las características del destino-, y los resultados obtenidos deben interpretarse dejando esta cuestión claramente establecida, pues es posible afirmar que muy probablemente existan diferencias destacadas entre los subconjuntos de visitantes que, en un mismo destino, asisten y no asisten a un CIT[^propuestas_metodologicas-64].
 
-[^propuestas_metodologicas-64]: Por ejemplo, es más probable que se acerque a solicitar información quien viaja por primera vez al destino que quien lo hace con cierta regularidad (por ejemplo, dos veces por año), quien viaja por ocio o placer que quien lo hace para visitar familiares, etc. 
+[^propuestas_metodologicas-64]: Por ejemplo, es más probable que se acerque a solicitar información quien viaja por primera vez al destino que quien lo hace con cierta regularidad (por ejemplo, dos veces por año), quien viaja por ocio o placer que quien lo hace para visitar familiares, etc.
 
     Si se asumiera que los encuestados en CIT son representativos de todo el universo, es claro que los resultados estarían sesgados, pues las características de quienes en mayor proporción concurren a un CIT estarían sobreestimadas, es decir, teniendo una mayor participación de la que en realidad tienen.
 
@@ -692,9 +692,10 @@ Cabe indicar en este punto que, en general, mientras que la estratificación de 
 
 [^propuestas_metodologicas-66]: Por ejemplo, tomando como base la información recolectada en la EVyTH, puede observarse que la precisión de la estimación no se modifica al analizar variables relativas al viaje que son comunes, por definición, al tipo de viaje (alojamiento, transporte, motivo, etc.) si: (i) se procesan resultados a nivel de grupo de viaje, considerando en el factor de expansión su tamaño, o (ii) si se procesan resultados a nivel de visitantes indicando su pertenencia a un grupo de viaje (conglomerado). En cambio, sí mejora sustancialmente la precisión (es decir, disminuye el margen de error) cuando se aplica la segunda modalidad para el análisis de las características personales de los visitantes (sexo, edad, nivel educativo), ya que estos son atributos con, potencialmente, alta heterogeneidad al interior del conglomerado o grupo de viaje.
 
+::: {.note}
 Cuando en un estudio se informe el **tamaño de la muestra** éste debe remitir a la **cantidad de grupos de viaje encuestados**, pues los grupos constituyen las unidades de muestreo (y, lógicamente, los cálculos sobre el error muestral deben realizarse considerando dicha cantidad). No obstante, es útil **indicar como referencia la cantidad de visitantes** englobados en ellos.
-
 Por ejemplo: El tamaño de la muestra fue de 1.000 grupos de viaje, integrados por 2.850 visitantes.
+:::
 
 ### **Muestreo polietápico**
 
@@ -708,7 +709,7 @@ En este punto cabe traer a cuenta nuevamente el concepto de muestreo por conglom
 
 Por ejemplo, retomando un ejemplo mencionado anteriormente, se ha decidido realizar una encuesta dirigida a visitantes a una reserva natural (principal atractivo de una localidad) que cuenta con dos accesos, uno principal y otro secundario. Ahora bien, ¿alcanza con indicar al equipo de campo que releve una determinada cantidad de encuestas en la reserva natural? Intuitivamente, pareciera que sí. Pero, formalmente, de esta información se derivaría que los encuestadores tendrían total libertad para escoger el momento y el lugar (los accesos) en los que realizar las encuestas. Sin embargo, muy probablemente haya diferencias entre los accesos (puede que por el principal ingresen personas que no conocen la zona, mientras que el acceso secundario sea utilizado por visitantes asiduos y/o residentes en los alrededores).
 
-Del mismo modo, si todas las encuestas se realizarán en un mismo horario (por ejemplo, bien temprano a la mañana), probablemente el perfil obtenido no sea representativo de todos los turistas alojados (por caso, quizás a primera hora sea más factible hallar familias y/o adultos que jóvenes que salieron durante la noche anterior y tenderán a visitar la reserva en horas de la tarde). 
+Del mismo modo, si todas las encuestas se realizarán en un mismo horario (por ejemplo, bien temprano a la mañana), probablemente el perfil obtenido no sea representativo de todos los turistas alojados (por caso, quizás a primera hora sea más factible hallar familias y/o adultos que jóvenes que salieron durante la noche anterior y tenderán a visitar la reserva en horas de la tarde).
 
 Para evitar la presencia de sesgos en los resultados (esto es, la sobreestimación o subestimación de diferentes atributos en la muestra respecto a la población), es preciso que desde el diseño muestral se planteen estrategias que guíen rigurosamente el trabajo de campo (complementando, de existir, la estratificación de la muestra). Por eso, **una estrategia eficaz es definir de antemano cuándo y dónde relevar las encuestas**, lo que se traduce, necesariamente, en la construcción de muestras poliétapicas.
 
@@ -747,7 +748,7 @@ Nuevamente, si se deja librada esta cuestión a la voluntad del encuestador, pro
 
 A modo de ejemplo, estas estrategias, que dependen de las características de cada población bajo estudio, podrían ser:
 
--   Aplicar un muestreo sistemático siempre que sea posible. Por ejemplo, en una fila de entrada a un atractivo o de embarque a un avión u ómnibus, encuestar a uno de cada X grupos de viaje[^propuestas_metodologicas-71]. Por ejemplo, si se estima que en un avión viajan 100 personas que en promedio integran grupos de viaje de dos personas, puede estimarse que existen 50 grupos de viaje. Si se define que en ese punto muestral  (es decir, el vuelo de un día y hora determinados) deben realizarse 5 encuestas, el encuestador debería dejar pasar cuatro grupos de viaje entre una y otra encuesta. Un criterio similar podría adoptarse, por ejemplo, si se desea realizar un estudio en un contexto en el cual los asistentes se ubiquen en asientos o espacios numerados (por ejemplo, un festival folclórico).
+-   Aplicar un muestreo sistemático siempre que sea posible. Por ejemplo, en una fila de entrada a un atractivo o de embarque a un avión u ómnibus, encuestar a uno de cada X grupos de viaje[^propuestas_metodologicas-71]. Por ejemplo, si se estima que en un avión viajan 100 personas que en promedio integran grupos de viaje de dos personas, puede estimarse que existen 50 grupos de viaje. Si se define que en ese punto muestral (es decir, el vuelo de un día y hora determinados) deben realizarse 5 encuestas, el encuestador debería dejar pasar cuatro grupos de viaje entre una y otra encuesta. Un criterio similar podría adoptarse, por ejemplo, si se desea realizar un estudio en un contexto en el cual los asistentes se ubiquen en asientos o espacios numerados (por ejemplo, un festival folclórico).
 
 -   Derivado de lo anterior, en ciertos estudios puede ser útil definir un intervalo de tiempo, indicando el momento exacto en que, en un lugar determinado, el encuestador debe empezar a consultar (entre quienes se ubiquen más cerca de él) para contactar a un grupo de viaje con el fin de entrevistarlo (por ejemplo, a las 9.00 hs., luego de realizar una encuesta esperar a las 9.15 hs., luego a las 9.30 hs., etc.).
 
@@ -755,7 +756,9 @@ A modo de ejemplo, estas estrategias, que dependen de las características de ca
 
 [^propuestas_metodologicas-71]: Cabe notar que no siempre resulta sencillo identificar quiénes pertenecen a un grupo de viaje, pues no necesariamente, aún bajo la definición aquí establecida, todos sus integrantes se desplacen estrictamente juntos durante todo el tiempo (aunque sí es esperable que ello suceda en las situaciones planteadas). De la evaluación de esta cuestión debe surgir la factibilidad de aplicar un tipo de selección como el mencionado.
 
+::: {.note}
 Cabe indicar que **estos criterios son cruciales también en aquellos casos en que no se dispongan los elementos para realizar estudios probabilísticos: únicamente cuidar y mantener las pautas del trabajo de campo permitirá explorar cómo se modifican tendencias entre diferentes momentos del tiempo**.
+:::
 
 ### **Cobertura temporal**
 
@@ -765,13 +768,13 @@ Ya se ha mencionado la importancia que la definición del universo presenta en c
 
 [^propuestas_metodologicas-72]: Lógicamente, como se ha tratado en extenso, la definición del universo puede depender también de otras variables: visitantes que se alojan en hoteles, visitantes que se trasladan en avión, visitantes que concurren a un evento o atractivo específico, etc. No obstante, nótese que tanto cuando se trata del total de visitantes o de diferentes subuniversos, siempre es preciso fijar las coordenadas espacio temporales.
 
-En cuanto a la dimensión temporal cabe plantear dos cuestiones. Por un lado, la necesidad de definir concretamente el periodo bajo estudio (es decir, por ejemplo, si se realiza un estudio en verano, definir exactamente qué meses o períodos abarca). 
+En cuanto a la dimensión temporal cabe plantear dos cuestiones. Por un lado, la necesidad de definir concretamente el periodo bajo estudio (es decir, por ejemplo, si se realiza un estudio en verano, definir exactamente qué meses o períodos abarca).
 
 Por otro lado, es posible realizar encuestas sobre muestras que permitan conocer algunos periodos en concreto por separado (por ejemplo, verano y fines de semana largos), y luego juntarlas o acumularlas formando parte de un estudio más amplio (por ejemplo, temporada alta, si se define a la misma como el periodo comprendido por los meses de verano y los fines de semana largos de cualquier momento del año). Incluso sin la necesidad de realizar encuestas en forma continua, sino algunos meses al año (típicos de cada temporada, por ejemplo, alta, media y baja), podrían obtenerse resultados representativos para todo el año (acumulando las muestras de cada uno de los períodos relevados). En definitiva, lo que se estaría haciendo en estos casos es considerar a la variable tiempo como una variable (de estratificación) más del diseño muestral. Además de permitir comparar perfiles de visitantes en las distintas temporadas, esta técnica permitiría desagregar mucho más la información: por ejemplo, si se hacen 500 encuestas en cada una de las temporadas, la muestra de cada una de ellas permitiría tener resultados medianamente robustos a nivel total muestra pero no en el cruces entre variables; en cambio, la muestra acumulada anual de 1.500 casos sí permitiría realizar cruces entre variables (siempre que se cumplan los requisitos del tamaño muestral para el grado de precisión requerida), por caso, comparar cómo se distribuyen los visitantes según motivo del viaje (ocio, visita a familiares, trabajo u otros) de acuerdo a su lugar de residencia (si residen en la provincia, en el resto del país, o en el exterior) [^propuestas_metodologicas-73].
 
 [^propuestas_metodologicas-73]: A modo de ejemplo, la EVyTH produce resultados mensuales a partir de muestras independientes de unos 5 mil hogares que responden sobre los viajes turísticos (con y sin pernocte) que realizan durante el mes de referencia. Los resultados trimestrales surgen de una muestra compuesta por la agregación de los viajes turísticos relevados en los tres meses correspondientes, mientras que los resultados anuales contemplan los viajes relevados en los doce meses. Así, los informes mensuales presentan sólo las distribuciones de frecuencia de las principales variables de los turistas con destino en el país, mientras que los informes trimestrales profundizan el análisis de los turistas internos con análisis bivariados y presentan las características básicas de los excursionistas y los turistas que viajan al exterior. Lógicamente, en el informe anual se profundiza la caracterización de estos tres segmentos.
 
-No obstante la potencialidad de la posibilidad de construir muestras acumulativas, cabe indicar que ello requiere de dos precondiciones fundamentales, comunes a otras aristas de los diseños muestrales ya comentadas. 
+No obstante la potencialidad de la posibilidad de construir muestras acumulativas, cabe indicar que ello requiere de dos precondiciones fundamentales, comunes a otras aristas de los diseños muestrales ya comentadas.
 
 -   Una, acumular suficiente evidencia y conocimiento para, por ejemplo, segmentar el año en temporadas.
 
@@ -779,7 +782,7 @@ No obstante la potencialidad de la posibilidad de construir muestras acumulativa
 
 [^propuestas_metodologicas-74]: Siguiendo con el ejemplo, en una provincia o localidad se relevan 500 encuestas en cada una de las tres temporadas definidas, resultando que en la temporada alta el 75% de los visitantes acude por motivo de ocio, en la temporada media este valor se ubica en el 50% y en la temporada baja cae a 25%. Si no se considera el peso relativo de cada temporada en el total anual, los resultados indicarían que el 50% de los visitantes visitan el destino por ocio (dado que las muestras son de igual tamaño, este resultado se obtendría tanto como promedio simple de los resultados de las tres temporadas como de una base de datos que contenga los casos relevados en las tres muestras sin ponderar). Sin embargo, es esperable que el flujo de visitantes sea variable entre temporadas; si, por ejemplo, en temporada alta llegan 100 mil visitantes, en temporada media 30 mil y en temporada baja 20 mil, totalizando 150 mil visitantes anuales, asumir que el 50% de visitantes que viajan por ocio constituye un dato erróneo, pues los visitantes de temporada media y baja se encuentran sobrerrepresentados. Así el cálculo correcto debería ser el producto de la estimación obtenida en cada temporada por los visitantes contabilizados en ellas (o bien, el resultado de los 500 casos ponderados para que representen al total de visitantes de cada temporada) dividido por el total anual de visitantes: (75%\*100.000+50%\*30.000+25%\*20.000)/150.000=63,3%.
 
-Finalmente, es importante reflexionar sobre las ventajas y desventajas de contar con estudios continuos[^propuestas_metodologicas-75]. La pregunta sería si tiene sentido realizar una encuesta de caracterización de la demanda todos los años (por ejemplo, en 2012, 2013, 2014, etc.). ¿Por qué? Porque, como se desarrolló en extenso, una encuesta por muestreo tiene asociado un margen de error y sólo podrá establecerse la existencia de diferencias estadísticamente significativas cuando los intervalos de confianza de las estimaciones no se solapen. Por ejemplo, si se realizan encuestas con un margen de error estadístico del 3% y el estudio de 2012 arroja que el 40% de los turistas visitaron un destino por ocio mientras que el año siguiente la estimación alcanza al 44%, no podrá afirmarse que la proporción de visitantes que viajan por ocio en ambos años ha aumentado, pues los intervalos de confianza de ambas estimaciones (37%-43% en 2012 y 41%-47%) se superponen parcialmente. 
+Finalmente, es importante reflexionar sobre las ventajas y desventajas de contar con estudios continuos[^propuestas_metodologicas-75]. La pregunta sería si tiene sentido realizar una encuesta de caracterización de la demanda todos los años (por ejemplo, en 2012, 2013, 2014, etc.). ¿Por qué? Porque, como se desarrolló en extenso, una encuesta por muestreo tiene asociado un margen de error y sólo podrá establecerse la existencia de diferencias estadísticamente significativas cuando los intervalos de confianza de las estimaciones no se solapen. Por ejemplo, si se realizan encuestas con un margen de error estadístico del 3% y el estudio de 2012 arroja que el 40% de los turistas visitaron un destino por ocio mientras que el año siguiente la estimación alcanza al 44%, no podrá afirmarse que la proporción de visitantes que viajan por ocio en ambos años ha aumentado, pues los intervalos de confianza de ambas estimaciones (37%-43% en 2012 y 41%-47%) se superponen parcialmente.
 
 [^propuestas_metodologicas-75]: Si bien se asume que, de ser posible, sería valioso contar con información que permitiese comparar el perfil del visitante en los diferentes momentos o temporadas del año, la disyuntiva que aquí se presenta puede implicar tanto a estudios que relevan información para todo el año como para aquellos donde el estudio se circunscribe a un momento (por ejemplo, verano).
 
@@ -813,7 +816,7 @@ En algunos casos, el peso de los viajes multidestino puede ser marginal (donde l
 
 [^propuestas_metodologicas-80]: Por ejemplo, la EVyTH registró en el año 2013 que sólo el 2,1% de los turistas que viajaban dentro de su provincia realizaban viajes multidestino (pernoctando en dos o más localidades), mientras que esta proporción era más de tres veces superior (7,6%) entre quienes viajaban a destinos ubicados en una región distinta a la de su provincia de residencia. Entonces, si un residente de la provincia X visitará un sólo destino en cada viaje que realice en su provincia en una proporción mucho mayor a la que se observará entre los visitantes no residentes en esa provincia o en el país, los rasgos de estos últimos, dada su mayor probabilidad de selección en la muestra, quedarán sobrerrepresentados de no controlarse este efecto.
 
-Existen tres alternativas posibles para lidiar con esta complejidad. 
+Existen tres alternativas posibles para lidiar con esta complejidad.
 
 -   Una sería indagar por todo el recorrido del viaje en la provincia, en cualquier localidad en que se encueste al visitante (más precisamente, al grupo de viaje) y luego construir un factor de expansión aplicable a los resultados provinciales que surja de la división del factor de expansión original calculado en tanto visitante de una determinada localidad por la cantidad de destinos que ha visitado o visitará en la provincia (asumiendo aquí el supuesto que en todas las localidades es idéntica la probabilidad de selección de quienes las visitan). Claro que este ajuste tiene como prerrequisito la inclusión de preguntas en el cuestionario que permitan detectar la cantidad de localidades de la provincia visitada durante su viaje. Aunque compleja, como ventaja de esta metodología cabe señalar que permitiría tanto contabilizar la cantidad efectiva de turistas de una provincia (sin el efecto duplicación), como describir sin sesgos a la población de visitantes. 
 
@@ -825,7 +828,7 @@ Existen tres alternativas posibles para lidiar con esta complejidad. 
 
 En cualquier caso, la manera incorrecta de proceder consistiría en indagar por el recorrido realizado (y el gasto) en toda la provincia en cualquier localidad que se seleccione al encuestado y no considerar la cantidad de destinos visitados en la provincia (y, por tanto, su mayor probabilidad de selección respecto a quienes solo han visitado un destino) a la hora de ponderar los casos para la obtención de resultados. En este caso, el efecto de los viajes multidestino no sólo afectaría la contabilización y caracterización de los visitantes a nivel provincial, sino también la contabilización y descripción de los pernoctes y el gasto turístico.
 
-\#\#\#**Resumen de recomendaciones**
+### **Resumen de recomendaciones**
 
 -   **Tamaños muestrales acorde a los objetivos del estudio**, atendiendo no sólo a la precisión deseada en los resultados totales (distribuciones de frecuencia) sino también a los cruces entre variables que se deseen realizar y al seguimiento en el tiempo de los indicadores.
 
@@ -867,7 +870,7 @@ A la hora de diseñar formularios, es importante tomar en cuenta algunos puntos 
 
 -   **Acompañar los formularios con manuales o guías para los encuestadores**, de modo tal que comprendan cabalmente qué es lo que se procura medir con cada pregunta y a la vez dotarlos de recursos que les permitan plasmar correctamente situaciones que escapan a lo común.
 
--   **Evitar el cansancio de los encuestados**. Los formularios demasiado largos cansan al encuestado, que comienza a responder con cada vez menos atención. Como regla general, la entrevista no debería exceder los 10 minutos de duración. 
+-   **Evitar el cansancio de los encuestados**. Los formularios demasiado largos cansan al encuestado, que comienza a responder con cada vez menos atención. Como regla general, la entrevista no debería exceder los 10 minutos de duración.
 
 -   Disponer de versiones en inglés (u otros idiomas) de los formularios (y personal capacitado), sobre todo en zonas de alta preeminencia de turismo internacional.
 
@@ -877,13 +880,13 @@ Formalmente, una **variable** es una propiedad o atributo de las unidades de an�
 
 Una variable es un concepto y, como tal, puede tener una acepción diferente a la que el sentido común le otorga a esa palabra (si existe) o bien puede no ser comprendido por el entrevistado o bien puede ser interpretada de forma diferente por los distintos entrevistados. Por tanto, para medir una variable es preciso realizar un proceso que la transforme en algo medible. Ese proceso se denomina **operacionalización** e implica el pasaje desde una definición nominal o conceptual a una definición operacional o medible. A su vez, esa operacionalización puede implicar que un único concepto requiera de una o más preguntas en el cuestionario para su efectiva medición. La o las preguntas deben ser sencillas y de entendimiento intuitivo para el entrevistado, de modo que su respuesta obedezca realmente a la información que se pretende obtener.\
 
+::: {.note}
 Por ejemplo, el entorno habitual es una variable con un alto nivel de abstracción, cuya definición indica que "es la zona geográfica donde se ubica su residencia habitual y, además de ésta, las zonas geográficas en las que se desenvuelve cotidianamente (ya sea por trabajo, estudio u otras actividades regulares)". Claramente, si al encuestado se le pregunta, sin más, si en su viaje salió de su entorno habitual, más que probablemente no se obtenga la respuesta deseada.
-
 Si se avanza un paso más y se le plantea la definición conceptual, la respuesta obtenida no será comparable con la de otros entrevistados, pues no todos considerarán un espacio similar a la hora de pensar en "la zona geográfica cercana", del mismo modo que no todos entenderán lo mismo por zona no cercana en la que se "desenvuelve cotidianamente".
-
 Por tanto, es preciso establecer una definición operacional concreta y clara, que permita obtener respuestas comparables y ligadas al objetivo planteado. En el ejemplo, podría plantearse entonces que se considera que un destino está fuera del entorno habitual si se ubica a más de una determinada distancia (por ej., 20 kilómetros) del lugar de residencia y si, además, es visitado con una frecuencia menor a una vez por semana. Lógicamente, esta definición operacional precisará, para no confundir al entrevistado, de al menos dos preguntas, una relativa a la distancia entre su lugar de residencia y el destino, y otra relativa a la frecuencia con la que visita el destino.
+:::
 
-Para que los valores de una variable sean comparables entre dos estudios realizados en diferentes momentos del tiempo o bien entre estudios aplicados a diferentes lugares, es precondición necesaria que se parta de una **misma definición conceptual**. 
+Para que los valores de una variable sean comparables entre dos estudios realizados en diferentes momentos del tiempo o bien entre estudios aplicados a diferentes lugares, es precondición necesaria que se parta de una **misma definición conceptual**.
 
 En lo que hace a los estudios de caracterización de la demanda turística, una primera e ineludible pauta para lograr esto es partir del marco conceptual, que en las estadísticas de turismo se encuentra en las **Recomendaciones Internacionales de la OMT**. Allí pueden encontrarse elementos para la construcción conceptual de las variables más relevantes y/o comunes (alojamiento, transporte, motivo, paquete turístico, duración, gasto, etc.).
 
@@ -1003,8 +1006,6 @@ El gasto de consumo turístico se define como la **suma pagada por la adquisici�
 
 [^propuestas_metodologicas-90]: Este concepto excluye la adquisición de ciertas partidas, como ser las transferencias sociales en especies que benefician a los visitantes, la imputación de servicios de alojamiento en viviendas de vacaciones que pertenecen a los visitantes, y servicios de intermediación financiera medidos indirectamente.
 
-    \
-
 Se considera que entre los bienes y servicios que forman parte del gasto turístico, se encuentran aquellos que se adquieren para **satisfacer las necesidades de alimentación, indumentaria, alojamiento, salud, transporte, esparcimiento, educación, y otros bienes y servicios diversos, efectuados con motivo de la realización de los viajes o visitas de un día**.
 
 Dentro de los gastos efectuados **durante el viaje**, se incluyen tanto los que sean para consumir durante el mismo, para regalar, como para utilizar una vez de regreso del viaje. Sin embargo, deben excluirse del gasto turístico aquellos bienes y servicios adquiridos, durante el viaje, destinados a la actividad económica y no al consumo del hogar[^propuestas_metodologicas-91].\
@@ -1015,7 +1016,7 @@ En cambio, entre los gastos en los que se incurre **antes de realizar el viaje**
 
 [^propuestas_metodologicas-92]: Por ejemplo: paquetes turísticos; pago anticipado de hospedaje; pago anticipado de entradas a espectáculos, museos, excursiones, etc.; pago de trámite de visado o permisos temporarios; seguro de salud o de pérdida de equipaje para el viaje; traslados desde el domicilio hacia el aeropuerto, terminal de ómnibus, etc.; combustibles; alimentos y bebidas para consumir durante el viaje; rollos fotográficos; cremas y filtros solares, etc.
 
-[^propuestas_metodologicas-93]:  Se trata de bienes y servicios que están directamente relacionados con el viaje, como ser los traslados en taxi o remís desde el aeropuerto, terminal de ómnibus, etc. hacia el domicilio, o el revelado fotográfico.
+[^propuestas_metodologicas-93]: Se trata de bienes y servicios que están directamente relacionados con el viaje, como ser los traslados en taxi o remís desde el aeropuerto, terminal de ómnibus, etc. hacia el domicilio, o el revelado fotográfico.
 
 [^propuestas_metodologicas-94]: Por ejemplo: máquinas fotográficas, filmadoras, casetes, valijas, ropas, etc.; el costo de trámites para obtener el DNI, pasaporte, registro internacional, etc.; reparaciones y acondicionamiento del vehículo para el viaje, etc.
 
@@ -1049,11 +1050,11 @@ A continuación se presenta la desagregación del gasto turístico recomendada p
 
 8.  Otras
 
-A partir de la desagregación del gasto turístico recomendada internacionalmente y las utilizadas en las encuestas nacionales, se presenta una propuesta para ser aplicada en todo el territorio nacional. 
+A partir de la desagregación del gasto turístico recomendada internacionalmente y las utilizadas en las encuestas nacionales, se presenta una propuesta para ser aplicada en todo el territorio nacional.
 
-Esta propuesta es flexible, pues permite decidir entre niveles alternativos de apertura, según la posibilidad de recopilación de datos con que se cuente y según los objetivos de la investigación. 
+Esta propuesta es flexible, pues permite decidir entre niveles alternativos de apertura, según la posibilidad de recopilación de datos con que se cuente y según los objetivos de la investigación.
 
-Así se distingue una diferenciación básica entre paquete turístico, transporte al destino y otros gastos. Luego, el transporte en destino y, especialmente, el ítem otro gastos dejan abierta la posibilidad de desagregar la indagación. 
+Así se distingue una diferenciación básica entre paquete turístico, transporte al destino y otros gastos. Luego, el transporte en destino y, especialmente, el ítem otro gastos dejan abierta la posibilidad de desagregar la indagación.
 
 Es importante remarcar que el gasto en los servicios contenidos dentro del paquete turístico se relevan únicamente en ese ítem, de modo de evitar una doble contabilización del gasto. Por esta razón, es importante conocer qué servicios turísticos fueron incluidos dentro del paquete, ya que dicha información constituye el insumo esencial para, luego de obtenidos los datos, despaquetizar (es decir, desagregar el monto total del paquete e imputarlo a los diferentes productos).
 
@@ -1181,8 +1182,8 @@ De este modo, a partir del formulario se podrá estimar el gasto turístico prov
 
 Finalmente, se incluye una pregunta destinada a conocer si los gastos del viaje fueron exclusivamente afrontados con recursos propios de los visitantes o no (es decir, si fueron financiados por empresas, instituciones u otros hogares).
 
-\
-\#\#\# **El gasto diario promedio**
+
+### **El gasto diario promedio**
 
 El gasto diario promedio es un indicador típico de las encuestas de caracterización de la demanda, y es relevante no sólo por el tipo de información que en sí mismo aporta para describir el perfil de los turistas y su evolución en el tiempo, sino porque muchas veces constituye un insumo esencial para la estimación del volumen global del gasto de los turistas (o de los visitantes, si se incluye a los excursionistas) en un determinado destino (localidad, zona o provincia). Esto suele realizarse a partir de multiplicar la cantidad de turistas que arriban al destino (dato obtenido mediante otro tipo de estudio, y que puede referir al total o a un segmento de los turistas) por la estadía promedio y por el gasto diario promedio.
 
@@ -1192,41 +1193,38 @@ En base a esta información se puede estimar el gasto diario promedio. Si bien h
 
 **Tablas varias 002**
 
+::: {.note}
 **Forma de cálculo 2**: Cada caso vale uno para la estadía promedio (como en la forma anterior), pero en el caso del gasto diario se toman en cuenta los pernoctes (es decir se realiza un promedio ponderado: el gasto diario se multiplica por su estadía y luego se divide por la suma de las estadías[^propuestas_metodologicas-108]).
+:::
+
+::: {.note}
+**Forma de cálculo 3**: En esta alternativa se toman en cuenta tanto los integrantes de cada grupo como su estadía. La estadía promedio surge de dividir la suma de los pernoctes totales (estadía por cantidad de integrantes) de todos los grupos por la suma de los turistas de cada grupo. En tanto, el gasto promedio diario surge de dividir la suma de los gastos totales de los grupos por la suma de los pernoctes totales de los grupos.
+
+Estadía promedio                72/11=      6,5
+Gasto diario promedio       21000/72=       292
+:::
 
 [^propuestas_metodologicas-108]: La multiplicación del gasto diario promedio por la estadía arroja el gasto total por turista.
 
 Como puede apreciarse en este ejemplo ficticio, las formas de cálculo arrojan resultados sensiblemente diferentes en el caso de la estadía promedio y muy distinto en el caso del gasto promedio diario.
 
-Ahora bien, ¿las tres formas son correctas? En caso negativo, ¿se puede identificar la forma correcta? Una manera de dar respuesta a este interrogante es usar los diferentes valores estimados de estadía y gasto diario para obtener los totales, multiplicándolos por la cantidad de turistas (dato que aquí es conocido y permite la constatación de si cada alternativa es o no válida, pero en muchos casos, cuando se trata de estimar el volumen del gasto realizado por los turistas, proviene de otras fuentes, ligadas a alojamiento, medios de transporte, etc.). 
+Ahora bien, ¿las tres formas son correctas? En caso negativo, ¿se puede identificar la forma correcta? Una manera de dar respuesta a este interrogante es usar los diferentes valores estimados de estadía y gasto diario para obtener los totales, multiplicándolos por la cantidad de turistas (dato que aquí es conocido y permite la constatación de si cada alternativa es o no válida, pero en muchos casos, cuando se trata de estimar el volumen del gasto realizado por los turistas, proviene de otras fuentes, ligadas a alojamiento, medios de transporte, etc.).
 
 De la tabla anterior, la suma de los turistas que componían los tres grupos de los que formaban parte los encuestados arroja un total de 11 turistas entre los que se contabilizan 72 pernoctes y un gasto total de \$21.000. ¿Qué sucede con los totales en cada reconstrucción frente al total real?
 
-+------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
-| Forma de cálculo | Total de turistas | Estadía promedio | Gasto diario promedio  | Estimación de total de pernoctes | Estimación de total de gasto |
-+==================+===================+==================+========================+==================================+==============================+
-| Personas         | Noches            | \$               | Noches                 | Dif. % con total real\           | \$                           |
-|                  |                   |                  |                        | (72 noches)                      |                              |
-+------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
-| A                | B                 | C                | AxB                    | \                                | AxBxC                        |
-+------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
-| Forma 1          | 11                | 6,0              | 633                    | 66                               | -8,3%                        |
-+------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
-| Forma 2          | 11                | 6,0              | 367                    | 66                               | -8,3%                        |
-+------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
-| Forma 3          | 11                | 6,5              | 292                    | 72                               | 0,0%                         |
-+------------------+-------------------+------------------+------------------------+----------------------------------+------------------------------+
+**Tabla 7???**
 
-\
 Como se observa, **sólo a partir de la forma de cálculo 3 se obtienen resultados que permiten reconstruir correctamente el total**. Las dos primeras formas subestiman la cantidad total de noches -en la misma magnitud, pues la fórmula era idéntica- (66 noches contra 72 noches reales), mientras que el gasto total de los turistas en la primera forma casi duplica al gasto real (\$41.800 frente a \$21.000), mientras que en la segunda forma la estimación arroja resultados un 15,2% superior a los reales (\$24.200 versus \$21.000)[^propuestas_metodologicas-109].
 
 [^propuestas_metodologicas-109]: Esta segunda forma de cálculo arrojaría resultados válidos sí y sólo sí se trabajara con diseños muestrales donde la unidad de muestreo (aquellas teóricamente posibles de ser encuestadas) fuesen los individuos, sin importar el grupo de pertenencia (es decir, donde existiese la probabilidad de encuestar a dos o más integrantes de un mismo grupo, si la selección aleatoria así lo dispusiera). Cómo se comentó más arriba, esta posibilidad, quizás la ideal desde el punto de vista teórico, es impracticable en la realidad, debido a la complejidad que ello supondría para el trabajo de campo.
 
+::: {.note}
 **De este modo, matemáticamente, sólo es válida la forma que contempla el tamaño del grupo de viaje, la extensión de la estadía y el gasto total del grupo, obteniendo sus resultados a partir de promedios ponderados (o, lo que es lo mismo, de la razón entre cantidades acumuladas).**
+:::
 
 Ahora bien, más allá de las diferencias mencionadas en el ejemplo hipotético anterior: ¿resultan realmente significativas las diferencias al contemplar una u otra fórmula de cálculo?
 
-\
+
 Para dar respuesta a este interrogante, se recurrirá a un ejemplo contundente y real. La EVyTH del año 2013 arrojó los siguientes totales anuales para el turismo interno[^propuestas_metodologicas-110]: 30,24 millones de turistas, 170,89 millones de pernoctes y un gasto total de los turistas que ascendió a \$33.739 millones. Asumiendo que la cantidad de turistas fuera conocida por medio de otra fuente ¿Qué valor asumirían estas últimas dos cantidades (pernoctes y gasto) si se hubiese utilizado como insumo las diferentes estimaciones de estadía media y de gasto diario promedio que surgen de las tres fórmulas de cálculo planteadas?
 
 [^propuestas_metodologicas-110]: Visitantes residentes en los grandes aglomerados urbanos del país que viajaron a destinos ubicados en Argentina, pernoctando al menos una noche fuera de su entorno habitual.
@@ -1234,19 +1232,7 @@ Para dar respuesta a este interrogante, se recurrirá a un ejemplo contundente y
 Aplicando las fórmulas comentadas más arriba sobre la base de datos de la EVyTH, de acuerdo a la forma de cálculo 1, la estadía promedio sería de 5,67 noches mientras que la media del gasto diario llegaría a \$341,9. En la forma 2, se replica la estadía (5,65 noches) y el gasto diario promedio se ubica en \$246,1. Finalmente, de acuerdo a la forma de cálculo 3, la estadía promedio era de 5,65 noches (valor muy similar a los anteriores), mientras que el gasto promedio era de \$197,4, valor sustancialmente inferior a los de las otras dos formas de cálculo, especialmente al correspondiente a la forma 1.
 
 Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo", obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un 73,7% al valor correcto (\$58.594 millones frente a los \$33.739 millones reales).
-
-+------------------+-------------------+------------------+-----------------------+----------------------------------+------------------------------+
-| Forma de cálculo | Total de turistas | Estadía promedio | Gasto diario promedio | Estimación de total de pernoctes | Estimación de total de gasto |
-+==================+===================+==================+=======================+==================================+==============================+
-| miles\           | noches            | \$               | miles                 | Dif. % con total real\           | Millones                     |
-| (dato externo)   |                   |                  |                       | (170.895)                        |                              |
-+------------------+-------------------+------------------+-----------------------+----------------------------------+------------------------------+
-| Forma 1          | 30.243            | 5,67             | 341,9                 | 171.373                          | 0,3%                         |
-+------------------+-------------------+------------------+-----------------------+----------------------------------+------------------------------+
-| Forma 2          | 30.243            | 5,67             | 246,1                 | 171.373                          | 0,3%                         |
-+------------------+-------------------+------------------+-----------------------+----------------------------------+------------------------------+
-| Forma 3          | 30.243            | 5,65             | 197,4                 | 170.895                          | 0,0%                         |
-+------------------+-------------------+------------------+-----------------------+----------------------------------+------------------------------+
+**tabla 8 ??**
 
 Estos resultados no indican que en todos los casos se registrará esta tendencia y menos aún que es esperable la misma brecha. No obstante, se trata de una simulación sobre una base de datos sumamente robusta, y con resultados contra los cuales contrastar las estimaciones obtenidas, lo cual permite extraer importantes conclusiones.
 
@@ -1276,7 +1262,7 @@ Recapitulando, las formas 1 y 2 son incorrectas porque sus fórmulas no contempl
 
 ## **El campo, consistencia y procesamiento**
 
-Hasta aquí el centro de la atención ha sido puesto en el diseño de la investigación, es decir, en lo referido a la definición de los objetivos y universo bajo análisis, a la construcción de la muestra y al diseño del formulario. 
+Hasta aquí el centro de la atención ha sido puesto en el diseño de la investigación, es decir, en lo referido a la definición de los objetivos y universo bajo análisis, a la construcción de la muestra y al diseño del formulario.
 
 No obstante, que todas estas cuestiones sean resueltas satisfactoriamente no implicará que se arribe a resultados exitosos si no se atiende a la calidad del trabajo de campo y a las etapas posteriores al mismo. En esta sección se presenta una enumeración y una breve descripción de las tareas involucradas en estas etapas. Como se mencionó, si bien las etapas pueden ser ordenadas lógicamente, existe un ida y vuelta constante entre ellas.
 
@@ -1308,7 +1294,7 @@ Los supervisores estarán encargados tanto de asistir a los encuestadores en su 
 
 La recepción y el análisis constituye una etapa crucial, pues allí deben aplicarse controles de completitud y consistencia de la información recolectada, es decir, verificar (preferentemente con el encuestador presente) que no se hayan omitido preguntas y que las respuestas entre distintas preguntas sean congruentes.
 
-\
+
 Al respecto, pueden mencionarse inconsistencias de dos tipos: errores, es decir situaciones que carecen de lógica (por ejemplo, si un grupo de viaje encuestado menciona haberse alojado en un hotel, no puede no tener gasto en alojamiento) y advertencias, es decir, situaciones que si bien no son normales o esperadas, pueden llegar a ser verdaderas, pero requieren de una explicación que así lo justifique (por ejemplo, puede no haber gastos en el día de referencia de la indagación de los gastos porque ese día el grupo de viaje se alojó en la casa de familiares, donde comieron sobras de una fiesta del día anterior). Para organizar y hacer más eficiente esta etapa del trabajo, es recomendable preparar previamente **listados de consistencias** estandarizados.
 
 Otro insumo para este puesto de trabajo son los **libros de códigos**, es decir, tablas que permitan consignar códigos a las respuestas a preguntas abiertas, referidas a lugares geográficos, opiniones, etc. Del mismo modo, en esta etapa debe revisarse la descripción que comúnmente acompaña al registro de la opción "otros", evaluando si realmente se trata de una respuesta no contenida en las opciones previstas o si debe ser asignada a alguna de ellas.
@@ -1321,13 +1307,13 @@ También es preciso prever todos los materiales necesarios para que el equipo de
 
 Por otro lado, deben definirse los momentos (y la periodicidad) y lugares en que los encuestadores deben concurrir a retirar los materiales (formularios, cantidades a relevar, pautas de trabajo, etc.) y a entregar las encuestas completas.
 
-\
+
 Finalmente, en esta etapa debe preverse de qué modo se realizará la carga de la información en soportes informáticos para su posterior procesamiento. El abanico es amplio y va desde una carga directa en una base de datos hasta la utilización de programas informáticos diseñados a tal fin. La última opción es recomendable, pues permite incorporar pautas de consistencia y así encontrar errores que no hayan sido detectados en etapas anteriores de revisión. En este punto, existen desde programas sencillos (de uso relativamente intuitivo y amigable) hasta otros más complejos, disponibles en plataformas web gratuitas, o bien, si se cuenta con los recursos técnicos y económicos, puede optarse por programas de desarrollo propio. En cualquier caso, debe tenerse en cuenta que algunos formatos de preguntas son complejos (y a veces imposibles) de resolver en los programas de carga, con lo que es recomendable tener en cuenta estas limitaciones para la construcción del formulario. Idealmente, el programa de carga de la información debería ser construido y testeado previo al inicio del operativo de campo.
 
 Muchas veces, no prestar la debida atención a estas cuestiones, que a primera vista pueden parecer triviales o evidentes, puede llevar a que el estudio fracase, en términos de recolectar mucha menos información que la prevista (y/o con un bajo estándar de calidad) y de ese modo no poder dar cuenta de los objetivos de la investigación.
 
-\
-\#\#\# **Prueba Piloto**
+
+### **Prueba Piloto**
 
 La prueba piloto de cualquier estudio constituye una instancia fundamental, pues permitirá corroborar si las decisiones tomadas en el diseño original de la investigación se condicen con la realidad y, eventualmente, será un insumo esencial para realizar los ajustes necesarios para el relevamiento definitivo.
 
@@ -1343,7 +1329,6 @@ Entre otras cuestiones, la prueba piloto debería servir para chequear:
 
 -   La eficiencia de las distintas fases del trabajo de campo (entrega del material, instancias de supervisión, recepción y control del material completo, etc.).
 
-\
 
 ### **Operativo**
 
@@ -1351,7 +1336,7 @@ Una vez realizada la prueba piloto y realizados los ajustes necesarios en las di
 
 Lógicamente, esta etapa es el corazón de la investigación y para que sea exitosa deben haberse resuelto satisfactoriamente todas las etapas anteriores: una vez iniciado el relevamiento definitivo, salvo pequeños detalles, no será posible volver atrás en las decisiones tomadas y, por tanto, no será posible revertir los efectos nocivos que podrían acarrear errores en el diseño metodológico y en la organización práctica del relevamiento.
 
-\
+
 
 ### **Depuración y validación**
 
@@ -1361,8 +1346,8 @@ Una primera tarea consiste en realizar la **depuración y la validación final**
 
 En esta etapa se deberán analizar las respuestas a las preguntas abiertas (si las hubiera), creando una tipología o sistema de categorías que permita clasificarlas para su tratamiento estadístico. Del mismo modo, en aquellas preguntas que la categoría "otros" alcance a una porción sustancial de los casos (más de 5% o 7%, por ejemplo) deberá evaluarse la creación de nuevas categorías en las cuales consignar y dar entidad a situaciones con cierta preeminencia que no habían sido contempladas entre las opciones de respuesta originales.
 
-\
-\#\#\# **Imputación de valores faltantes**
+
+### **Imputación de valores faltantes**
 
 Indefectiblemente, aún con la base depurada, existirán casos con una o algunas preguntas sin respuesta. En algunos casos, en preguntas de tipo nominal u ordinal (motivo de viaje, calificación de servicios turísticos, etc.) puede aceptarse su existencia siempre que no superen un nivel razonable (por ejemplo, el 3% o el 5% de los casos)[^propuestas_metodologicas-117]. En cambio, en las preguntas sobre cantidades (integrantes del grupo, duración de la estadía, gastos) es recomendable **imputar** los valores faltantes.
 
@@ -1384,15 +1369,16 @@ Como se ha comentado largamente hasta aquí, los datos obtenidos no pueden ser a
 
 Lógicamente, para la construcción de los ponderadores debe considerarse el diseño muestral pues de allí se deriva la probabilidad de selección de cada caso (cabe recordar que el ponderador representa la inversa de dicha probabilidad). De allí se obtendrá el **ponderador inicial** que luego del proceso de **calibración** (si correspondiera), es decir, del ajuste de los pesos para que arrojen la estructura de las variables contenidas en el marco muestral, se obtendrá el **ponderador o factor de expansión final.**
 
+::: {.note}
 Los resultados finales **siempre deben ser los resultados que se obtengan ponderando los casos de la muestra.**
+:::
 
-\
 
 ### **Procesamiento e informes**
 
 Cumplidas las etapas precedentes se tendrá la base de datos final ("base usuario"), lista para el procesamiento de la información, es decir, para la obtención de los resultados.
 
-\
+
 Como principio básico, el o los informes de resultados que surjan deberán responder primordialmente a los objetivos planteados en la investigación. Esto no implica que no pueda incluirse información sobre aspectos no centrales o sobre aspectos novedosos o interesantes que surjan del estudio y que no hayan sido previstos originalmente, sino simplemente que los resultados que den respuesta a los objetivos planteados no pueden faltar.
 
 Una cuestión sobre la que cabe llamar nuevamente la atención es la necesidad de tener siempre presente los niveles de error estadístico de las estimaciones en la lectura de los resultados (fundamentalmente en los cruces de variables y en las comparaciones entre distintos momentos de tiempo), evitando arribar a conclusiones falaces, como mencionar diferencias que en realidad no pueden aseverarse desde el punto de vista estadístico.
