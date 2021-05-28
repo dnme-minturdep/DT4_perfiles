@@ -25,7 +25,7 @@ Además de este, se encuentran disponibles una serie de documentos técnicos que
 
 -   Documento Técnico \#5: Medición de la contribución económica del turismo: actividad y empleo
 
-### Documento Técnico Nº4 - Resumen
+### Documento Técnico Nº4 - Resumen {.unnumbered}
 
 Los estudios de caracterización de la demanda turística o de perfil del visitante[^index-1] (turista y/o excursionista) constituyen un insumo esencial a la hora de conocer las características de los visitantes que arriban a un destino (sea un país, una provincia, un municipio o una localidad) y monitorear su evolución, aportando herramientas para la generación y gestión de políticas públicas relativas al turismo. Adicionalmente, constituyen una fuente de información privilegiada para analizar el gasto turístico que realizan los diferentes tipos de visitantes, sirviendo como insumo para la estimación del impacto económico de la actividad.
 

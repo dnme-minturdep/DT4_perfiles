@@ -8,7 +8,7 @@ El Ministerio de Turismo y Deportes de la Nación (en adelante MINTURDEP) cuenta
 
 Cabe mencionar que estas encuestas, al estar centradas en un enfoque nacional, presentan la ventaja de contar con insumos privilegiados, fundamentalmente en lo que hace a la disposición y calidad de marcos muestrales (registros migratorios y listado de teléfonos en la ETI y en la EVyTH, respectivamente, ambos de carácter censal), lo cual adquiere una complejidad mayor en el caso de los contextos provinciales.
 
-## La ETI
+## ETI
 
 La ETI tiene por objetivo general conocer las características de los viajes (motivo, duración, destino/s, tipos de alojamientos, etc.), y de los viajeros (lugar de residencia, conformación del grupo viajero, etc.), así como los gastos en alojamiento, alimentación, traslados, transportes y compras que estos últimos realizan.
 
@@ -20,7 +20,7 @@ Una de las principales fortalezas de la ETI radica en que su marco muestral est�
 
 En este sentido, es preciso tener en cuenta que el comportamiento y las características de los viajes de quienes ingresan o egresan por los puntos de acceso cubiertos por la encuesta, es diferente al de los viajeros que lo hacen por otros puntos. Además, en el caso del turismo receptivo, la información no se presenta desagregada por provincias y no en todos los casos las estimaciones resultan robustas desde el punto de vista estadístico. En cuanto al turismo emisivo, si bien el lugar de residencia se indaga a nivel de provincia, en muchos casos estos datos resultan con valores marginales (o, vale decir, con bases pequeñas), sujetos a niveles de error estadístico muy elevados.
 
-## LA EVyTH
+## EVyTH
 
 El objetivo principal de la EVyTH es proporcionar información sobre los viajes turísticos de los residentes de Argentina hacia dentro y fuera del país: cuándo viajan, hacia dónde viajan, qué medios de transporte utilizan, dónde se alojan, cuáles son los motivos por los que viajan, cómo organizan sus viajes, qué actividades turísticas realizan, cuánto gastan, etc.
 
