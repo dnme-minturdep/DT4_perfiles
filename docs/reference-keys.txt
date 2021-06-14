@@ -2,7 +2,7 @@ principales-desafios
 encuestas-nacionales-de-perfil
 eti
 evyth
-propuestas_metodologicas
+propuestas-metodologicas
 los-objetivos
 las-definiciones
 la-muestra

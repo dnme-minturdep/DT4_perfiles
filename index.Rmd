@@ -37,7 +37,7 @@ En virtud de estos objetivos, este documento se estructura en tres capítulos.
 
 El **Capítulo** \@ref(principales-desafios) describe los principales desafíos metodológicos en los estudios de perfil relevados en todo el país.
 
-El **Capítulo** \@ref(encuestas-nacionales-de-perfil) presenta la experiencia del Ministerio de Turismo y Deportes en sus relevamientos de perfil de visitante interno e internacional.\
+El **Capítulo** \@ref(encuestas-nacionales-de-perfil) presenta la experiencia del Ministerio de Turismo y Deportes en sus relevamientos de perfil del visitante interno e internacional.\
 \
 El **Capítulo** \@ref(propuestas-metodologicas) aborda en detalle los puntos críticos involucrados en este tipo de estudios, presentando propuestas conceptuales y metodológicas que permitan superarlos.
 
