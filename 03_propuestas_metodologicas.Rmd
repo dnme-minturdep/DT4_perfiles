@@ -133,8 +133,10 @@ Un aspecto a destacar es que en el caso de las segundas viviendas (todas aquella
 
 De acuerdo a lo expuesto, la siguiente figura esquematiza las preguntas necesarias para la correcta identificación de los visitantes.
 
-[**Gráfico**]{.ul}
 
+```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Fifura1" }
+knitr::include_graphics('imagenes/figura_1.png')
+```
 Adicionalmente, cuando el estudio esté dirigido a un segmento de los visitantes, en este bloque inicial de preguntas deberían incluirse aquellas que permitan conocer si el entrevistado forma o no parte del universo bajo estudio. Por ejemplo, si éste se define como los turistas alojados en hoteles, una vez determinado si se trata o no de un visitante y específicamente de un turista (condición que se identificaría al indagar por la duración del viaje) debe indagarse por el tipo de alojamiento utilizado en el destino.
 
 **Visitantes y grupos de viaje**
@@ -339,11 +341,15 @@ Nuevamente, cuanto menor sea el nivel de error pretendido, mayor será la muestr
 
 La figura siguiente muestra de manera clara la relación entre el tamaño de la muestra y el error estadístico, incorporando además lo que implica la utilización de diferentes niveles de confianza. Los puntos violetas indican la cantidad de casos necesaria para diferentes niveles de precisión, mientras que también se indica (en verde) la cantidad de casos requeridos para un error de $3,5\%$ tomando distintos niveles de confianza e, inversamente, se señala cuál será el nivel de error para una muestra de mil casos para cada nivel de confianza (en rojo).
 
-**Figura...**
+```{r Margenesdeerrorseguntamaño, echo=FALSE, fig.cap="Grafico 2" }
+knitr::include_graphics('imagenes/DT4_grafico2.jpg')
+```
 
 Simplificando esta información al asumir, como se propone, un nivel de confianza del $90\%$, a continuación se indican los tamaños muestrales necesarios para obtener resultados con distintos niveles de error. Por ejemplo, el tamaño de una muestra para un error del $1,5\%$ asciende a 3.007 casos, frente a sólo 106 casos si lo que se pretende es obtener resultados con un margen de error de $8\%$.
 
-**Figura...**
+```{r Tamañodelamuestra, echo=FALSE, fig.cap="Gradico 3" }
+knitr::include_graphics('imagenes/DT4_grafico3.jpg')
+```
 
 Como se señaló, el margen de error habitualmente reportado es de hecho el máximo margen de error, es decir, el esperado para una estimación del $50\%$. Sin embargo, en realidad y como puede observarse en la figura siguiente, cada estimación contiene un margen de error específico: la escala del error se reduce en términos absolutos si la proporción se aleja del $50\%$.
 
@@ -357,7 +363,9 @@ Una manera usual en que se expresa el error relativo es en términos de coeficie
 
 [^propuestas_metodologicas-34]: Si bien no constituye una regla formal y la evaluación acerca de si es conveniente un determinado CV depende de los objetivos de cada estudio, existe cierto consenso en considerar como robustas a las estimaciones con CV menores a $10\%$, como aceptables a aquellas estimaciones con CV de entre $10\%$ y $20\%$ y como precarias a las estimaciones con CV de entre $20\%$ y $30\%$. A partir del $30\%$, los resultados deben tomarse sólo a modo indicativo o exploratorio.
 
-**Figura...**
+```{r Intervalodeconfianza, echo=FALSE, fig.cap="Grafico4" }
+knitr::include_graphics('imagenes/DT4_grafico4.jpg')
+```
 
 Es importante remarcar que, adicionalmente a dar cuenta de la precisión de la estimación, sólo considerando los intervalos de confianza pueden realizarse comparaciones y conocer si las diferencias encontradas son o no estadísticamente significativas.
 
@@ -397,7 +405,9 @@ La figura siguiente muestra el por qué de esta recomendación: a partir de los 
 
     Así, por ejemplo, si de la fórmula de población infinita se deriva que para un nivel de confianza del 90% y un error máximo del 3% es necesaria una muestra de 752 casos, en el caso de un universo de 25 mil unidades, el tamaño de la muestra resulta de 730 casos ($752×25000752+(25000-1)=1880000025751=730$).
 
-**Figura...**
+```{r Tamañodemuestra, echo=FALSE, fig.cap="Grafico5" }
+knitr::include_graphics('imagenes/DT4_grafico5.jpg')
+```
 
 Es decir, en caso de universos relativamente grandes o de tamaño desconocido (como suele suceder en el caso de las encuestas de perfil o caracterización de la demanda) resulta conveniente determinar el tamaño a partir de la fórmula que surge para poblaciones infinitas, pues el ahorro que supone relevar una pequeña cantidad de casos menos (tal como surge de las fórmulas de poblaciones finitas) es ínfimo y no compensa de ningún modo el riesgo de no asumir como infinita a la población.
 
@@ -577,7 +587,9 @@ A partir del procesamiento de esta información se puede conocer: la cantidad de
 \
 La tabla siguiente muestra un ejemplo de un marco muestral construido a partir de la información relevada en las planillas.
 
-**Tabla...**
+```{r Lugarderesidencia, echo=FALSE, fig.cap="Figura2" }
+knitr::include_graphics('imagenes/figura_2.png')
+```
 
 Lógicamente, a partir de esta información será posible conocer la cantidad de personas que asistieron al CIT en búsqueda de información, contando no sólo a la persona que se acercó a demandar información turística, sino también a quienes viajaban con ella (en el ejemplo, 795 personas).
 
@@ -637,11 +649,15 @@ La última columna muestra cual será el coeficiente que se utilizará para expa
 
     La tabla siguiente muestra el cálculo de los coeficientes para cada segmento. Puede observarse que, lógicamente, coinciden exactamente con el señalado en la tabla del cuerpo del documento.
 
-**Tabla 3**
+```{r Coeficientes, echo=FALSE, fig.cap="Tabla1" }
+knitr::include_graphics('imagenes/tabla_1.png')
+```
 
 En la siguiente tabla se ejemplifica lo que sería la base de datos final del estudio realizado, donde cada fila corresponde a cada uno de los casos encuestados.
 
-**Tabla 4**
+```{r Casosencuestados, echo=FALSE, fig.cap="Tabla2" }
+knitr::include_graphics('imagenes/tabla_2.png')
+```
 
 Allí están las variables que se relevan para todos los casos (seleccionados o no), las variables/preguntas que se relevan en el formulario aplicado en la encuesta de perfil (en este caso, sólo se muestra, a modo de ejemplo, el motivo) y el ponderador final que, como se mencionó, surge de multiplicar la cantidad de personas en el grupo por la inversa de probabilidad de selección de cada segmento.
 
@@ -650,7 +666,9 @@ El ponderador final indica a cuantos casos del universo representa cada caso de 
 Nótese que, por ejemplo, la suma de los ponderadores de quienes residen en el exterior y pernoctaron en el destino (casos 4, 7 y 19) asciende a 34 personas ($17+4,25+12,75$). Como puede observarse, el resultado del total de personas para cada segmento (definido por lugar de residencia y pernocte o no en el destino) coincide exactamente con la información del marco (pues, justamente, la función de este ponderador es expandir a toda la población respetando la participación en la población de cada uno de los segmentos que es posible definir a partir de los datos del marco muestral). En otras palabras, aquí se demuestra cómo los ponderadores permiten que los resultados obtenidos de la muestra sean representativos de la población en relación a dos variables relevantes, el lugar de residencia y la pernoctación o no en el destino.
 
 \
-**Tabla 5**
+```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3" }
+knitr::include_graphics('imagenes/tabla_3.png')
+```
 
 Lógicamente, la finalidad de esos ponderadores no es reconstruir los datos del marco sino permitir realizar estimaciones estadísticamente válidas para las variables que se procura analizar mediante la encuesta de perfil, garantizando la representatividad de la muestra en cuanto a parámetros importantes de la población[^propuestas_metodologicas-62].
 
@@ -658,7 +676,9 @@ Lógicamente, la finalidad de esos ponderadores no es reconstruir los datos del 
 
 Así, en relación a la variable motivo, a continuación se muestra la distribución de los visitantes que concurrieron al CIT (es decir, se excluye a los residentes en el destino). De los 73 visitantes contabilizados, el $48,4%$ viajaron por ocio (la suma de los ponderadores de los casos 1, 4, 22, 25 y 28 arroja un total de $35,30$ visitantes), un $45,8\%$ por visita a familiares y un $5,8\%$ por congresos.
 
-**Tabla 6**
+```{r Motivo, echo=FALSE, fig.cap="Tablaa4" }
+knitr::include_graphics('imagenes/tabla_a4.png')
+```
 
 En conclusión, **vale reiterar entonces que la implementación de encuestas de perfil en CIT se revela como una posibilidad potente y atractiva tanto por su relativo bajo costo como por la relativa facilidad para construir marcos muestrales** **y, a partir de ellos, diseñar muestras probabilísticas.** Una estrategia como la propuesta, además de caracterizar a los visitantes que concurren al CIT (es decir, a las personas que solicitan la información pero también a las personas que forman parte de su grupo), permitiría construir indicadores de evolución de volumen de este subgrupo de visitantes, tanto en total como de acuerdo a las variables más relevantes (tipo de visitante y lugar de residencia).
 
@@ -716,7 +736,9 @@ La **conjunción de un tiempo (día y/u horario) y un espacio o lugar** daría l
 
 La siguiente tabla muestra una posible selección (que, idealmente, podría hacerse al azar o en forma sistemática) de puntos muestrales para el caso que ejemplifica esta sección.
 
-**Tabla 7**
+```{r Muestraposible, echo=FALSE, fig.cap="Tabla4" }
+knitr::include_graphics('imagenes/tabla_4.png')
+```
 
 Claro que en este ejemplo se asumen algunos supuestos para no complejizar el ejercicio: se supone que el flujo de visitantes se distribuye equitativamente entre los siete días de la semana y durante los distintos momentos del día, del mismo modo que se contabiliza el doble de entradas por el acceso principal que por el acceso secundario. Por otro lado, los recursos disponibles permiten que haya un encuestador trabajando 12 horas diarias durante tres días a la semana. En este escenario, a cada punto muestral le correspondería una idéntica cantidad de encuestas (por ejemplo, si se desea relevar 270 casos en la semana, deberían encuestarse en nueve puntos muestrales, relevando 30 encuestas en cada uno).
 
@@ -1051,7 +1073,9 @@ Es importante remarcar que el gasto en los servicios contenidos dentro del paque
 
 Cabe señalar que tanto la ETI como la EVyTH en su versión 2006 se nutren de esta clasificación y la profundizan, constituyendo un insumo esencial a la hora de plantear la construcción de la Cuenta Satélite de Turismo.
 
-**Grafico 001**
+```{r Gastototal, echo=FALSE, fig.cap="figura3" }
+knitr::include_graphics('imagenes/figura_3.png')
+```
 
 ### Enfoque provincial
 
@@ -1087,7 +1111,9 @@ Finalmente, un tema de especial relevancia lo constituye el transporte[^propuest
 
 [^propuestas_metodologicas-98]: De acuerdo a la EVyTH 2006, entre los viajes realizados por los residentes del país dentro del mismo, aproximadamente el $30\%$ del gasto turístico total corresponde al transporte desde, hacia y entre los destinos del viaje.
 
-Tabla A
+```{r Tipodetraslado, echo=FALSE, fig.cap="Tabla5" }
+knitr::include_graphics('imagenes/tabla_5.png')
+```
 
 Desde la óptica de la provincia de referencia, es claro que el gasto en transporte internacional indirecto no debería ser contemplado, mientras que lo contrario ocurre con el gasto en transporte interno y local, que sí debería ser considerados en su totalidad.
 
@@ -1181,7 +1207,9 @@ Las encuestas de perfil se suelen realizar a individuos en tanto que forman part
 
 En base a esta información se puede estimar el gasto diario promedio. Si bien hay diversas formas de arribar a un resultado, sólo una de ellas es matemáticamente correcta (sin embargo, lamentablemente, no es esta forma la que habitualmente se utiliza). Cómo se verá, esto está íntimamente ligado con la forma en que se definen el universo bajo estudio, las unidades de análisis y las unidades de relevamiento. A continuación se desarrolla en detalle un ejemplo para echar luz sobre esta determinante cuestión.
 
-**Tablas varias 002**
+```{r Casos, echo=FALSE, fig.cap="Tabla6" }
+knitr::include_graphics('imagenes/tabla_6.png')
+```
 
 ::: {.note}
 **Forma de cálculo 2**: Cada caso vale uno para la estadía promedio (como en la forma anterior), pero en el caso del gasto diario se toman en cuenta los pernoctes (es decir se realiza un promedio ponderado: el gasto diario se multiplica por su estadía y luego se divide por la suma de las estadías[^propuestas_metodologicas-107]).
@@ -1201,7 +1229,9 @@ Ahora bien, ¿las tres formas son correctas? En caso negativo, ¿se puede identi
 
 De la tabla anterior, la suma de los turistas que componían los tres grupos de los que formaban parte los encuestados arroja un total de 11 turistas entre los que se contabilizan 72 pernoctes y un gasto total de \$21.000. ¿Qué sucede con los totales en cada reconstrucción frente al total real?
 
-**Tabla 7???**
+```{r Totalreal, echo=FALSE, fig.cap="Tabla7" }
+knitr::include_graphics('imagenes/tabla_7.png')
+```
 
 Como se observa, **sólo a partir de la forma de cálculo 3 se obtienen resultados que permiten reconstruir correctamente el total**. Las dos primeras formas subestiman la cantidad total de noches -en la misma magnitud, pues la fórmula era idéntica- (66 noches contra 72 noches reales), mientras que el gasto total de los turistas en la primera forma casi duplica al gasto real (\$41.800 frente a \$21.000), mientras que en la segunda forma la estimación arroja resultados un $15,2\%$ superior a los reales (\$24.200 versus \$21.000)[^propuestas_metodologicas-108].
 
@@ -1219,7 +1249,11 @@ Para dar respuesta a este interrogante, se recurrirá a un ejemplo contundente y
 
 Aplicando las fórmulas comentadas más arriba sobre la base de datos de la EVyTH, de acuerdo a la forma de cálculo 1, la estadía promedio sería de 5,67 noches mientras que la media del gasto diario llegaría a \$341,9. En la forma 2, se replica la estadía (5,65 noches) y el gasto diario promedio se ubica en \$246,1. Finalmente, de acuerdo a la forma de cálculo 3, la estadía promedio era de 5,65 noches (valor muy similar a los anteriores), mientras que el gasto promedio era de \$197,4, valor sustancialmente inferior a los de las otras dos formas de cálculo, especialmente al correspondiente a la forma 1.
 
-Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo", obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un $73,7\%$ al valor correcto (\$58.594 millones frente a los \$33.739 millones reales). **tabla 8 ??**
+Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo", obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un $73,7\%$ al valor correcto (\$58.594 millones frente a los \$33.739 millones reales). 
+
+```{r Formadecalculo, echo=FALSE, fig.cap="Tabla8" }
+knitr::include_graphics('imagenes/tabla_8.png')
+```
 
 Estos resultados no indican que en todos los casos se registrará esta tendencia y menos aún que es esperable la misma brecha. No obstante, se trata de una simulación sobre una base de datos sumamente robusta, y con resultados contra los cuales contrastar las estimaciones obtenidas, lo cual permite extraer importantes conclusiones.
 
