@@ -29,9 +29,30 @@ knitr::include_graphics('imagenes/graf03.png')
 knitr::include_graphics('imagenes/graf04.png')
 ```
 
+```{r 005, echo=FALSE, fig.cap="5" }
+knitr::include_graphics('imagenes/graf05.png')
+```
 
+```{r 006, echo=FALSE, fig.cap="6" }
+knitr::include_graphics('imagenes/graf06.png')
+```
 
+```{r 007, echo=FALSE, fig.cap="7" }
+knitr::include_graphics('imagenes/graf07.png')
+```
 
+```{r 008, echo=FALSE, fig.cap="8" }
+knitr::include_graphics('imagenes/graf08.png')
+```
 
+```{r 009, echo=FALSE, fig.cap="9" }
+knitr::include_graphics('imagenes/graf09.png')
+```
 
+```{r 010, echo=FALSE, fig.cap="10" }
+knitr::include_graphics('imagenes/graf010.png')
+```
 
+```{r 011, echo=FALSE, fig.cap="11" }
+knitr::include_graphics('imagenes/graf011.png')
+```
