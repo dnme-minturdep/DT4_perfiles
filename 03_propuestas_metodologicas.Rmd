@@ -134,7 +134,7 @@ Un aspecto a destacar es que en el caso de las segundas viviendas (todas aquella
 De acuerdo a lo expuesto, la siguiente figura esquematiza las preguntas necesarias para la correcta identificación de los visitantes.
 
 
-```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Fifura1" }
+```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Figura1", out.width='100%' }
 knitr::include_graphics('imagenes/figura_1.png')
 ```
 Adicionalmente, cuando el estudio esté dirigido a un segmento de los visitantes, en este bloque inicial de preguntas deberían incluirse aquellas que permitan conocer si el entrevistado forma o no parte del universo bajo estudio. Por ejemplo, si éste se define como los turistas alojados en hoteles, una vez determinado si se trata o no de un visitante y específicamente de un turista (condición que se identificaría al indagar por la duración del viaje) debe indagarse por el tipo de alojamiento utilizado en el destino.
@@ -341,13 +341,13 @@ Nuevamente, cuanto menor sea el nivel de error pretendido, mayor será la muestr
 
 La figura siguiente muestra de manera clara la relación entre el tamaño de la muestra y el error estadístico, incorporando además lo que implica la utilización de diferentes niveles de confianza. Los puntos violetas indican la cantidad de casos necesaria para diferentes niveles de precisión, mientras que también se indica (en verde) la cantidad de casos requeridos para un error de $3,5\%$ tomando distintos niveles de confianza e, inversamente, se señala cuál será el nivel de error para una muestra de mil casos para cada nivel de confianza (en rojo).
 
-```{r Margenesdeerrorseguntamaño, echo=FALSE, fig.cap="Grafico 2" }
+```{r Margenesdeerrorseguntamaño, echo=FALSE, fig.cap="Grafico 2", out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico2.jpg')
 ```
 
 Simplificando esta información al asumir, como se propone, un nivel de confianza del $90\%$, a continuación se indican los tamaños muestrales necesarios para obtener resultados con distintos niveles de error. Por ejemplo, el tamaño de una muestra para un error del $1,5\%$ asciende a 3.007 casos, frente a sólo 106 casos si lo que se pretende es obtener resultados con un margen de error de $8\%$.
 
-```{r Tamañodelamuestra, echo=FALSE, fig.cap="Gradico 3" }
+```{r Tamañodelamuestra, echo=FALSE, fig.cap="Gradico 3", out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico3.jpg')
 ```
 
@@ -363,7 +363,7 @@ Una manera usual en que se expresa el error relativo es en términos de coeficie
 
 [^propuestas_metodologicas-34]: Si bien no constituye una regla formal y la evaluación acerca de si es conveniente un determinado CV depende de los objetivos de cada estudio, existe cierto consenso en considerar como robustas a las estimaciones con CV menores a $10\%$, como aceptables a aquellas estimaciones con CV de entre $10\%$ y $20\%$ y como precarias a las estimaciones con CV de entre $20\%$ y $30\%$. A partir del $30\%$, los resultados deben tomarse sólo a modo indicativo o exploratorio.
 
-```{r Intervalodeconfianza, echo=FALSE, fig.cap="Grafico4" }
+```{r Intervalodeconfianza, echo=FALSE, fig.cap="Grafico4", out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico4.jpg')
 ```
 
@@ -405,7 +405,7 @@ La figura siguiente muestra el por qué de esta recomendación: a partir de los 
 
     Así, por ejemplo, si de la fórmula de población infinita se deriva que para un nivel de confianza del 90% y un error máximo del 3% es necesaria una muestra de 752 casos, en el caso de un universo de 25 mil unidades, el tamaño de la muestra resulta de 730 casos ($752×25000752+(25000-1)=1880000025751=730$).
 
-```{r Tamañodemuestra, echo=FALSE, fig.cap="Grafico5" }
+```{r Tamañodemuestra, echo=FALSE, fig.cap="Grafico5" , out.width='100%'}
 knitr::include_graphics('imagenes/DT4_grafico5.jpg')
 ```
 
@@ -587,7 +587,7 @@ A partir del procesamiento de esta información se puede conocer: la cantidad de
 \
 La tabla siguiente muestra un ejemplo de un marco muestral construido a partir de la información relevada en las planillas.
 
-```{r Lugarderesidencia, echo=FALSE, fig.cap="Figura2" }
+```{r Lugarderesidencia, echo=FALSE, fig.cap="Figura2" , out.width='100%'}
 knitr::include_graphics('imagenes/figura_2.png')
 ```
 
@@ -649,13 +649,13 @@ La última columna muestra cual será el coeficiente que se utilizará para expa
 
     La tabla siguiente muestra el cálculo de los coeficientes para cada segmento. Puede observarse que, lógicamente, coinciden exactamente con el señalado en la tabla del cuerpo del documento.
 
-```{r Coeficientes, echo=FALSE, fig.cap="Tabla1" }
+```{r Coeficientes, echo=FALSE, fig.cap="Tabla1" , out.width='100%'}
 knitr::include_graphics('imagenes/tabla_1.png')
 ```
 
 En la siguiente tabla se ejemplifica lo que sería la base de datos final del estudio realizado, donde cada fila corresponde a cada uno de los casos encuestados.
 
-```{r Casosencuestados, echo=FALSE, fig.cap="Tabla2" }
+```{r Casosencuestados, echo=FALSE, fig.cap="Tabla2" , out.width='100%'}
 knitr::include_graphics('imagenes/tabla_2.png')
 ```
 
@@ -666,7 +666,7 @@ El ponderador final indica a cuantos casos del universo representa cada caso de 
 Nótese que, por ejemplo, la suma de los ponderadores de quienes residen en el exterior y pernoctaron en el destino (casos 4, 7 y 19) asciende a 34 personas ($17+4,25+12,75$). Como puede observarse, el resultado del total de personas para cada segmento (definido por lugar de residencia y pernocte o no en el destino) coincide exactamente con la información del marco (pues, justamente, la función de este ponderador es expandir a toda la población respetando la participación en la población de cada uno de los segmentos que es posible definir a partir de los datos del marco muestral). En otras palabras, aquí se demuestra cómo los ponderadores permiten que los resultados obtenidos de la muestra sean representativos de la población en relación a dos variables relevantes, el lugar de residencia y la pernoctación o no en el destino.
 
 \
-```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3" }
+```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3", out.width='100%' }
 knitr::include_graphics('imagenes/tabla_3.png')
 ```
 
@@ -676,7 +676,7 @@ Lógicamente, la finalidad de esos ponderadores no es reconstruir los datos del 
 
 Así, en relación a la variable motivo, a continuación se muestra la distribución de los visitantes que concurrieron al CIT (es decir, se excluye a los residentes en el destino). De los 73 visitantes contabilizados, el $48,4%$ viajaron por ocio (la suma de los ponderadores de los casos 1, 4, 22, 25 y 28 arroja un total de $35,30$ visitantes), un $45,8\%$ por visita a familiares y un $5,8\%$ por congresos.
 
-```{r Motivo, echo=FALSE, fig.cap="Tablaa4" }
+```{r Motivo, echo=FALSE, fig.cap="Tablaa4" , out.width='100%'}
 knitr::include_graphics('imagenes/tabla_a4.png')
 ```
 
@@ -736,7 +736,7 @@ La **conjunción de un tiempo (día y/u horario) y un espacio o lugar** daría l
 
 La siguiente tabla muestra una posible selección (que, idealmente, podría hacerse al azar o en forma sistemática) de puntos muestrales para el caso que ejemplifica esta sección.
 
-```{r Muestraposible, echo=FALSE, fig.cap="Tabla4" }
+```{r Muestraposible, echo=FALSE, fig.cap="Tabla4", out.width='100%' }
 knitr::include_graphics('imagenes/tabla_4.png')
 ```
 
@@ -795,7 +795,10 @@ No obstante la potencialidad de la posibilidad de construir muestras acumulativa
 
 -   Dos, considerar que **es imprescindible que los casos de las diferentes muestras (que integrarán la muestra anual) tengan su factor de expansión o ponderador asociado, de modo tal que el peso de cada subgrupo en los resultados anuales represente su participación relativa en la población**[^propuestas_metodologicas-73].
 
-[^propuestas_metodologicas-73]: Siguiendo con el ejemplo, en una provincia o localidad se relevan 500 encuestas en cada una de las tres temporadas definidas, resultando que en la temporada alta el $75\%$ de los visitantes acude por motivo de ocio, en la temporada media este valor se ubica en el $50\%$ y en la temporada baja cae a $25\%$. Si no se considera el peso relativo de cada temporada en el total anual, los resultados indicarían que el $50\%$ de los visitantes visitan el destino por ocio (dado que las muestras son de igual tamaño, este resultado se obtendría tanto como promedio simple de los resultados de las tres temporadas como de una base de datos que contenga los casos relevados en las tres muestras sin ponderar). Sin embargo, es esperable que el flujo de visitantes sea variable entre temporadas; si, por ejemplo, en temporada alta llegan 100 mil visitantes, en temporada media 30 mil y en temporada baja 20 mil, totalizando 150 mil visitantes anuales, asumir que el $50\%$ de visitantes que viajan por ocio constituye un dato erróneo, pues los visitantes de temporada media y baja se encuentran sobrerrepresentados. Así el cálculo correcto debería ser el producto de la estimación obtenida en cada temporada por los visitantes contabilizados en ellas (o bien, el resultado de los 500 casos ponderados para que representen al total de visitantes de cada temporada) dividido por el total anual de visitantes: ($75\%^*$$100.000$+$50\%^*$$30.000$+$25%\%^*$$20.000$)/$150.000$=$63,3\%$.
+[^propuestas_metodologicas-73]: Siguiendo con el ejemplo, en una provincia o localidad se relevan 500 encuestas en cada una de las tres temporadas definidas, resultando que en la temporada alta el $75\%$ de los visitantes acude por motivo de ocio, en la temporada media este valor se ubica en el $50\%$ y en la temporada baja cae a $25\%$. Si no se considera el peso relativo de cada temporada en el total anual, los resultados indicarían que el $50\%$ de los visitantes visitan el destino por ocio (dado que las muestras son de igual tamaño, este resultado se obtendría tanto como promedio simple de los resultados de las tres temporadas como de una base de datos que contenga los casos relevados en las tres muestras sin ponderar). Sin embargo, es esperable que el flujo de visitantes sea variable entre temporadas; si, por ejemplo, en temporada alta llegan 100 mil visitantes, en temporada media 30 mil y en temporada baja 20 mil, totalizando 150 mil visitantes anuales, asumir que el $50\%$ de visitantes que viajan por ocio constituye un dato erróneo, pues los visitantes de temporada media y baja se encuentran sobrerrepresentados. Así el cálculo correcto debería ser el producto de la estimación obtenida en cada temporada por los visitantes contabilizados en ellas (o bien, el resultado de los 500 casos ponderados para que representen al total de visitantes de cada temporada) dividido por el total anual de visitantes: $(75\%*100.000 + 50\%*30.000 + 25\%*20.000)/150.000=63,3\%$
+
+
+
 
 Finalmente, es importante reflexionar sobre las ventajas y desventajas de contar con estudios continuos[^propuestas_metodologicas-74]. La pregunta sería si tiene sentido realizar una encuesta de caracterización de la demanda todos los años (por ejemplo, en 2012, 2013, 2014, etc.). ¿Por qué? Porque, como se desarrolló en extenso, una encuesta por muestreo tiene asociado un margen de error y sólo podrá establecerse la existencia de diferencias estadísticamente significativas cuando los intervalos de confianza de las estimaciones no se solapen. Por ejemplo, si se realizan encuestas con un margen de error estadístico del $3\%$ y el estudio de 2012 arroja que el $40\%$ de los turistas visitaron un destino por ocio mientras que el año siguiente la estimación alcanza al $44\%$, no podrá afirmarse que la proporción de visitantes que viajan por ocio en ambos años ha aumentado, pues los intervalos de confianza de ambas estimaciones ($37\%$-$43\%$ en 2012 y $41%$-$47\%$) se superponen parcialmente.
 
@@ -1073,7 +1076,7 @@ Es importante remarcar que el gasto en los servicios contenidos dentro del paque
 
 Cabe señalar que tanto la ETI como la EVyTH en su versión 2006 se nutren de esta clasificación y la profundizan, constituyendo un insumo esencial a la hora de plantear la construcción de la Cuenta Satélite de Turismo.
 
-```{r Gastototal, echo=FALSE, fig.cap="figura3" }
+```{r Gastototal, echo=FALSE, fig.cap="figura3", out.width='100%' }
 knitr::include_graphics('imagenes/figura_3.png')
 ```
 
@@ -1111,7 +1114,7 @@ Finalmente, un tema de especial relevancia lo constituye el transporte[^propuest
 
 [^propuestas_metodologicas-98]: De acuerdo a la EVyTH 2006, entre los viajes realizados por los residentes del país dentro del mismo, aproximadamente el $30\%$ del gasto turístico total corresponde al transporte desde, hacia y entre los destinos del viaje.
 
-```{r Tipodetraslado, echo=FALSE, fig.cap="Tabla5" }
+```{r Tipodetraslado, echo=FALSE, fig.cap="Tabla5", out.width='100%' }
 knitr::include_graphics('imagenes/tabla_5.png')
 ```
 
@@ -1207,7 +1210,7 @@ Las encuestas de perfil se suelen realizar a individuos en tanto que forman part
 
 En base a esta información se puede estimar el gasto diario promedio. Si bien hay diversas formas de arribar a un resultado, sólo una de ellas es matemáticamente correcta (sin embargo, lamentablemente, no es esta forma la que habitualmente se utiliza). Cómo se verá, esto está íntimamente ligado con la forma en que se definen el universo bajo estudio, las unidades de análisis y las unidades de relevamiento. A continuación se desarrolla en detalle un ejemplo para echar luz sobre esta determinante cuestión.
 
-```{r Casos, echo=FALSE, fig.cap="Tabla6" }
+```{r Casos, echo=FALSE, fig.cap="Tabla6", out.width='100%' }
 knitr::include_graphics('imagenes/tabla_6.png')
 ```
 
@@ -1229,7 +1232,7 @@ Ahora bien, ¿las tres formas son correctas? En caso negativo, ¿se puede identi
 
 De la tabla anterior, la suma de los turistas que componían los tres grupos de los que formaban parte los encuestados arroja un total de 11 turistas entre los que se contabilizan 72 pernoctes y un gasto total de \$21.000. ¿Qué sucede con los totales en cada reconstrucción frente al total real?
 
-```{r Totalreal, echo=FALSE, fig.cap="Tabla7" }
+```{r Totalreal, echo=FALSE, fig.cap="Tabla7", out.width='100%' }
 knitr::include_graphics('imagenes/tabla_7.png')
 ```
 
@@ -1251,7 +1254,7 @@ Aplicando las fórmulas comentadas más arriba sobre la base de datos de la EVyT
 
 Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo", obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un $73,7\%$ al valor correcto (\$58.594 millones frente a los \$33.739 millones reales). 
 
-```{r Formadecalculo, echo=FALSE, fig.cap="Tabla8" }
+```{r Formadecalculo, echo=FALSE, fig.cap="Tabla8", out.width='100%' }
 knitr::include_graphics('imagenes/tabla_8.png')
 ```
 
@@ -1278,7 +1281,7 @@ Esto obedece a que el gasto turístico (al igual que en muchos otros casos) resp
 [^propuestas_metodologicas-115]: Otra manera de expresar esta relación, de modo sintético, es a partir de coeficientes de correlación, como el r de Pearson (que varía entre -1 y +1, no existiendo correlación en el valor 0). Este coeficiente alcanza un valor de -0,157 al considerar el gasto diario promedio y la cantidad de participantes del viaje (se suele considerar que la existe correlación significativa a partir de valores de 0,05/-0,05) y llega hasta -0,301 en el caso de la estadía y el gasto. Es decir, existe una correlación inversa (cuando una variable crece la otra disminuye) fuerte entre gasto diario y tamaño del grupo viajero y una correlación inversa muy fuerte entre gasto diario y estadía del viaje.
 
 
-```{r echo=FALSE,warning=FALSE,message=FALSE}
+```{r echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%'}
 library(tidyverse)
 library(extrafont)
 library(ggtext) 

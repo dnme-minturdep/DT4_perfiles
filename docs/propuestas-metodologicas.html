@@ -32,7 +32,7 @@
   
 <link rel="prev" href="encuestas-nacionales-de-perfil.html"/>
 <link rel="next" href="anexos.html"/>
-<script src="libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="libs/header-attrs-2.9/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -222,9 +222,9 @@
 </div>
 <p>De acuerdo a lo expuesto, la siguiente figura esquematiza las preguntas necesarias para la correcta identificación de los visitantes.</p>
 <div class="figure"><span id="fig:identificacióndelosvisitantes"></span>
-<img src="imagenes/figura_1.png" alt="Fifura1"  />
+<img src="imagenes/figura_1.png" alt="Figura1" width="100%" />
 <p class="caption">
-Figura 3.1: Fifura1
+Figura 3.1: Figura1
 </p>
 </div>
 <p>Adicionalmente, cuando el estudio esté dirigido a un segmento de los visitantes, en este bloque inicial de preguntas deberían incluirse aquellas que permitan conocer si el entrevistado forma o no parte del universo bajo estudio. Por ejemplo, si éste se define como los turistas alojados en hoteles, una vez determinado si se trata o no de un visitante y específicamente de un turista (condición que se identificaría al indagar por la duración del viaje) debe indagarse por el tipo de alojamiento utilizado en el destino.</p>
@@ -322,14 +322,14 @@ En la fórmula puede apreciarse por qué el tamaño de la muestra aumenta a medi
 <p>Nuevamente, cuanto menor sea el nivel de error pretendido, mayor será la muestra requerida. Siguiendo con nuestro ejemplo, para realizar estimaciones con un error de <span class="math inline">\(4\%\)</span> el tamaño de la muestra será de 423 casos, mientras que si se pretende obtener estimaciones con un <span class="math inline">\(2\%\)</span> de margen de error, el número de casos necesarios se eleva hasta 1.691 y llega a 6.795 si la precisión deseada es del <span class="math inline">\(1\%\)</span> (es decir, para aumentar cuatro veces el nivel de precisión es preciso incrementar más de 15 veces el tamaño de la muestra). Como se observa en los casos mencionados, la intensidad de la relación entre margen de error y tamaño de la muestra es decreciente; a partir de cierto punto, cada caso agregado a la muestra genera una reducción en el margen de error cada vez menor en relación al caso agregado previamente<a href="#fn42" class="footnote-ref" id="fnref42"><sup>42</sup></a>.</p>
 <p>La figura siguiente muestra de manera clara la relación entre el tamaño de la muestra y el error estadístico, incorporando además lo que implica la utilización de diferentes niveles de confianza. Los puntos violetas indican la cantidad de casos necesaria para diferentes niveles de precisión, mientras que también se indica (en verde) la cantidad de casos requeridos para un error de <span class="math inline">\(3,5\%\)</span> tomando distintos niveles de confianza e, inversamente, se señala cuál será el nivel de error para una muestra de mil casos para cada nivel de confianza (en rojo).</p>
 <div class="figure"><span id="fig:Margenesdeerrorseguntamaño"></span>
-<img src="imagenes/DT4_grafico2.jpg" alt="Grafico 2"  />
+<img src="imagenes/DT4_grafico2.jpg" alt="Grafico 2" width="100%" />
 <p class="caption">
 Figura 3.2: Grafico 2
 </p>
 </div>
 <p>Simplificando esta información al asumir, como se propone, un nivel de confianza del <span class="math inline">\(90\%\)</span>, a continuación se indican los tamaños muestrales necesarios para obtener resultados con distintos niveles de error. Por ejemplo, el tamaño de una muestra para un error del <span class="math inline">\(1,5\%\)</span> asciende a 3.007 casos, frente a sólo 106 casos si lo que se pretende es obtener resultados con un margen de error de <span class="math inline">\(8\%\)</span>.</p>
 <div class="figure"><span id="fig:Tamañodelamuestra"></span>
-<img src="imagenes/DT4_grafico3.jpg" alt="Gradico 3"  />
+<img src="imagenes/DT4_grafico3.jpg" alt="Gradico 3" width="100%" />
 <p class="caption">
 Figura 3.3: Gradico 3
 </p>
@@ -340,7 +340,7 @@ Figura 3.3: Gradico 3
 <p>No obstante, debe notarse que el nivel de error relativo disminuye significativamente en forma inversamente proporcional al valor de la estimación. Así, el intervalo de confianza de una estimación del <span class="math inline">\(3\%\)</span> muestra una gran variabilidad (oscila entre el <span class="math inline">\(2\%\)</span> y el <span class="math inline">\(4\%\)</span>), brindando realmente poca precisión para la estimación obtenida (es decir, los elementos del universo que cumplen con la condición estimada pueden ser o bien uno de cada 50 o bien uno de cada 25); en cambio, el intervalo de confianza de una estimación del <span class="math inline">\(97\%\)</span> se ubica entre <span class="math inline">\(96\%\)</span> y <span class="math inline">\(98\%\)</span>: si bien el rango entre el límite inferior y el superior para ambas estimaciones es de dos puntos porcentuales (lo que equivale a un margen de error de <span class="math inline">\(1\%\)</span>), en este caso sí permite obtener una conclusión fuerte: la gran mayoría de los elementos del universo cumplen con la condición estimada (es decir, son varones, o extranjeros, o adquirieron paquetes turístico, etc.).</p>
 <p>Una manera usual en que se expresa el error relativo es en términos de coeficientes de variación (CV). El CV surge de la división del error típico (el nivel de error -en porcentaje, que es la unidad del resultado obtenido - sobre la estimación dividido por el valor de z para el nivel de confianza utilizado) sobre el valor de la estimación. Por tanto, aún cuando en ambos casos el nivel de error sea del <span class="math inline">\(1\%\)</span>, mientras que la estimación del <span class="math inline">\(3\%\)</span> tendrá asociado un CV de <span class="math inline">\(20,7\%\)</span> ((<span class="math inline">\(1\%/1,645)/3\%\)</span>), a la estimación del <span class="math inline">\(97\%\)</span> le corresponderá un CV sustancialmente menor, de sólo <span class="math inline">\(0,6\%\)</span> ((<span class="math inline">\(1\%/1,645)/97\%\)</span>). Lógicamente, cuanto menor sea el CV, más precisa será la estimación obtenida<a href="#fn44" class="footnote-ref" id="fnref44"><sup>44</sup></a>.</p>
 <div class="figure"><span id="fig:Intervalodeconfianza"></span>
-<img src="imagenes/DT4_grafico4.jpg" alt="Grafico4"  />
+<img src="imagenes/DT4_grafico4.jpg" alt="Grafico4" width="100%" />
 <p class="caption">
 Figura 3.4: Grafico4
 </p>
@@ -360,7 +360,7 @@ Figura 3.4: Grafico4
 <p>Hasta aquí se han analizado las implicancias de los tamaños muestrales en función de diferentes niveles de confianza y, fundamentalmente, de los distintos umbrales de error estadístico, asumiendo la utilización de la fórmula correspondiente a poblaciones infinitas, a partir de la recomendación de utilizar siempre, salvo excepciones puntuales, esta forma de cálculo.</p>
 <p>La figura siguiente muestra el por qué de esta recomendación: a partir de los 10 mil casos, la diferencia entre utilizar la fórmula para poblaciones infinitas y finitas<a href="#fn49" class="footnote-ref" id="fnref49"><sup>49</sup></a> resulta apenas leve y adquiere un carácter marginal a partir de 50 mil casos.</p>
 <div class="figure"><span id="fig:Tamañodemuestra"></span>
-<img src="imagenes/DT4_grafico5.jpg" alt="Grafico5"  />
+<img src="imagenes/DT4_grafico5.jpg" alt="Grafico5" width="100%" />
 <p class="caption">
 Figura 3.5: Grafico5
 </p>
@@ -453,7 +453,7 @@ Figura 3.5: Grafico5
 <p><br />
 La tabla siguiente muestra un ejemplo de un marco muestral construido a partir de la información relevada en las planillas.</p>
 <div class="figure"><span id="fig:Lugarderesidencia"></span>
-<img src="imagenes/figura_2.png" alt="Figura2"  />
+<img src="imagenes/figura_2.png" alt="Figura2" width="100%" />
 <p class="caption">
 Figura 3.6: Figura2
 </p>
@@ -475,14 +475,14 @@ Figura 3.6: Figura2
 <p>Por ejemplo, como se observa en forma resumida en la tabla siguiente, 11 de las personas que solicitaron información en el CIT residen en el exterior (y todas ellas pasan al menos una noche en el destino). La selección aleatoria ha determinado que 3 de ellos sean encuestados (quienes ocuparon los números de orden 4, 7 y 19) y que 8 no sean encuestados (3, 6, 9, 11, 21, 24, 29 y 30). La suma de las personas que formaban parte de los grupos de los residentes en el exterior que se acercaron al CIT ascendía a 34, de las cuales 8 formaban parte de los 3 casos seleccionados y 26 integraban los 8 grupos no seleccionados.</p>
 <p>La última columna muestra cual será el coeficiente que se utilizará para expandir de la información obtenida en la muestra al universo bajo análisis (el ponderador de cada caso es el producto de este coeficiente y la cantidad de personas que integraban el grupo de cada encuestado). Este coeficiente surge de dividir la cantidad de personas de los casos seleccionados en cada segmento (residentes en el exterior con pernocte, residentes en otra provincia con pernocte, etc.) por el total de casos contabilizados en el segmento, y representa la inversa de la probabilidad de selección de cada persona que formaba parte de los grupos de los cuales uno de sus integrantes solicitó información al CIT. En el caso de los residentes en el exterior, ese valor es de <span class="math inline">\(4,25\)</span> y cumple las funciones de expandir y calibrar los casos a los valores del marco muestral<a href="#fn71" class="footnote-ref" id="fnref71"><sup>71</sup></a>.</p>
 <div class="figure"><span id="fig:Coeficientes"></span>
-<img src="imagenes/tabla_1.png" alt="Tabla1"  />
+<img src="imagenes/tabla_1.png" alt="Tabla1" width="100%" />
 <p class="caption">
 Figura 3.7: Tabla1
 </p>
 </div>
 <p>En la siguiente tabla se ejemplifica lo que sería la base de datos final del estudio realizado, donde cada fila corresponde a cada uno de los casos encuestados.</p>
 <div class="figure"><span id="fig:Casosencuestados"></span>
-<img src="imagenes/tabla_2.png" alt="Tabla2"  />
+<img src="imagenes/tabla_2.png" alt="Tabla2" width="100%" />
 <p class="caption">
 Figura 3.8: Tabla2
 </p>
@@ -493,7 +493,7 @@ Figura 3.8: Tabla2
 <br />
 
 <div class="figure"><span id="fig:Clasificaciondepersonas"></span>
-<img src="imagenes/tabla_3.png" alt="Tabla3"  />
+<img src="imagenes/tabla_3.png" alt="Tabla3" width="100%" />
 <p class="caption">
 Figura 3.9: Tabla3
 </p>
@@ -501,7 +501,7 @@ Figura 3.9: Tabla3
 <p>Lógicamente, la finalidad de esos ponderadores no es reconstruir los datos del marco sino permitir realizar estimaciones estadísticamente válidas para las variables que se procura analizar mediante la encuesta de perfil, garantizando la representatividad de la muestra en cuanto a parámetros importantes de la población<a href="#fn72" class="footnote-ref" id="fnref72"><sup>72</sup></a>.</p>
 <p>Así, en relación a la variable motivo, a continuación se muestra la distribución de los visitantes que concurrieron al CIT (es decir, se excluye a los residentes en el destino). De los 73 visitantes contabilizados, el <span class="math inline">\(48,4%\)</span> viajaron por ocio (la suma de los ponderadores de los casos 1, 4, 22, 25 y 28 arroja un total de <span class="math inline">\(35,30\)</span> visitantes), un <span class="math inline">\(45,8\%\)</span> por visita a familiares y un <span class="math inline">\(5,8\%\)</span> por congresos.</p>
 <div class="figure"><span id="fig:Motivo"></span>
-<img src="imagenes/tabla_a4.png" alt="Tablaa4"  />
+<img src="imagenes/tabla_a4.png" alt="Tablaa4" width="100%" />
 <p class="caption">
 Figura 3.10: Tablaa4
 </p>
@@ -533,7 +533,7 @@ Figura 3.10: Tablaa4
 <p>La <strong>conjunción de un tiempo (día y/u horario) y un espacio o lugar</strong> daría lugar a lo que cabe llamar <strong>punto muestral</strong><a href="#fn78" class="footnote-ref" id="fnref78"><sup>78</sup></a>. Así, los puntos muestrales escogidos para realizar el trabajo de campo constituirían una primera etapa de selección de la muestra (para el total de ella o dentro de los estratos definidos), y cada uno de ellos sería un conglomerado dentro del cual se seleccionarán, en una segunda etapa, los casos (grupos de viaje) a encuestar (lo cual indica que no serán seleccionados aquellos casos ubicados por fuera de los puntos muestrales fijados en la primera etapa de selección).</p>
 <p>La siguiente tabla muestra una posible selección (que, idealmente, podría hacerse al azar o en forma sistemática) de puntos muestrales para el caso que ejemplifica esta sección.</p>
 <div class="figure"><span id="fig:Muestraposible"></span>
-<img src="imagenes/tabla_4.png" alt="Tabla4"  />
+<img src="imagenes/tabla_4.png" alt="Tabla4" width="100%" />
 <p class="caption">
 Figura 3.11: Tabla4
 </p>
@@ -724,7 +724,7 @@ Cabe indicar que este formulario fue elaborado desde un enfoque provincial. Si b
 <p>Es importante remarcar que el gasto en los servicios contenidos dentro del paquete turístico se relevan únicamente en ese ítem, de modo de evitar una doble contabilización del gasto. Por esta razón, es importante conocer qué servicios turísticos fueron incluidos dentro del paquete, ya que dicha información constituye el insumo esencial para, luego de obtenidos los datos, despaquetizar (es decir, desagregar el monto total del paquete e imputarlo a los diferentes productos).</p>
 <p>Cabe señalar que tanto la ETI como la EVyTH en su versión 2006 se nutren de esta clasificación y la profundizan, constituyendo un insumo esencial a la hora de plantear la construcción de la Cuenta Satélite de Turismo.</p>
 <div class="figure"><span id="fig:Gastototal"></span>
-<img src="imagenes/figura_3.png" alt="figura3"  />
+<img src="imagenes/figura_3.png" alt="figura3" width="100%" />
 <p class="caption">
 Figura 3.12: figura3
 </p>
@@ -743,7 +743,7 @@ Figura 3.12: figura3
 <p>El tratamiento del gasto en paquete turístico implica un importante desafío. Por un lado, es necesario poder discriminar el monto total en los productos turísticos que lo componen (incluyendo el margen de agencia). Por otro lado, en aquellos casos en que el viaje incluya varios destinos (más aún cuando éstos se ubican en provincias diferentes), será necesario establecer qué porción de esos gastos fue realizada en el territorio económico de referencia. En el apartado siguiente se presta especial atención a esta cuestión.</p>
 <p>Finalmente, un tema de especial relevancia lo constituye el transporte<a href="#fn108" class="footnote-ref" id="fnref108"><sup>108</sup></a>. Desde la óptica de una provincia, no todo el gasto que sus visitantes realizan en transporte durante su viaje debe computarse como gasto turístico. La siguiente tabla, lógicamente relacionada con las distintas formas de turismo, esquematiza y conceptualiza los distintos tipos de desplazamientos o traslados.</p>
 <div class="figure"><span id="fig:Tipodetraslado"></span>
-<img src="imagenes/tabla_5.png" alt="Tabla5"  />
+<img src="imagenes/tabla_5.png" alt="Tabla5" width="100%" />
 <p class="caption">
 Figura 3.13: Tabla5
 </p>
@@ -793,7 +793,7 @@ Figura 3.13: Tabla5
 <p>Las encuestas de perfil se suelen realizar a individuos en tanto que forman parte de grupos (es decir, se encuesta sólo a un integrante del grupo). Allí se indaga, entre otras cuestiones, por información sobre el tamaño del grupo, sobre la duración de la estadía y sobre el gasto total (o diario) para el grupo completo, procediéndose luego a su individualización (es decir, a dividir el monto total del gasto del grupo por la cantidad de integrantes que lo conforman, lo cual expresa el gasto por turista).</p>
 <p>En base a esta información se puede estimar el gasto diario promedio. Si bien hay diversas formas de arribar a un resultado, sólo una de ellas es matemáticamente correcta (sin embargo, lamentablemente, no es esta forma la que habitualmente se utiliza). Cómo se verá, esto está íntimamente ligado con la forma en que se definen el universo bajo estudio, las unidades de análisis y las unidades de relevamiento. A continuación se desarrolla en detalle un ejemplo para echar luz sobre esta determinante cuestión.</p>
 <div class="figure"><span id="fig:Casos"></span>
-<img src="imagenes/tabla_6.png" alt="Tabla6"  />
+<img src="imagenes/tabla_6.png" alt="Tabla6" width="100%" />
 <p class="caption">
 Figura 3.14: Tabla6
 </p>
@@ -809,7 +809,7 @@ Figura 3.14: Tabla6
 <p>Ahora bien, ¿las tres formas son correctas? En caso negativo, ¿se puede identificar la forma correcta? Una manera de dar respuesta a este interrogante es usar los diferentes valores estimados de estadía y gasto diario para obtener los totales, multiplicándolos por la cantidad de turistas (dato que aquí es conocido y permite la constatación de si cada alternativa es o no válida, pero en muchos casos, cuando se trata de estimar el volumen del gasto realizado por los turistas, proviene de otras fuentes, ligadas a alojamiento, medios de transporte, etc.).</p>
 <p>De la tabla anterior, la suma de los turistas que componían los tres grupos de los que formaban parte los encuestados arroja un total de 11 turistas entre los que se contabilizan 72 pernoctes y un gasto total de $21.000. ¿Qué sucede con los totales en cada reconstrucción frente al total real?</p>
 <div class="figure"><span id="fig:Totalreal"></span>
-<img src="imagenes/tabla_7.png" alt="Tabla7"  />
+<img src="imagenes/tabla_7.png" alt="Tabla7" width="100%" />
 <p class="caption">
 Figura 3.15: Tabla7
 </p>
@@ -823,7 +823,7 @@ Figura 3.15: Tabla7
 <p>Aplicando las fórmulas comentadas más arriba sobre la base de datos de la EVyTH, de acuerdo a la forma de cálculo 1, la estadía promedio sería de 5,67 noches mientras que la media del gasto diario llegaría a $341,9. En la forma 2, se replica la estadía (5,65 noches) y el gasto diario promedio se ubica en $246,1. Finalmente, de acuerdo a la forma de cálculo 3, la estadía promedio era de 5,65 noches (valor muy similar a los anteriores), mientras que el gasto promedio era de $197,4, valor sustancialmente inferior a los de las otras dos formas de cálculo, especialmente al correspondiente a la forma 1.</p>
 <p>Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato “externo,” obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un <span class="math inline">\(73,7\%\)</span> al valor correcto ($58.594 millones frente a los $33.739 millones reales).</p>
 <div class="figure"><span id="fig:Formadecalculo"></span>
-<img src="imagenes/tabla_8.png" alt="Tabla8"  />
+<img src="imagenes/tabla_8.png" alt="Tabla8" width="100%" />
 <p class="caption">
 Figura 3.16: Tabla8
 </p>
@@ -832,8 +832,10 @@ Figura 3.16: Tabla8
 <p>En primer lugar, se ha visto que el cálculo de la estadía promedio no arroja resultados tan diferentes entre las distintas formas de cálculo. Por eso, es esperable que la utilización de las formas erróneas de estimación (1 y 2) no implique resultados demasiados distantes del valor correcto; además, este error en la fórmula podría ubicar el resultado obtenido algo por encima o algo por debajo del correcto<a href="#fn120" class="footnote-ref" id="fnref120"><sup>120</sup></a>.<br />
 </p>
 <p>En segundo lugar, sí se registraría un error de magnitud al utilizar las formas erróneas de cálculo del gasto promedio diario. Si bien no es lógicamente imposible que suceda, resultaría verdaderamente muy difícil encontrar una situación real en la que la estimación mediante la forma 2 y, especialmente, mediante la forma 1 arrojen valores inferiores a los correctos (es decir, a los que se arriba mediante la forma de cálculo 3); por lo general, el valor alcanzado será sustancialmente más elevado que el real.</p>
-<p>Esto obedece a que el gasto turístico (al igual que en muchos otros casos) responde a lógicas de escala: manteniendo constantes las mismas variables (medio de transporte, tipo de alojamiento, motivo, etc.) la tendencia es que el gasto promedio diario por turista disminuya a medida que se incrementa la cantidad de integrantes del grupo de viaje<a href="#fn121" class="footnote-ref" id="fnref121"><sup>121</sup></a> y a medida que se incrementa la estadía<a href="#fn122" class="footnote-ref" id="fnref122"><sup>122</sup></a>. Cómo se mencionó, la relación no es lineal (es decir no se verifica en todos los casos), pero sí presenta un alto nivel de probabilidad de ocurrencia. Además, esta relación no afecta por igual a todos los rubros, lo que implica también que estas variables afectan la estructura relativa del gasto turístico (es decir, qué parte corresponde a alimentación, alojamiento, etc.).<a href="#fn123" class="footnote-ref" id="fnref123"><sup>123</sup></a> Las siguientes figuras muestran (siguiendo con el turismo interno de la EVyTH<a href="#fn124" class="footnote-ref" id="fnref124"><sup>124</sup></a>) cómo disminuye el gasto promedio diario cuando aumenta la cantidad de integrantes del grupo de viaje (a la izquierda, columnas bordó), cuando aumenta la estadía (en el centro, columnas azules) y también cuando aumenta el resultado de la combinación de ambas (a la derecha, columnas verdes).<a href="#fn125" class="footnote-ref" id="fnref125"><sup>125</sup></a></p>
-<p><strong>Figuras 0010</strong></p>
+<p>Esto obedece a que el gasto turístico (al igual que en muchos otros casos) responde a lógicas de escala: manteniendo constantes las mismas variables (medio de transporte, tipo de alojamiento, motivo, etc.) la tendencia es que el gasto promedio diario por turista disminuya a medida que se incrementa la cantidad de integrantes del grupo de viaje<a href="#fn121" class="footnote-ref" id="fnref121"><sup>121</sup></a> y a medida que se incrementa la estadía<a href="#fn122" class="footnote-ref" id="fnref122"><sup>122</sup></a>. Cómo se mencionó, la relación no es lineal (es decir no se verifica en todos los casos), pero sí presenta un alto nivel de probabilidad de ocurrencia. Además, esta relación no afecta por igual a todos los rubros, lo que implica también que estas variables afectan la estructura relativa del gasto turístico (es decir, qué parte corresponde a alimentación, alojamiento, etc.).<a href="#fn123" class="footnote-ref" id="fnref123"><sup>123</sup></a> Las siguientes figuras muestran (siguiendo con el turismo interno de la EVyTH<a href="#fn124" class="footnote-ref" id="fnref124"><sup>124</sup></a>) cómo disminuye el gasto promedio diario cuando aumenta la cantidad de integrantes del grupo de viaje (columnas verdes), cuando aumenta la estadía (columnas amarillas) y también cuando aumenta el resultado de la combinación de ambas (columnas violetas).<a href="#fn125" class="footnote-ref" id="fnref125"><sup>125</sup></a></p>
+<embed src="Parte-4_files/figure-html/unnamed-chunk-1-1.pdf" width="100%" type="application/pdf" />
+<embed src="Parte-4_files/figure-html/unnamed-chunk-1-2.pdf" width="100%" type="application/pdf" />
+<embed src="Parte-4_files/figure-html/unnamed-chunk-1-3.pdf" width="100%" type="application/pdf" />
 <p>Recapitulando, las formas 1 y 2 son incorrectas porque sus fórmulas no contemplan estas variables, y la cuestión de gasto de escala asociada a ellas. La forma 1 de calcular el gasto promedio es incorrecta porque no contempla ni el tamaño del grupo de viaje ni la extensión de la estadía, con lo cual, trayendo a cuenta un ejemplo extremo, a la hora de calcular el gasto diario valdrían lo mismo (pues se realiza un promedio simple) un turista japonés que viajó sólo y estuvo una noche en el destino, alojado en un hotel de alta categoría y utilizando servicios de alta gama, que un encuestado residente en la misma provincia, que viajó a otra localidad junto a toda su familia (cinco integrantes en total), con quienes se alojó en un camping económico durante 30 noches, procurando gastar lo menos posible en alimentación y sin gastar dinero, prácticamente, en otros rubros. En el caso de la forma 2 el error se subsana en parte, pues al estimar el gasto promedio diario de los turistas de un destino toma en cuenta la duración de la estadía (siguiendo el ejemplo, el turista japonés valdría uno, mientras el turista proveniente de provincia limítrofe valdría 30), pero sigue sin tomar en cuenta el tamaño del grupo de viaje. <strong>La única manera entonces, de arribar a resultados válidos, es tomar en cuenta no sólo el nivel de gasto diario del encuestado sino también la duración de su estadía y el tamaño del grupo de viaje del que formaba parte</strong>.</p>
 </div>
 </div>
@@ -1006,7 +1008,7 @@ Pero la capacitación no debe versar únicamente sobre una explicación detallad
 <li id="fn80"><p>Cabe notar que no siempre resulta sencillo identificar quiénes pertenecen a un grupo de viaje, pues no necesariamente, aún bajo la definición aquí establecida, todos sus integrantes se desplacen estrictamente juntos durante todo el tiempo (aunque sí es esperable que ello suceda en las situaciones planteadas). De la evaluación de esta cuestión debe surgir la factibilidad de aplicar un tipo de selección como el mencionado.<a href="propuestas-metodologicas.html#fnref80" class="footnote-back">↩︎</a></p></li>
 <li id="fn81"><p>Lógicamente, como se ha tratado en extenso, la definición del universo puede depender también de otras variables: visitantes que se alojan en hoteles, visitantes que se trasladan en avión, visitantes que concurren a un evento o atractivo específico, etc. No obstante, nótese que tanto cuando se trata del total de visitantes o de diferentes subuniversos, siempre es preciso fijar las coordenadas espacio temporales.<a href="propuestas-metodologicas.html#fnref81" class="footnote-back">↩︎</a></p></li>
 <li id="fn82"><p>A modo de ejemplo, la EVyTH produce resultados mensuales a partir de muestras independientes de unos 5 mil hogares que responden sobre los viajes turísticos (con y sin pernocte) que realizan durante el mes de referencia. Los resultados trimestrales surgen de una muestra compuesta por la agregación de los viajes turísticos relevados en los tres meses correspondientes, mientras que los resultados anuales contemplan los viajes relevados en los doce meses. Así, los informes mensuales presentan sólo las distribuciones de frecuencia de las principales variables de los turistas con destino en el país, mientras que los informes trimestrales profundizan el análisis de los turistas internos con análisis bivariados y presentan las características básicas de los excursionistas y los turistas que viajan al exterior. Lógicamente, en el informe anual se profundiza la caracterización de estos tres segmentos.<a href="propuestas-metodologicas.html#fnref82" class="footnote-back">↩︎</a></p></li>
-<li id="fn83"><p>Siguiendo con el ejemplo, en una provincia o localidad se relevan 500 encuestas en cada una de las tres temporadas definidas, resultando que en la temporada alta el <span class="math inline">\(75\%\)</span> de los visitantes acude por motivo de ocio, en la temporada media este valor se ubica en el <span class="math inline">\(50\%\)</span> y en la temporada baja cae a <span class="math inline">\(25\%\)</span>. Si no se considera el peso relativo de cada temporada en el total anual, los resultados indicarían que el <span class="math inline">\(50\%\)</span> de los visitantes visitan el destino por ocio (dado que las muestras son de igual tamaño, este resultado se obtendría tanto como promedio simple de los resultados de las tres temporadas como de una base de datos que contenga los casos relevados en las tres muestras sin ponderar). Sin embargo, es esperable que el flujo de visitantes sea variable entre temporadas; si, por ejemplo, en temporada alta llegan 100 mil visitantes, en temporada media 30 mil y en temporada baja 20 mil, totalizando 150 mil visitantes anuales, asumir que el <span class="math inline">\(50\%\)</span> de visitantes que viajan por ocio constituye un dato erróneo, pues los visitantes de temporada media y baja se encuentran sobrerrepresentados. Así el cálculo correcto debería ser el producto de la estimación obtenida en cada temporada por los visitantes contabilizados en ellas (o bien, el resultado de los 500 casos ponderados para que representen al total de visitantes de cada temporada) dividido por el total anual de visitantes: (<span class="math inline">\(75\%^*\)</span><span class="math inline">\(100.000\)</span>+<span class="math inline">\(50\%^*\)</span><span class="math inline">\(30.000\)</span>+<span class="math inline">\(25%\%^*\)</span><span class="math inline">\(20.000\)</span>)/<span class="math inline">\(150.000\)</span>=<span class="math inline">\(63,3\%\)</span>.<a href="propuestas-metodologicas.html#fnref83" class="footnote-back">↩︎</a></p></li>
+<li id="fn83"><p>Siguiendo con el ejemplo, en una provincia o localidad se relevan 500 encuestas en cada una de las tres temporadas definidas, resultando que en la temporada alta el <span class="math inline">\(75\%\)</span> de los visitantes acude por motivo de ocio, en la temporada media este valor se ubica en el <span class="math inline">\(50\%\)</span> y en la temporada baja cae a <span class="math inline">\(25\%\)</span>. Si no se considera el peso relativo de cada temporada en el total anual, los resultados indicarían que el <span class="math inline">\(50\%\)</span> de los visitantes visitan el destino por ocio (dado que las muestras son de igual tamaño, este resultado se obtendría tanto como promedio simple de los resultados de las tres temporadas como de una base de datos que contenga los casos relevados en las tres muestras sin ponderar). Sin embargo, es esperable que el flujo de visitantes sea variable entre temporadas; si, por ejemplo, en temporada alta llegan 100 mil visitantes, en temporada media 30 mil y en temporada baja 20 mil, totalizando 150 mil visitantes anuales, asumir que el <span class="math inline">\(50\%\)</span> de visitantes que viajan por ocio constituye un dato erróneo, pues los visitantes de temporada media y baja se encuentran sobrerrepresentados. Así el cálculo correcto debería ser el producto de la estimación obtenida en cada temporada por los visitantes contabilizados en ellas (o bien, el resultado de los 500 casos ponderados para que representen al total de visitantes de cada temporada) dividido por el total anual de visitantes: <span class="math inline">\((75\%*100.000 + 50\%*30.000 + 25\%*20.000)/150.000=63,3\%\)</span><a href="propuestas-metodologicas.html#fnref83" class="footnote-back">↩︎</a></p></li>
 <li id="fn84"><p>Si bien se asume que, de ser posible, sería valioso contar con información que permitiese comparar el perfil del visitante en los diferentes momentos o temporadas del año, la disyuntiva que aquí se presenta puede implicar tanto a estudios que relevan información para todo el año como para aquellos donde el estudio se circunscribe a un momento (por ejemplo, verano).<a href="propuestas-metodologicas.html#fnref84" class="footnote-back">↩︎</a></p></li>
 <li id="fn85"><p>Por ejemplo, si se decide realizar el estudio cada tres años, pero duplicando el tamaño de muestra en los años en que se aplique la encuesta, no sólo se estarían ahorrando recursos (equivalentes al costo de un año de realización del estudio) sino que se obtendrían resultados estadísticamente más precisos que permitirían detectar diferencias relativamente pequeñas tanto en comparación con el próximo (o con el anterior) estudio sino también entre diferentes subgrupos en un mismo momento.<a href="propuestas-metodologicas.html#fnref85" class="footnote-back">↩︎</a></p></li>
 <li id="fn86"><p>Un caso particular, y más aún dada su importancia, es el del gasto turístico. Si el gasto promedio diario pasó de $400 a $480 entre dos años, el incremento nominal fue de <span class="math inline">\(20\%\)</span>, pero no puede aseverarse que haya crecido o no en términos reales. Es decir, si en promedio, los precios de la economía se incrementaron un <span class="math inline">\(20\%\)</span>, debe concluirse que el nivel real del gasto promedio diario se mantuvo en niveles reales similares, en cambio, si el aumento de los precios de la economía fue menor al <span class="math inline">\(20\%\)</span>, sí habrá existido un aumento del gasto en términos reales, mientras que lo contrario sucederá si dicho aumento fue mayor al <span class="math inline">\(20\%\)</span>.</p>
