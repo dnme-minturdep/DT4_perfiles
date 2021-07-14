@@ -44,7 +44,7 @@ Cabe señalar que siempre, en todo proceso de investigación, existen objetivos.
 
 Como se adelantó en el ejemplo, el planteo de los objetivos lleva implícito un primer recorte del universo, es decir, de la porción de la realidad que se pretende conocer. Este recorte debe definir concretamente las unidades de análisis y su ubicación en el espacio y tiempo.
 
-Siguiendo el ejemplo anterior, si en la etapa de campo la encuesta se relevara realiza sólo a los turistas que residen en otras provincias, se alojan en hoteles y visitan la localidad más importante de la provincia durante un evento específico que tiene lugar durante la temporada alta, es evidente que el alcance de la investigación resultará más acotado que el pretendido en los objetivos. En este punto, las alternativas son, o bien ampliar el alcance del marco muestral y del trabajo de campo (de modo tal que queden incluidos todos los visitantes, independientemente de si son turistas o excursionistas, de su lugar de residencia, del tipo de alojamiento utilizado, de la localidad de la provincia que visiten y del momento de la temporada alta en que arriben) o bien acotar los objetivos a lo que realmente se dará cuenta a partir de la investigación que puede llevarse a cabo[^propuestas_metodologicas-1].
+Siguiendo el ejemplo anterior, si en la etapa de campo la encuesta se relevara sólo a los turistas que residen en otras provincias, se alojan en hoteles y visitan la localidad más importante de la provincia durante un evento específico que tiene lugar durante la temporada alta, es evidente que el alcance de la investigación resultará más acotado que el pretendido en los objetivos. En este punto, las alternativas son, o bien ampliar el alcance del marco muestral y del trabajo de campo (de modo tal que queden incluidos todos los visitantes, independientemente de si son turistas o excursionistas, de su lugar de residencia, del tipo de alojamiento utilizado, de la localidad de la provincia que visiten y del momento de la temporada alta en que arriben) o bien acotar los objetivos a lo que realmente se dará cuenta a partir de la investigación que puede llevarse a cabo[^propuestas_metodologicas-1].
 
 [^propuestas_metodologicas-1]: Acotar los objetivos no se limita únicamente a recortarlos. El proceso de reflexión necesario conlleva analizar, en base al conocimiento experto, las características y particularidades de los visitantes que arriban al destino, a partir de lo cual podría ser posible a identificar aquellos segmentos más relevantes y/o donde es menor el costo de llevar a cabo la investigación.
 
@@ -133,10 +133,10 @@ Un aspecto a destacar es que en el caso de las segundas viviendas (todas aquella
 
 De acuerdo a lo expuesto, la siguiente figura esquematiza las preguntas necesarias para la correcta identificación de los visitantes.
 
-
 ```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Fifura1" }
 knitr::include_graphics('imagenes/figura_1.png')
 ```
+
 Adicionalmente, cuando el estudio esté dirigido a un segmento de los visitantes, en este bloque inicial de preguntas deberían incluirse aquellas que permitan conocer si el entrevistado forma o no parte del universo bajo estudio. Por ejemplo, si éste se define como los turistas alojados en hoteles, una vez determinado si se trata o no de un visitante y específicamente de un turista (condición que se identificaría al indagar por la duración del viaje) debe indagarse por el tipo de alojamiento utilizado en el destino.
 
 **Visitantes y grupos de viaje**
@@ -203,7 +203,7 @@ Hasta aquí se mencionan dos criterios para la identificación de los grupos de 
 De lo expuesto se deriva entonces que un **grupo de viaje puede ser definido como una persona o un grupo de personas que viajan juntos y comparten gastos**. Adicionalmente, cabe señalar un elemento ad-hoc que debe añadirse para las encuestas de perfil realizadas en el destino: además de viajar juntos y compartir los gastos del viaje, **deben encontrarse juntos al momento de ser seleccionados para ser encuestados**.
 :::
 
-Este último agregado está ligado a garantizar que, teóricamente, dos personas no sean contabilizadas más de una vez. Por ejemplo, si un grupo de cuatro visitantes que viajan juntos y comparten gastos, se encontrara momentáneamente disperso en dos parejas (por ejemplo, los padres por un lado y los hijos por otro), bajo una selección aleatoria podrían ser ambas parejas encuestadas y si, en ese caso, respondieran sobre la totalidad del grupo, se estaría contemplando dos veces a los mismos visitantes[^propuestas_metodologicas-15] [^propuestas_metodologicas-16].
+Este último agregado está ligado a garantizar que, teóricamente, dos personas no sean contabilizadas más de una vez. Por ejemplo, si un grupo de cuatro visitantes que viajan juntos y comparten gastos, se encontrara momentáneamente disperso en dos parejas (por ejemplo, los padres por un lado y los hijos por otro), bajo una selección aleatoria podrían ser ambas parejas encuestadas y si, en ese caso, respondieran sobre la totalidad del grupo, se estaría contemplando dos veces a los mismos visitantes[^propuestas_metodologicas-15] ,[^propuestas_metodologicas-16] .
 
 [^propuestas_metodologicas-15]: Cabe señalar que no interesa la posibilidad de que esto suceda en la práctica sino que sea teóricamente posible.
 
@@ -645,7 +645,7 @@ La última columna muestra cual será el coeficiente que se utilizará para expa
 
 [^propuestas_metodologicas-61]: La fórmula de cálculo comentada en realidad resume varios pasos lógicos.
 
-    El ponderador o factor de expansión inicial de cada caso es 3 (inversa de la probabilidad de selección, es decir, de $1/3=3/1=3$), mientras que el componente de la ecuación que permite calibrar surge de la relación entre el total de personas real, dato que aporta el marco muestral (34 en el caso de los residentes en el exterior) y el total de personas que surge de multiplicar el ponderador inicial a la cantidad muestral ($3\^*8=24$ en el caso de los residentes en el exterior), es decir, $34/24=1,42$. La inversa de la probabilidad de selección final surge de la multiplicación de ambos componentes, el ponderador inicial ($3$) y el factor de calibración ($1,42$) (en el caso de los residentes en el exterior, entonces, el ponderador final será $3\^*1,42=4,25$ multiplicado por la cantidad de personas que integran cada grupo seleccionado).
+    El ponderador o factor de expansión inicial de cada caso es 3 (inversa de la probabilidad de selección, es decir, de $1/3=3/1=3$), mientras que el componente de la ecuación que permite calibrar surge de la relación entre el total de personas real, dato que aporta el marco muestral (34 en el caso de los residentes en el exterior) y el total de personas que surge de multiplicar el ponderador inicial a la cantidad muestral (3\\\^\*8=24 en el caso de los residentes en el exterior), es decir, $34/24=1,42$. La inversa de la probabilidad de selección final surge de la multiplicación de ambos componentes, el ponderador inicial ($3$) y el factor de calibración ($1,42$) (en el caso de los residentes en el exterior, entonces, el ponderador final será 3\\\^\*1,42=4,25 multiplicado por la cantidad de personas que integran cada grupo seleccionado).
 
     La tabla siguiente muestra el cálculo de los coeficientes para cada segmento. Puede observarse que, lógicamente, coinciden exactamente con el señalado en la tabla del cuerpo del documento.
 
@@ -666,6 +666,7 @@ El ponderador final indica a cuantos casos del universo representa cada caso de 
 Nótese que, por ejemplo, la suma de los ponderadores de quienes residen en el exterior y pernoctaron en el destino (casos 4, 7 y 19) asciende a 34 personas ($17+4,25+12,75$). Como puede observarse, el resultado del total de personas para cada segmento (definido por lugar de residencia y pernocte o no en el destino) coincide exactamente con la información del marco (pues, justamente, la función de este ponderador es expandir a toda la población respetando la participación en la población de cada uno de los segmentos que es posible definir a partir de los datos del marco muestral). En otras palabras, aquí se demuestra cómo los ponderadores permiten que los resultados obtenidos de la muestra sean representativos de la población en relación a dos variables relevantes, el lugar de residencia y la pernoctación o no en el destino.
 
 \
+
 ```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3" }
 knitr::include_graphics('imagenes/tabla_3.png')
 ```
@@ -1005,8 +1006,6 @@ El formulario se estructura en bloques, que refieren a diferentes dimensiones.
 
     Por otro lado, si los resultados arrojan que el 70% de los visitantes tiene al menos título de nivel secundario, ello no permite extraer conclusiones sobre si el destino es o no elegido por personas con alto nivel educativo. ¿Por qué? Porque para determinarlo es necesario conocer si ese 70% es alto o bajo dentro no sólo de la población desde la que llegan los visitantes sino también entre quienes, dentro de esa población, suelen realizar viajes. Eventualmente, la información serviría para realizar comparaciones entre subgrupos de visitantes (cuánto gastan los visitantes que integran grupos con alto y bajo nivel educativo) y entre diferentes otros destinos (qué porcentaje de visitantes de diferentes localidades integran grupos con alto nivel educativo).
 
-    \
-
 [^propuestas_metodologicas-88]: Estos excursionistas desde el punto de vista de la localidad no deberán ser considerados en el agregado de los resultados provinciales, pues se encuentran contabilizados como turistas en las localidades en las que están pernoctando.
 
 ## El gasto turístico
@@ -1249,7 +1248,7 @@ Para dar respuesta a este interrogante, se recurrirá a un ejemplo contundente y
 
 Aplicando las fórmulas comentadas más arriba sobre la base de datos de la EVyTH, de acuerdo a la forma de cálculo 1, la estadía promedio sería de 5,67 noches mientras que la media del gasto diario llegaría a \$341,9. En la forma 2, se replica la estadía (5,65 noches) y el gasto diario promedio se ubica en \$246,1. Finalmente, de acuerdo a la forma de cálculo 3, la estadía promedio era de 5,65 noches (valor muy similar a los anteriores), mientras que el gasto promedio era de \$197,4, valor sustancialmente inferior a los de las otras dos formas de cálculo, especialmente al correspondiente a la forma 1.
 
-Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo", obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un $73,7\%$ al valor correcto (\$58.594 millones frente a los \$33.739 millones reales). 
+Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo", obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un $73,7\%$ al valor correcto (\$58.594 millones frente a los \$33.739 millones reales).
 
 ```{r Formadecalculo, echo=FALSE, fig.cap="Tabla8" }
 knitr::include_graphics('imagenes/tabla_8.png')
@@ -1277,7 +1276,6 @@ Esto obedece a que el gasto turístico (al igual que en muchos otros casos) resp
 
 [^propuestas_metodologicas-115]: Otra manera de expresar esta relación, de modo sintético, es a partir de coeficientes de correlación, como el r de Pearson (que varía entre -1 y +1, no existiendo correlación en el valor 0). Este coeficiente alcanza un valor de -0,157 al considerar el gasto diario promedio y la cantidad de participantes del viaje (se suele considerar que la existe correlación significativa a partir de valores de 0,05/-0,05) y llega hasta -0,301 en el caso de la estadía y el gasto. Es decir, existe una correlación inversa (cuando una variable crece la otra disminuye) fuerte entre gasto diario y tamaño del grupo viajero y una correlación inversa muy fuerte entre gasto diario y estadía del viaje.
 
-
 ```{r echo=FALSE,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(extrafont)
@@ -1299,7 +1297,7 @@ theme_imet <- function() {
 #Fuente
 familia_fuente <- fonttable() %>% 
   as_tibble() %>% 
-  filter(str_detect(FamilyName, "Encode Sans Normal"), 
+  filter(str_detect(FamilyName, "Encode Sans"), 
          Bold == TRUE) %>% 
   pull(FamilyName) %>% 
   unique()

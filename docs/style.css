@@ -35,11 +35,13 @@
   font-family: 'Encode Sans', 'Helvetica';
   font-size: 1.6rem;
   color: #37bbed;
+  text-align: left;
 }
  div, p, li .caption {
   font-family: 'Encode Sans', 'Helvetica'
   font-size: 1.3rem;
   color: #3b4449;
+  text-align: justify;
 }
 code, kbd, pre, samp, .sourceLine, .sourceCode {
   font-family: 'PT Mono', monospace;
