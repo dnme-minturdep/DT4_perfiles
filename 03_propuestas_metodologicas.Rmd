@@ -133,12 +133,10 @@ Un aspecto a destacar es que en el caso de las segundas viviendas (todas aquella
 
 De acuerdo a lo expuesto, la siguiente figura esquematiza las preguntas necesarias para la correcta identificación de los visitantes.
 
-<<<<<<< HEAD
+
 
 ```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Figura1", out.width='100%' }
-=======
-```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Fifura1" }
->>>>>>> e331e0dce1ec4ce129a5d33fabe22edffdb615ce
+
 knitr::include_graphics('imagenes/figura_1.png')
 ```
 
@@ -324,10 +322,12 @@ donde, $n=$ tamaño de la muestra (valor a obtener). $z=$ valor estandarizado pa
 
 [^propuestas_metodologicas-30]: Cuanto mayor sea el nivel de confianza, mayor será el valor de z. Por ejemplo, para una confianza del $95\%$ (otro nivel usualmente utilizado en investigaciones sociales), z equivale a 1,96, mientras que para una confianza del $99\%$, z es igual a $2,58$.
 
-$p=$ La proporción estimada (o la probabilidad del suceso). **Se recomienda** $p=0.5$ $q=$ El complemento de la proporción estimada (o la probabilidad del suceso), o sea, 1$-p$ (dado que se recomienda un valor de $p$ igual a $0,5$, $q$ equivaldría a ese mismo valor)\
+$p=$ La proporción estimada (o la probabilidad del suceso). **Se recomienda** $p=0.5$ $q=$ 
+
+El complemento de la proporción estimada (o la probabilidad del suceso), o sea, 1$-p$ (dado que se recomienda un valor de $p$ igual a $0,5$, $q$ equivaldría a ese mismo valor)
+
 $e$= El margen de error porcentual deseado dividido por 100 (por ejemplo, $0,03$ para un error igual a $3\%$).
 
-\
 En la fórmula puede apreciarse por qué el tamaño de la muestra aumenta a medida que se incrementa el nivel de confianza (z) y la variabilidad ($p^*q$) --elementos que se ubican en el numerador- y cuando se procura obtener estimaciones de mayor precisión (es decir, con menor error estadístico). Además esta relación no es lineal sino exponencial (al estar estos elementos elevados al cuadrado).
 
 El primer componente del numerador es el nivel de confianza elevado al cuadrado ($z^2=1,645^2=2,706$), mientras que el segundo componente está dado por la dispersión o heterogeneidad de la variable ($p^*q=0,5^*0,5=0,25$). El producto de ambos componentes arroja el valor del denominador ($2,706^*0,25=0,6765$).
@@ -668,13 +668,9 @@ El ponderador final indica a cuantos casos del universo representa cada caso de 
 
 Nótese que, por ejemplo, la suma de los ponderadores de quienes residen en el exterior y pernoctaron en el destino (casos 4, 7 y 19) asciende a 34 personas ($17+4,25+12,75$). Como puede observarse, el resultado del total de personas para cada segmento (definido por lugar de residencia y pernocte o no en el destino) coincide exactamente con la información del marco (pues, justamente, la función de este ponderador es expandir a toda la población respetando la participación en la población de cada uno de los segmentos que es posible definir a partir de los datos del marco muestral). En otras palabras, aquí se demuestra cómo los ponderadores permiten que los resultados obtenidos de la muestra sean representativos de la población en relación a dos variables relevantes, el lugar de residencia y la pernoctación o no en el destino.
 
-\
-<<<<<<< HEAD
-```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3", out.width='100%' }
-=======
 
-```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3" }
->>>>>>> e331e0dce1ec4ce129a5d33fabe22edffdb615ce
+```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3", out.width='100%' }
+
 knitr::include_graphics('imagenes/tabla_3.png')
 ```
 
@@ -803,14 +799,9 @@ No obstante la potencialidad de la posibilidad de construir muestras acumulativa
 
 -   Dos, considerar que **es imprescindible que los casos de las diferentes muestras (que integrarán la muestra anual) tengan su factor de expansión o ponderador asociado, de modo tal que el peso de cada subgrupo en los resultados anuales represente su participación relativa en la población**[^propuestas_metodologicas-72].
 
-<<<<<<< HEAD
-[^propuestas_metodologicas-73]: Siguiendo con el ejemplo, en una provincia o localidad se relevan 500 encuestas en cada una de las tres temporadas definidas, resultando que en la temporada alta el $75\%$ de los visitantes acude por motivo de ocio, en la temporada media este valor se ubica en el $50\%$ y en la temporada baja cae a $25\%$. Si no se considera el peso relativo de cada temporada en el total anual, los resultados indicarían que el $50\%$ de los visitantes visitan el destino por ocio (dado que las muestras son de igual tamaño, este resultado se obtendría tanto como promedio simple de los resultados de las tres temporadas como de una base de datos que contenga los casos relevados en las tres muestras sin ponderar). Sin embargo, es esperable que el flujo de visitantes sea variable entre temporadas; si, por ejemplo, en temporada alta llegan 100 mil visitantes, en temporada media 30 mil y en temporada baja 20 mil, totalizando 150 mil visitantes anuales, asumir que el $50\%$ de visitantes que viajan por ocio constituye un dato erróneo, pues los visitantes de temporada media y baja se encuentran sobrerrepresentados. Así el cálculo correcto debería ser el producto de la estimación obtenida en cada temporada por los visitantes contabilizados en ellas (o bien, el resultado de los 500 casos ponderados para que representen al total de visitantes de cada temporada) dividido por el total anual de visitantes: $(75\%*100.000 + 50\%*30.000 + 25\%*20.000)/150.000=63,3\%$
 
+[^propuestas_metodologicas-72]: Siguiendo con el ejemplo, en una provincia o localidad se relevan 500 encuestas en cada una de las tres temporadas definidas, resultando que en la temporada alta el $75\%$ de los visitantes acude por motivo de ocio, en la temporada media este valor se ubica en el $50\%$ y en la temporada baja cae a $25\%$. Si no se considera el peso relativo de cada temporada en el total anual, los resultados indicarían que el $50\%$ de los visitantes visitan el destino por ocio (dado que las muestras son de igual tamaño, este resultado se obtendría tanto como promedio simple de los resultados de las tres temporadas como de una base de datos que contenga los casos relevados en las tres muestras sin ponderar). Sin embargo, es esperable que el flujo de visitantes sea variable entre temporadas; si, por ejemplo, en temporada alta llegan 100 mil visitantes, en temporada media 30 mil y en temporada baja 20 mil, totalizando 150 mil visitantes anuales, asumir que el $50\%$ de visitantes que viajan por ocio constituye un dato erróneo, pues los visitantes de temporada media y baja se encuentran sobrerrepresentados. Así el cálculo correcto debería ser el producto de la estimación obtenida en cada temporada por los visitantes contabilizados en ellas (o bien, el resultado de los 500 casos ponderados para que representen al total de visitantes de cada temporada) dividido por el total anual de visitantes: $(75\%*100.000 + 50\%*30.000 + 25\%*20.000)/150.000=63,3\%$
 
-
-=======
-[^propuestas_metodologicas-72]: Siguiendo con el ejemplo, en una provincia o localidad se relevan 500 encuestas en cada una de las tres temporadas definidas, resultando que en la temporada alta el $75\%$ de los visitantes acude por motivo de ocio, en la temporada media este valor se ubica en el $50\%$ y en la temporada baja cae a $25\%$. Si no se considera el peso relativo de cada temporada en el total anual, los resultados indicarían que el $50\%$ de los visitantes visitan el destino por ocio (dado que las muestras son de igual tamaño, este resultado se obtendría tanto como promedio simple de los resultados de las tres temporadas como de una base de datos que contenga los casos relevados en las tres muestras sin ponderar). Sin embargo, es esperable que el flujo de visitantes sea variable entre temporadas; si, por ejemplo, en temporada alta llegan 100 mil visitantes, en temporada media 30 mil y en temporada baja 20 mil, totalizando 150 mil visitantes anuales, asumir que el $50\%$ de visitantes que viajan por ocio constituye un dato erróneo, pues los visitantes de temporada media y baja se encuentran sobrerrepresentados. Así el cálculo correcto debería ser el producto de la estimación obtenida en cada temporada por los visitantes contabilizados en ellas (o bien, el resultado de los 500 casos ponderados para que representen al total de visitantes de cada temporada) dividido por el total anual de visitantes: ($75\%^*$$100.000$+$50\%^*$$30.000$+$25%\%^*$$20.000$)/$150.000$=$63,3\%$.
->>>>>>> e331e0dce1ec4ce129a5d33fabe22edffdb615ce
 
 Finalmente, es importante reflexionar sobre las ventajas y desventajas de contar con estudios continuos[^propuestas_metodologicas-73]. La pregunta sería si tiene sentido realizar una encuesta de caracterización de la demanda todos los años (por ejemplo, en 2012, 2013, 2014, etc.). ¿Por qué? Porque, como se desarrolló en extenso, una encuesta por muestreo tiene asociado un margen de error y sólo podrá establecerse la existencia de diferencias estadísticamente significativas cuando los intervalos de confianza de las estimaciones no se solapen. Por ejemplo, si se realizan encuestas con un margen de error estadístico del $3\%$ y el estudio de 2012 arroja que el $40\%$ de los turistas visitaron un destino por ocio mientras que el año siguiente la estimación alcanza al $44\%$, no podrá afirmarse que la proporción de visitantes que viajan por ocio en ambos años ha aumentado, pues los intervalos de confianza de ambas estimaciones ($37\%$-$43\%$ en 2012 y $41%$-$47\%$) se superponen parcialmente.
 
