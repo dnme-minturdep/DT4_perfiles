@@ -13,7 +13,7 @@ description: "Propuestas Metodológicas para las Encuestas de Perfil del Visitan
 
 # **Presentación** {.unnumbered}
 
-El presente documento **Propuestas Metodológicas para las Encuestas de Perfil del Visitante** se enmarca en el proyecto de *Armonización de las Estadísticas de Turismo en las Provincias* de la [Dirección Nacional de Mercados y Estadística de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes](http://datos.yvera.gob.ar/){target="_blank"}. El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
+El presente documento **Propuestas Metodológicas para las Encuestas de Perfil del Visitante** se enmarca en el proyecto de [Armonización de las Estadísticas de Turismo en las Provincias](https://armonizacion.yvera.tur.ar//){target="_blank"} de la **Dirección Nacional de Mercados y Estadística de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes**. El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
 
 Además de este, se encuentran disponibles una serie de documentos técnicos que abordan otras problemáticas vinculadas a la producción de estadística de turismo:
 
@@ -46,3 +46,12 @@ Finalmente, en los **Anexos** se presentan dos modelos de cuestionarios, que fue
 Cabe señalar que este documento de trabajo realiza un recorrido por aspectos cuya complejidad no es menor. Por otro lado, si bien todas las etapas de una investigación están interrelacionadas, se ha procurado seguir un orden lógico, aunque en ciertos casos se ha privilegiado desarrollar en profundidad algunos temas, lo que ha implicado trasponer el orden lógico de algunas de las etapas.
 
 Por tanto, se sugiere que se realice una (o más de una) lectura atenta y profunda, no sólo para comprender ciertas cuestiones que se tratan, sino también para identificar los aspectos más relevantes a la hora de emprender la puesta en marcha de estudios de este tipo y poder abonar críticamente a la construcción colectiva.
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+
+knitr::opts_chunk$set(out.width = '100%', fig.align = 'center')
+```
