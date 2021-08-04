@@ -23,7 +23,8 @@ Además de este, se encuentran disponibles una serie de documentos técnicos que
 
 -   [Documento Técnico \#3](https://dnme-minturdep.github.io/DT3_registros_adminsitrativos/){target="_blank"}: Descripción, análisis y utilización de los Registros Administrativos para la medición del Turismo
 
--   Documento Técnico \#5: Medición de la contribución económica del turismo: actividad y empleo
+-   [Documento Técnico \#5](https://dnme-minturdep.github.io/DT5_actividad_empleo/){target="_blank"}: Medición de la contribución económica del turismo: actividad y empleo
+
 
 ### Documento Técnico Nº4 - Resumen {.unnumbered}
 
