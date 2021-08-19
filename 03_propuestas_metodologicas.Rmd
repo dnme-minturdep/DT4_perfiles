@@ -20,7 +20,7 @@ Por ejemplo, para una encuesta de perfil podrían plantearse los siguientes obje
 
 Este objetivo plantea el recorte del universo bajo estudio, en términos de definir la unidad de análisis (visitantes) y su ubicación espacial (provincia Azul) y temporal (meses de temporada alta), indicando que lo que se pretende es describir sus principales características. Este último punto mantiene un nivel de generalidad que adquirirá un carácter más concreto en los objetivos específicos.
 
-[**Objetivos Específicos:**]{.ul}
+**Objetivos Específicos:**{.ul}
 
 -   Describir las características sociodemográficas básicas de los visitantes (lugar de residencia habitual, sexo, edad, nivel educativo, composición del grupo de viaje, etc.)
 
