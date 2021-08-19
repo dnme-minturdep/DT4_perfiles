@@ -350,7 +350,7 @@ knitr::include_graphics('imagenes/DT4_grafico2.jpg')
 
 Simplificando esta información al asumir, como se propone, un nivel de confianza del $90\%$, a continuación se indican los tamaños muestrales necesarios para obtener resultados con distintos niveles de error. Por ejemplo, el tamaño de una muestra para un error del $1,5\%$ asciende a 3.007 casos, frente a sólo 106 casos si lo que se pretende es obtener resultados con un margen de error de $8\%$.
 
-```{r Tamañodelamuestra, echo=FALSE, fig.cap="Gradico 3", out.width='100%' }
+```{r Tamañodelamuestra, echo=FALSE, fig.cap="Tamaño de la muestra para distintos niveles de error estadístico", out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico3.jpg')
 ```
 
