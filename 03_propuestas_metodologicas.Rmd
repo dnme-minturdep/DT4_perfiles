@@ -590,7 +590,7 @@ A partir del procesamiento de esta información se puede conocer: la cantidad de
 \
 La tabla siguiente muestra un ejemplo de un marco muestral construido a partir de la información relevada en las planillas.
 
-```{r Lugarderesidencia, echo=FALSE, fig.cap="Figura2" , out.width='100%'}
+```{r Lugarderesidencia, echo=FALSE, fig.cap="Ejemplificación de un marco muestral construido en base a información recolectada en los Centros de Información Turística" , out.width='100%'}
 knitr::include_graphics('imagenes/figura_2.png')
 ```
 
