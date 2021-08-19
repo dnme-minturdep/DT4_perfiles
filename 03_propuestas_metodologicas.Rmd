@@ -366,7 +366,7 @@ Una manera usual en que se expresa el error relativo es en términos de coeficie
 
 [^propuestas_metodologicas-33]: Si bien no constituye una regla formal y la evaluación acerca de si es conveniente un determinado CV depende de los objetivos de cada estudio, existe cierto consenso en considerar como robustas a las estimaciones con CV menores a $10\%$, como aceptables a aquellas estimaciones con CV de entre $10\%$ y $20\%$ y como precarias a las estimaciones con CV de entre $20\%$ y $30\%$. A partir del $30\%$, los resultados deben tomarse sólo a modo indicativo o exploratorio.
 
-```{r Intervalodeconfianza, echo=FALSE, fig.cap="Grafico4", out.width='100%' }
+```{r Intervalodeconfianza, echo=FALSE, fig.cap="Intervalo de confianza para diferentes estimaciones", out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico4.jpg')
 ```
 
