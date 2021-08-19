@@ -135,7 +135,7 @@ De acuerdo a lo expuesto, la siguiente figura esquematiza las preguntas necesari
 
 
 
-```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Figura1", out.width='100%' }
+```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Esquema de identificación de visitantes", out.width='100%' }
 
 knitr::include_graphics('imagenes/figura_1.png')
 ```
