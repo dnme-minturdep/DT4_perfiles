@@ -1177,7 +1177,7 @@ No obstante, no siempre resulta posible implementar un diseño muestral que cuen
 
 De este modo, a partir del formulario se podrá estimar el gasto turístico provincial (relativo a la estadía en la localidad de referencia, de modo que la agregación de los resultados de las distintas localidades arrojen el gasto turístico provincial total) desagregado en:
 
--   Paquete Turístico (que luego deberá ser despaquetizado en los distintos productos)
+-   Paquete Turístico (que luego deberá ser despaquetizado en los distintos productos).
 
 -   Margen de agencias de viaje (estimado bajo ciertos supuestos para paquete y alojamiento, pero también para transporte y servicios recreativos y culturales).
 
