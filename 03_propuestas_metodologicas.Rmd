@@ -408,7 +408,7 @@ La figura siguiente muestra el por qué de esta recomendación: a partir de los 
 
     Así, por ejemplo, si de la fórmula de población infinita se deriva que para un nivel de confianza del 90% y un error máximo del 3% es necesaria una muestra de 752 casos, en el caso de un universo de 25 mil unidades, el tamaño de la muestra resulta de 730 casos ($752×25000752+(25000-1)=1880000025751=730$).
 
-```{r Tamañodemuestra, echo=FALSE, fig.cap="Grafico5" , out.width='100%'}
+```{r Tamañodemuestra, echo=FALSE, fig.cap="Tamaño de la muestra según fórmulas de población finita e infinita" , out.width='100%'}
 knitr::include_graphics('imagenes/DT4_grafico5.jpg')
 ```
 
