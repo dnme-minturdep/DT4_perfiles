@@ -20,7 +20,7 @@ Por ejemplo, para una encuesta de perfil podrían plantearse los siguientes obje
 
 Este objetivo plantea el recorte del universo bajo estudio, en términos de definir la unidad de análisis (visitantes) y su ubicación espacial (provincia Azul) y temporal (meses de temporada alta), indicando que lo que se pretende es describir sus principales características. Este último punto mantiene un nivel de generalidad que adquirirá un carácter más concreto en los objetivos específicos.
 
-[**Objetivos Específicos:**]{.ul}
+**Objetivos Específicos:**{.ul}
 
 -   Describir las características sociodemográficas básicas de los visitantes (lugar de residencia habitual, sexo, edad, nivel educativo, composición del grupo de viaje, etc.)
 
@@ -135,7 +135,7 @@ De acuerdo a lo expuesto, la siguiente figura esquematiza las preguntas necesari
 
 
 
-```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Figura1", out.width='100%' }
+```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Esquema de identificación de visitantes", out.width='100%' }
 
 knitr::include_graphics('imagenes/figura_1.png')
 ```
@@ -350,7 +350,7 @@ knitr::include_graphics('imagenes/DT4_grafico2.jpg')
 
 Simplificando esta información al asumir, como se propone, un nivel de confianza del $90\%$, a continuación se indican los tamaños muestrales necesarios para obtener resultados con distintos niveles de error. Por ejemplo, el tamaño de una muestra para un error del $1,5\%$ asciende a 3.007 casos, frente a sólo 106 casos si lo que se pretende es obtener resultados con un margen de error de $8\%$.
 
-```{r Tamañodelamuestra, echo=FALSE, fig.cap="Gradico 3", out.width='100%' }
+```{r Tamañodelamuestra, echo=FALSE, fig.cap="Tamaño de la muestra para distintos niveles de error estadístico", out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico3.jpg')
 ```
 
@@ -362,11 +362,11 @@ Así, manteniendo constantes los otros elementos (tamaño de la muestra y nivel 
 
 No obstante, debe notarse que el nivel de error relativo disminuye significativamente en forma inversamente proporcional al valor de la estimación. Así, el intervalo de confianza de una estimación del $3\%$ muestra una gran variabilidad (oscila entre el $2\%$ y el $4\%$), brindando realmente poca precisión para la estimación obtenida (es decir, los elementos del universo que cumplen con la condición estimada pueden ser o bien uno de cada 50 o bien uno de cada 25); en cambio, el intervalo de confianza de una estimación del $97\%$ se ubica entre $96\%$ y $98\%$: si bien el rango entre el límite inferior y el superior para ambas estimaciones es de dos puntos porcentuales (lo que equivale a un margen de error de $1\%$), en este caso sí permite obtener una conclusión fuerte: la gran mayoría de los elementos del universo cumplen con la condición estimada (es decir, son varones, o extranjeros, o adquirieron paquetes turístico, etc.).
 
-Una manera usual en que se expresa el error relativo es en términos de coeficientes de variación (CV). El CV surge de la división del error típico (el nivel de error -en porcentaje, que es la unidad del resultado obtenido - sobre la estimación dividido por el valor de z para el nivel de confianza utilizado) sobre el valor de la estimación. Por tanto, aún cuando en ambos casos el nivel de error sea del $1\%$, mientras que la estimación del $3\%$ tendrá asociado un CV de $20,7\%$ (($1\%/1,645)/3\%$), a la estimación del $97\%$ le corresponderá un CV sustancialmente menor, de sólo $0,6\%$ (($1\%/1,645)/97\%$). Lógicamente, cuanto menor sea el CV, más precisa será la estimación obtenida[^propuestas_metodologicas-33].
+Una manera usual en que se expresa el error relativo es en términos de coeficientes de variación (CV). El CV surge de la división del error típico (el nivel de error -en porcentaje, que es la unidad del resultado obtenido- sobre la estimación dividido por el valor de z para el nivel de confianza utilizado) sobre el valor de la estimación. Por tanto, aún cuando en ambos casos el nivel de error sea del $1\%$, mientras que la estimación del $3\%$ tendrá asociado un CV de $20,7\%$ ($1\%/1,645)/3\%$, a la estimación del $97\%$ le corresponderá un CV sustancialmente menor, de sólo $0,6\%$ ($1\%/1,645)/97\%$. Lógicamente, cuanto menor sea el CV, más precisa será la estimación obtenida[^propuestas_metodologicas-33].
 
 [^propuestas_metodologicas-33]: Si bien no constituye una regla formal y la evaluación acerca de si es conveniente un determinado CV depende de los objetivos de cada estudio, existe cierto consenso en considerar como robustas a las estimaciones con CV menores a $10\%$, como aceptables a aquellas estimaciones con CV de entre $10\%$ y $20\%$ y como precarias a las estimaciones con CV de entre $20\%$ y $30\%$. A partir del $30\%$, los resultados deben tomarse sólo a modo indicativo o exploratorio.
 
-```{r Intervalodeconfianza, echo=FALSE, fig.cap="Grafico4", out.width='100%' }
+```{r Intervalodeconfianza, echo=FALSE, fig.cap="Intervalo de confianza para diferentes estimaciones", out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico4.jpg')
 ```
 
@@ -376,7 +376,7 @@ Como se puede observar en la figura anterior, un valor estimado de un $50\%$ ind
 
 [^propuestas_metodologicas-34]: El concepto de diferencia estadísticamente significativa, a contramano de lo que podría presuponerse, no procura dar cuenta de la magnitud de las diferencias sino que sólo indica que las diferencias observadas entre dos estimaciones trascienden sus intervalos de confianza. Es decir, si una estimación implica un intervalo de confianza de entre $20\%$ y $26\%$ y para otra estimación dicho intervalo se ubica entre $28\%$ y $34\%$ puede concluirse que existen diferencias estadísticamente significativas entre ambos valores, del mismo modo que si estos intervalos adquirieran distancias muy superiores (por ejemplo entre $20\%$ y $24\%$ y entre $60\%$ y $64\%$).
 
-Siguiendo el ejemplo anterior, el intervalo de confianza de una estimación del $3\%$ (por ejemplo, visitantes brasileros) oscila entre $2\%$ y $4\%$, mientras que el intervalo de una estimación del $5\%$ (visitantes chilenos) fluctúa entre $3,7\%$ y $6,3\%$. Aunque las estimaciones muestrales indiquen que hay 5 visitantes chilenos por cada 3 brasileros, lo que a priori podría parecer una diferencia destacada, al solaparse los intervalos de confianza de ambas estimaciones, no es posible establecer la existencia de una diferencia estadísticamente significativa. ¿Por qué? Porque dado que el valor verdadero puede ubicarse en cualquier punto del intervalo de confianza (que es el dato que realmente brinda una investigación mediante muestras probabilísticas), los visitantes chilenos podrían representar en la realidad el $3,7\%$ del total de los visitantes (límite inferior de la estimación del $5\%$) y los brasileros el $4\%$, es decir, una proporción mayor (límite superior de la estimación del $3\%$); claro que podría darse el caso de que la diferencia a favor de los visitantes chilenos sea aún más marcada que lo que indica la estimación muestral (en el caso extremo, los chilenos podrían representar un $6,3\%$ de los visitantes --límite superior de la estimación del $5\%$- frente a sólo un $2\%$ de participación de los brasileros --límite inferior de la estimación del $3\%$-).
+Siguiendo el ejemplo anterior, el intervalo de confianza de una estimación del $3\%$ (por ejemplo, visitantes brasileros) oscila entre $2\%$ y $4\%$, mientras que el intervalo de una estimación del $5\%$ (visitantes chilenos) fluctúa entre $3,7\%$ y $6,3\%$. Aunque las estimaciones muestrales indiquen que hay 5 visitantes chilenos por cada 3 brasileros, lo que a priori podría parecer una diferencia destacada, al solaparse los intervalos de confianza de ambas estimaciones, no es posible establecer la existencia de una diferencia estadísticamente significativa. ¿Por qué? Porque dado que el valor verdadero puede ubicarse en cualquier punto del intervalo de confianza (que es el dato que realmente brinda una investigación mediante muestras probabilísticas), los visitantes chilenos podrían representar en la realidad el $3,7\%$ del total de los visitantes (límite inferior de la estimación del $5\%$) y los brasileros el $4\%$, es decir, una proporción mayor (límite superior de la estimación del $3\%$); claro que podría darse el caso de que la diferencia a favor de los visitantes chilenos sea aún más marcada que lo que indica la estimación muestral (en el caso extremo, los chilenos podrían representar un $6,3\%$ de los visitantes -límite superior de la estimación del $5\%$- frente a sólo un $2\%$ de participación de los brasileros -límite inferior de la estimación del $3\%$-).
 
 En razón de estos elementos, cabe volver aquí sobre la relación que existe entre los objetivos, la muestra y las preguntas del formulario. Por ejemplo, si uno de los objetivos fundamentales del estudio fuera conocer con gran precisión el origen de los visitantes internacionales, aún cuando determinados grupos representen pequeñas porciones del universo, la muestra hipotética del ejemplo sería, claramente, insuficiente. Del mismo modo, si se asume que interesa estimar con precisión grupos que representen partes sustantivas del universo (por ejemplo, mayores al $10\%$), aunque sin pretensión de rankear las categorías de valores similares (por ejemplo, $11\%$ y $12\%$), esta muestra sí sería suficiente para tal fin. Ahora bien, si en este último escenario, en un caso extremo, el formulario aplicado incluyera como opciones de respuesta a la pregunta sobre el lugar de residencia a los más de 200 países del mundo, indudablemente, se obtendría un nivel de detalle que no sólo resultaría irrelevante desde el punto de vista del análisis de la información (por ejemplo, si se encuentra un albanés en una muestra de 752 casos, sería absurdo sostener que el $0,13\%$ de los visitantes provienen de ese país), sino que sería antieconómico, en un sentido amplio, pues implicaría complejizar la tarea de quien realiza la encuesta, de quien la codifica y de quien la carga en la base de datos, además de hacer más engorroso el procesamiento de los datos. Por esto se vuelve a remarcar la necesidad de integrar eficiente y armoniosamente los elementos que componen una investigación[^propuestas_metodologicas-35].
 
@@ -408,7 +408,7 @@ La figura siguiente muestra el por qué de esta recomendación: a partir de los 
 
     Así, por ejemplo, si de la fórmula de población infinita se deriva que para un nivel de confianza del 90% y un error máximo del 3% es necesaria una muestra de 752 casos, en el caso de un universo de 25 mil unidades, el tamaño de la muestra resulta de 730 casos ($752×25000752+(25000-1)=1880000025751=730$).
 
-```{r Tamañodemuestra, echo=FALSE, fig.cap="Grafico5" , out.width='100%'}
+```{r Tamañodemuestra, echo=FALSE, fig.cap="Tamaño de la muestra según fórmulas de población finita e infinita" , out.width='100%'}
 knitr::include_graphics('imagenes/DT4_grafico5.jpg')
 ```
 
@@ -590,7 +590,7 @@ A partir del procesamiento de esta información se puede conocer: la cantidad de
 \
 La tabla siguiente muestra un ejemplo de un marco muestral construido a partir de la información relevada en las planillas.
 
-```{r Lugarderesidencia, echo=FALSE, fig.cap="Figura2" , out.width='100%'}
+```{r Lugarderesidencia, echo=FALSE, fig.cap="Ejemplificación de un marco muestral construido en base a información recolectada en los Centros de Información Turística" , out.width='100%'}
 knitr::include_graphics('imagenes/figura_2.png')
 ```
 
@@ -1177,7 +1177,7 @@ No obstante, no siempre resulta posible implementar un diseño muestral que cuen
 
 De este modo, a partir del formulario se podrá estimar el gasto turístico provincial (relativo a la estadía en la localidad de referencia, de modo que la agregación de los resultados de las distintas localidades arrojen el gasto turístico provincial total) desagregado en:
 
--   Paquete Turístico (que luego deberá ser despaquetizado en los distintos productos)
+-   Paquete Turístico (que luego deberá ser despaquetizado en los distintos productos).
 
 -   Margen de agencias de viaje (estimado bajo ciertos supuestos para paquete y alojamiento, pero también para transporte y servicios recreativos y culturales).
 
