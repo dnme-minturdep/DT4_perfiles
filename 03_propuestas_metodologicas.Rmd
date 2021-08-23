@@ -686,7 +686,7 @@ Lógicamente, la finalidad de esos ponderadores no es reconstruir los datos del 
 
 Así, en relación a la variable motivo, a continuación se muestra la distribución de los visitantes que concurrieron al CIT (es decir, se excluye a los residentes en el destino). De los 73 visitantes contabilizados, el $48,4%$ viajaron por ocio (la suma de los ponderadores de los casos 1, 4, 22, 25 y 28 arroja un total de $35,30$ visitantes), un $45,8\%$ por visita a familiares y un $5,8\%$ por congresos.
 
-```{r Motivo, echo=FALSE, fig.cap="Tablaa4" , out.width='100%'}
+```{r Motivo, echo=FALSE, fig.cap="Ejemplificación de la distribución según motivo de viaje de los visitantes que concurrieron a un Centro de Información Turística" , out.width='100%'}
 knitr::include_graphics('imagenes/tabla_a4.png')
 ```
 
