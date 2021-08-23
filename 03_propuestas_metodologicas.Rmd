@@ -746,7 +746,7 @@ La **conjunción de un tiempo (día y/u horario) y un espacio o lugar** daría l
 
 La siguiente tabla muestra una posible selección (que, idealmente, podría hacerse al azar o en forma sistemática) de puntos muestrales para el caso que ejemplifica esta sección.
 
-```{r Muestraposible, echo=FALSE, fig.cap="Tabla4", out.width='100%' }
+```{r Muestraposible, echo=FALSE, fig.cap="Ejemplificación de la selección de puntos muestrales", out.width='100%' }
 knitr::include_graphics('imagenes/tabla_4.png')
 ```
 
