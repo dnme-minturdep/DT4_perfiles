@@ -1281,13 +1281,13 @@ Esto obedece a que el gasto turístico (al igual que en muchos otros casos) resp
 
 [^propuestas_metodologicas-112]: Evidentemente, existe un amplio abanico de variables relacionadas con el nivel del monto del gasto de los turistas (el tipo de alojamiento, las actividades realizadas, los lugares y formas de alimentarse, etc.), pero esas variables están referidas a la multiplicidad de características que puede asumir un viaje y, por tanto, con los valores que asumirá dicho gasto en cada contexto específico, lo cual es algo independiente y totalmente distinto a los errores en las fórmulas de estimación de los indicadores, que es lo que aquí se pone en cuestión.
 
-[^propuestas_metodologicas-113]: Cabe señalar que la EVyTH indaga por la totalidad del gasto en el viaje, desde el momento de la salida hasta el del retorno al entorno habitual, por tanto, se incluye en dicho monto el traslado de ida y vuelta hacia el destino del viaje. Sin dudas, se trata de uno de los rubros que más elasticidad muestra respecto a su peso absoluto y relativo en la composición del gasto turístico en cuanto a las dos variables contempladas, es decir, tamaño del grupo de viaje y estadía. Dado que en general las encuestas de perfil (realizadas desde la óptica del destino) suelen o bien excluir o bien indagar por separado entre este gasto y el gasto en destino, es esperable que allí la brecha que surja de los resultados obtenidos mediante las formas de cálculo 1 y 2 respecto al valor correcto (forma 3) sea algo menor a la que muestra este ejercicio basado en la EVyTH. 
+[^propuestas_metodologicas-113]: Cabe señalar que la EVyTH indaga por la totalidad del gasto en el viaje, desde el momento de la salida hasta el del retorno al entorno habitual, por tanto, se incluye en dicho monto el traslado de ida y vuelta hacia el destino del viaje. Sin dudas, se trata de uno de los rubros que más elasticidad muestra respecto a su peso absoluto y relativo en la composición del gasto turístico en cuanto a las dos variables contempladas, es decir, tamaño del grupo de viaje y estadía. Dado que en general las encuestas de perfil (realizadas desde la óptica del destino) suelen o bien excluir o bien indagar por separado entre este gasto y el gasto en destino, es esperable que allí la brecha que surja de los resultados obtenidos mediante las formas de cálculo 1 y 2 respecto al valor correcto (forma 3) sea algo menor a la que muestra este ejercicio basado en la EVyTH.
 
     No obstante, como se sugirió en la sección anterior, el gasto en transporte (la parte correspondiente a la provincia) no debe ser soslayado en la medición de la contribución económica del turismo.
 
 [^propuestas_metodologicas-114]: Otra manera de expresar esta relación, de modo sintético, es a partir de coeficientes de correlación, como el r de Pearson (que varía entre -1 y +1, no existiendo correlación en el valor 0). Este coeficiente alcanza un valor de -0,157 al considerar el gasto diario promedio y la cantidad de participantes del viaje (se suele considerar que la existe correlación significativa a partir de valores de 0,05/-0,05) y llega hasta -0,301 en el caso de la estadía y el gasto. Es decir, existe una correlación inversa (cuando una variable crece la otra disminuye) fuerte entre gasto diario y tamaño del grupo viajero y una correlación inversa muy fuerte entre gasto diario y estadía del viaje.
 
-```{r echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%'}
+```{r echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', eval=FALSE}
 library(tidyverse)
 library(extrafont)
 library(ggtext) 
@@ -1442,20 +1442,30 @@ pernoctes del grupo de viaje (turistas x estadía)",
        subtitle="Turismo Interno, EVyTH 2019"
   )
 
+
+ggsave(grafico_18a, filename = "imagenes/grafico_18a.png")
+
+ggsave(grafico_18b, filename = "imagenes/grafico_18b.png")
+
+ggsave(grafico_18c, filename = "imagenes/grafico_18c.png")
+
+
 ```
 
-```{r echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
-grafico_18a
+
+
+```{r grafico18a, echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+knitr::include_graphics("imagenes/DT4_grafico18_a.jpg")
 ```
 
 
-```{r echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
-grafico_18b
+```{r grafico18b, echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+knitr::include_graphics("imagenes/DT4_grafico18_b.jpg")
 ```
 
 
-```{r echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
-grafico_18c
+```{r grafico18c,  echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+knitr::include_graphics("imagenes/DT4_grafico18_c.jpg")
 ```
 
 
