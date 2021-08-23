@@ -344,7 +344,7 @@ Nuevamente, cuanto menor sea el nivel de error pretendido, mayor será la muestr
 
 La figura siguiente muestra de manera clara la relación entre el tamaño de la muestra y el error estadístico, incorporando además lo que implica la utilización de diferentes niveles de confianza. Los puntos violetas indican la cantidad de casos necesaria para diferentes niveles de precisión, mientras que también se indica (en verde) la cantidad de casos requeridos para un error de $3,5\%$ tomando distintos niveles de confianza e, inversamente, se señala cuál será el nivel de error para una muestra de mil casos para cada nivel de confianza (en rojo).
 
-```{r Margenesdeerrorseguntamaño, echo=FALSE, fig.cap="Grafico 2", out.width='100%' }
+```{r Margenesdeerrorseguntamaño, echo=FALSE, fig.cap="Márgenes de error según tamaño de la muestra", out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico2.jpg')
 ```
 
