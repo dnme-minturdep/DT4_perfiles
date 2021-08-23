@@ -1083,7 +1083,7 @@ Es importante remarcar que el gasto en los servicios contenidos dentro del paque
 
 Cabe señalar que tanto la ETI como la EVyTH en su versión 2006 se nutren de esta clasificación y la profundizan, constituyendo un insumo esencial a la hora de plantear la construcción de la Cuenta Satélite de Turismo.
 
-```{r Gastototal, echo=FALSE, fig.cap="figura3", out.width='100%' }
+```{r Gastototal, echo=FALSE, fig.cap="Esquema de desagregación del gasto turístico según rubro", out.width='100%' }
 knitr::include_graphics('imagenes/figura_3.png')
 ```
 
