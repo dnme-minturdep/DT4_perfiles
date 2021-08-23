@@ -658,13 +658,13 @@ La última columna muestra cual será el coeficiente que se utilizará para expa
 
     La tabla siguiente muestra el cálculo de los coeficientes para cada segmento. Puede observarse que, lógicamente, coinciden exactamente con el señalado en la tabla del cuerpo del documento.
 
-```{r Coeficientes, echo=FALSE, fig.cap="Tabla1" , out.width='100%'}
+```{r Coeficientes, echo=FALSE, fig.cap="Ejemplificación del cálculo de coeficientes de expansión en base a una muestra recolectada en Centros de Información Turística" , out.width='100%'}
 knitr::include_graphics('imagenes/tabla_1.png')
 ```
 
 En la siguiente tabla se ejemplifica lo que sería la base de datos final del estudio realizado, donde cada fila corresponde a cada uno de los casos encuestados.
 
-```{r Casosencuestados, echo=FALSE, fig.cap="Tabla2" , out.width='100%'}
+```{r Casosencuestados, echo=FALSE, fig.cap="Ejemplificación del cálculo de ponderadores en base a una muestra recolectada en Centros de Información Turística" , out.width='100%'}
 knitr::include_graphics('imagenes/tabla_2.png')
 ```
 
