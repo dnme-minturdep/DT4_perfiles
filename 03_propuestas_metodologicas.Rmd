@@ -8,7 +8,7 @@ Como se mencionó, si bien se presentan las etapas de una investigación como un
 
 Por otra parte, en general suele existir la inquietud por relevar de modo continuo cierta información que se considera relevante, de forma tal de analizar su evolución y de contar con series históricas. Esto implica la necesidad de un esfuerzo inicial por definir de modo adecuado la estructura del formulario, con sus preguntas y categorías de respuesta, de modo tal de realizar la menor cantidad posible de modificaciones a futuro, dado que de lo contrario los indicadores resultantes cambiarían y perderían comparabilidad respecto a mediciones anteriores.
 
-Una investigación surge por la inquietud o por la necesidad de conocer una parte de la realidad, y se materializa por medio de un proceso que, basado en el estado del arte[\^propuestas_metodologicas-1], plantea un conjunto de definiciones conceptuales y reglas metodológicas que permiten recortar con claridad el objeto de estudio y su modo de abordaje, con el fin de dar respuesta a una serie de aspectos concretos del tema en cuestión.
+Una investigación surge por la inquietud o por la necesidad de conocer una parte de la realidad, y se materializa por medio de un proceso que, basado en el estado del arte, plantea un conjunto de definiciones conceptuales y reglas metodológicas que permiten recortar con claridad el objeto de estudio y su modo de abordaje, con el fin de dar respuesta a una serie de aspectos concretos del tema en cuestión.
 
 Por ello, un primer paso fundamental en una investigación radica en definir con claridad sus objetivos. Plasmar los objetivos de una investigación constituye el momento en que se recorta el objeto de estudio y se formulan concretamente los propósitos de la investigación y su alcance (explorar, describir, explicar, etc.). Estos objetivos deben ser acordes al marco conceptual y posibles de abordar, desde el punto de vista lógico, a partir de la metodología propuesta.
 
@@ -348,7 +348,7 @@ Nuevamente, cuanto menor sea el nivel de error pretendido, mayor será la muestr
 
 La figura siguiente muestra de manera clara la relación entre el tamaño de la muestra y el error estadístico, incorporando además lo que implica la utilización de diferentes niveles de confianza. Los puntos violetas indican la cantidad de casos necesaria para diferentes niveles de precisión, mientras que también se indica (en verde) la cantidad de casos requeridos para un error de $3,5\%$ tomando distintos niveles de confianza e, inversamente, se señala cuál será el nivel de error para una muestra de mil casos para cada nivel de confianza (en rojo).
 
-```{r Margenesdeerrorseguntamaño, echo=FALSE, fig.cap="Grafico 2", out.width='100%' }
+```{r Margenesdeerrorseguntamaño, echo=FALSE, fig.cap="Márgenes de error según tamaño de la muestra", out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico2.jpg')
 ```
 
