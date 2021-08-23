@@ -1121,7 +1121,7 @@ Finalmente, un tema de especial relevancia lo constituye el transporte[^propuest
 
 [^propuestas_metodologicas-97]: De acuerdo a la EVyTH 2006, entre los viajes realizados por los residentes del país dentro del mismo, aproximadamente el $30\%$ del gasto turístico total corresponde al transporte desde, hacia y entre los destinos del viaje.
 
-```{r Tipodetraslado, echo=FALSE, fig.cap="Tabla5", out.width='100%' }
+```{r Tipodetraslado, echo=FALSE, fig.cap="Descripción de los distintos tipos de traslados realizados por los visitantes desde la óptica de una provincia", out.width='100%' }
 knitr::include_graphics('imagenes/tabla_5.png')
 ```
 
