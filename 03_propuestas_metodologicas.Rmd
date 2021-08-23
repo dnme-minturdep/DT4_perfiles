@@ -1217,7 +1217,7 @@ Las encuestas de perfil se suelen realizar a individuos en tanto que forman part
 
 En base a esta información se puede estimar el gasto diario promedio. Si bien hay diversas formas de arribar a un resultado, sólo una de ellas es matemáticamente correcta (sin embargo, lamentablemente, no es esta forma la que habitualmente se utiliza). Cómo se verá, esto está íntimamente ligado con la forma en que se definen el universo bajo estudio, las unidades de análisis y las unidades de relevamiento. A continuación se desarrolla en detalle un ejemplo para echar luz sobre esta determinante cuestión.
 
-```{r Casos, echo=FALSE, fig.cap="Tabla6", out.width='100%' }
+```{r Casos, echo=FALSE, fig.cap="Ejemplificación del cálculo del gasto diario promedio", out.width='100%' }
 knitr::include_graphics('imagenes/tabla_6.png')
 ```
 
