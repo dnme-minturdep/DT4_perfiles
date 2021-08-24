@@ -1,7 +1,7 @@
 ---
 title: "Documento Técnico N°4: Encuestas a Visitantes"
 subtitle: "Propuestas Metodológicas para las Encuestas de Perfil del Visitante"
-author: "Dirección Nacional de Mercados y Estadísticas -  Subsecretaría de Desarrollo Estratégico"
+author: "Dirección Nacional de Mercados y Estadística -  Subsecretaría de Desarrollo Estratégico"
 date: "`r format(Sys.Date(), format = '%d de %B de %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
