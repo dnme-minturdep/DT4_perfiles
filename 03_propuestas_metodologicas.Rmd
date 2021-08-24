@@ -658,13 +658,13 @@ La última columna muestra cual será el coeficiente que se utilizará para expa
 
     La tabla siguiente muestra el cálculo de los coeficientes para cada segmento. Puede observarse que, lógicamente, coinciden exactamente con el señalado en la tabla del cuerpo del documento.
 
-```{r Coeficientes, echo=FALSE, fig.cap="Tabla1" , out.width='100%'}
+```{r Coeficientes, echo=FALSE, fig.cap="Ejemplificación del cálculo de coeficientes de expansión en base a una muestra recolectada en Centros de Información Turística" , out.width='100%'}
 knitr::include_graphics('imagenes/tabla_1.png')
 ```
 
 En la siguiente tabla se ejemplifica lo que sería la base de datos final del estudio realizado, donde cada fila corresponde a cada uno de los casos encuestados.
 
-```{r Casosencuestados, echo=FALSE, fig.cap="Tabla2" , out.width='100%'}
+```{r Casosencuestados, echo=FALSE, fig.cap="Ejemplificación del cálculo de ponderadores en base a una muestra recolectada en Centros de Información Turística" , out.width='100%'}
 knitr::include_graphics('imagenes/tabla_2.png')
 ```
 
@@ -686,7 +686,7 @@ Lógicamente, la finalidad de esos ponderadores no es reconstruir los datos del 
 
 Así, en relación a la variable motivo, a continuación se muestra la distribución de los visitantes que concurrieron al CIT (es decir, se excluye a los residentes en el destino). De los 73 visitantes contabilizados, el $48,4%$ viajaron por ocio (la suma de los ponderadores de los casos 1, 4, 22, 25 y 28 arroja un total de $35,30$ visitantes), un $45,8\%$ por visita a familiares y un $5,8\%$ por congresos.
 
-```{r Motivo, echo=FALSE, fig.cap="Tablaa4" , out.width='100%'}
+```{r Motivo, echo=FALSE, fig.cap="Ejemplificación de la distribución según motivo de viaje de los visitantes que concurrieron a un Centro de Información Turística" , out.width='100%'}
 knitr::include_graphics('imagenes/tabla_a4.png')
 ```
 
@@ -746,7 +746,9 @@ La **conjunción de un tiempo (día y/u horario) y un espacio o lugar** daría l
 
 La siguiente tabla muestra una posible selección (que, idealmente, podría hacerse al azar o en forma sistemática) de puntos muestrales para el caso que ejemplifica esta sección.
 
-```{r Muestraposible, echo=FALSE, fig.cap="Tabla4" , out.width='100%' }
+
+```{r Muestraposible, echo=FALSE, fig.cap="Ejemplificación de la selección de puntos muestrales", out.width='100%' }
+
 knitr::include_graphics('imagenes/tabla_4.png')
 ```
 
@@ -1083,8 +1085,11 @@ Es importante remarcar que el gasto en los servicios contenidos dentro del paque
 
 Cabe señalar que tanto la ETI como la EVyTH en su versión 2006 se nutren de esta clasificación y la profundizan, constituyendo un insumo esencial a la hora de plantear la construcción de la Cuenta Satélite de Turismo.
 
-```{r Gastototal, echo=FALSE, fig.cap="figura3" , out.width='100%' }
+
+```{r Gastototal, echo=FALSE, fig.cap="Esquema de desagregación del gasto turístico según rubro", out.width='100%' }
+
 knitr::include_graphics('imagenes/figura_3.png')
+
 ```
 
 ### Enfoque provincial
@@ -1121,7 +1126,9 @@ Finalmente, un tema de especial relevancia lo constituye el transporte[^propuest
 
 [^propuestas_metodologicas-97]: De acuerdo a la EVyTH 2006, entre los viajes realizados por los residentes del país dentro del mismo, aproximadamente el $30\%$ del gasto turístico total corresponde al transporte desde, hacia y entre los destinos del viaje.
 
-```{r Tipodetraslado, echo=FALSE, fig.cap="Tabla5" , out.width='100%' }
+
+```{r Tipodetraslado, echo=FALSE, fig.cap="Descripción de los distintos tipos de traslados realizados por los visitantes desde la óptica de una provincia", out.width='100%' }
+
 knitr::include_graphics('imagenes/tabla_5.png')
 ```
 
@@ -1217,7 +1224,9 @@ Las encuestas de perfil se suelen realizar a individuos en tanto que forman part
 
 En base a esta información se puede estimar el gasto diario promedio. Si bien hay diversas formas de arribar a un resultado, sólo una de ellas es matemáticamente correcta (sin embargo, lamentablemente, no es esta forma la que habitualmente se utiliza). Cómo se verá, esto está íntimamente ligado con la forma en que se definen el universo bajo estudio, las unidades de análisis y las unidades de relevamiento. A continuación se desarrolla en detalle un ejemplo para echar luz sobre esta determinante cuestión.
 
-```{r Casos, echo=FALSE, fig.cap="Tabla6" , out.width='100%' }
+
+```{r Casos, echo=FALSE, fig.cap="Ejemplificación del cálculo del gasto diario promedio", out.width='100%' }
+
 knitr::include_graphics('imagenes/tabla_6.png')
 ```
 
