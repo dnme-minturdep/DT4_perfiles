@@ -91,7 +91,7 @@ De acuerdo a las pautas internacionalmente aceptadas para la medición del turis
 
 [^propuestas_metodologicas-4]: En las encuestas de viajes y turismo de los hogares, el visitante constituye una de las posibles unidades de análisis. Por ejemplo, allí es posible caracterizar a la población de acuerdo a su comportamiento turístico (por caso, si han realizado o no viajes turísticos dentro de un determinado periodo temporal de referencia) y por tanto, las unidades de análisis pasarían a ser las personas. Bajo, la misma lógica, los hogares también pueden ocupar el lugar de unidades de análisis.
 
-    Tanto en las encuestas a hogares como en las encuestas realizadas en destino, los grupos de viajes pueden también pueden ser tomados como unidad de análisis.
+    Tanto en las encuestas a hogares como en las encuestas realizadas en destino, los grupos de viajes también pueden ser tomados como unidad de análisis.
 
 Definir correctamente lo que es un visitante implica poder distinguirlo de otros viajeros que no son visitantes (y que, por tanto, no hacen al turismo) y de otras personas residentes en el destino que pueden realizar actividades típicamente turísticas (visitar atractivos naturales, asistir a eventos artísticos o culturales e incluso, alojarse en hoteles).
 
