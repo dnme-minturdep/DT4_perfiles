@@ -135,7 +135,7 @@ De acuerdo a lo expuesto, la siguiente figura esquematiza las preguntas necesari
 
 
 
-```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Esquema de identificación de visitantes", out.width='100%' }
+```{r identificacióndelosvisitantes, echo=FALSE, fig.cap="Esquema de identificación de visitantes" , out.width='100%' }
 
 knitr::include_graphics('imagenes/figura_1.png')
 ```
@@ -348,13 +348,13 @@ Nuevamente, cuanto menor sea el nivel de error pretendido, mayor será la muestr
 
 La figura siguiente muestra de manera clara la relación entre el tamaño de la muestra y el error estadístico, incorporando además lo que implica la utilización de diferentes niveles de confianza. Los puntos violetas indican la cantidad de casos necesaria para diferentes niveles de precisión, mientras que también se indica (en verde) la cantidad de casos requeridos para un error de $3,5\%$ tomando distintos niveles de confianza e, inversamente, se señala cuál será el nivel de error para una muestra de mil casos para cada nivel de confianza (en rojo).
 
-```{r Margenesdeerrorseguntamaño, echo=FALSE, fig.cap="Márgenes de error según tamaño de la muestra", out.width='100%' }
+```{r Margenesdeerrorseguntamaño, echo=FALSE, fig.cap="Márgenes de error según tamaño de la muestra" , out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico2.jpg')
 ```
 
 Simplificando esta información al asumir, como se propone, un nivel de confianza del $90\%$, a continuación se indican los tamaños muestrales necesarios para obtener resultados con distintos niveles de error. Por ejemplo, el tamaño de una muestra para un error del $1,5\%$ asciende a 3.007 casos, frente a sólo $106$ casos si lo que se pretende es obtener resultados con un margen de error de $8\%$.
 
-```{r Tamañodelamuestra, echo=FALSE, fig.cap="Tamaño de la muestra para distintos niveles de error estadístico", out.width='100%' }
+```{r Tamañodelamuestra, echo=FALSE, fig.cap="Tamaño de la muestra para distintos niveles de error estadístico" , out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico3.jpg')
 ```
 
@@ -374,7 +374,7 @@ Una manera usual en que se expresa el error relativo es en términos de `coefici
 
 [^propuestas_metodologicas-33]: Si bien no constituye una regla formal y la evaluación acerca de si es conveniente un determinado `CV` depende de los objetivos de cada estudio, existe cierto consenso en considerar como robustas a las estimaciones con `CV` menores a $10\%$, como aceptables a aquellas estimaciones con `CV` de entre $10\%$ y $20\%$ y como precarias a las estimaciones con `CV` de entre $20\%$ y $30\%$. A partir del $30\%$, los resultados deben tomarse sólo a modo indicativo o exploratorio.
 
-```{r Intervalodeconfianza, echo=FALSE, fig.cap="Intervalo de confianza para diferentes estimaciones", out.width='100%' }
+```{r Intervalodeconfianza, echo=FALSE, fig.cap="Intervalo de confianza para diferentes estimaciones" , out.width='100%' }
 knitr::include_graphics('imagenes/DT4_grafico4.jpg')
 ```
 
@@ -675,7 +675,7 @@ El ponderador final indica a cuantos casos del universo representa cada caso de 
 Nótese que, por ejemplo, la suma de los ponderadores de quienes residen en el exterior y pernoctaron en el destino (casos 4, 7 y 19) asciende a 34 personas ($17+4,25+12,75$). Como puede observarse, el resultado del total de personas para cada segmento (definido por lugar de residencia y pernocte o no en el destino) coincide exactamente con la información del marco (pues, justamente, la función de este ponderador es expandir a toda la población respetando la participación en la población de cada uno de los segmentos que es posible definir a partir de los datos del marco muestral). En otras palabras, aquí se demuestra cómo los ponderadores permiten que los resultados obtenidos de la muestra sean representativos de la población en relación a dos variables relevantes, el lugar de residencia y la pernoctación o no en el destino.
 
 
-```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3", out.width='100%' }
+```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3" , out.width='100%' }
 
 knitr::include_graphics('imagenes/tabla_3.png')
 ```
@@ -746,7 +746,7 @@ La **conjunción de un tiempo (día y/u horario) y un espacio o lugar** daría l
 
 La siguiente tabla muestra una posible selección (que, idealmente, podría hacerse al azar o en forma sistemática) de puntos muestrales para el caso que ejemplifica esta sección.
 
-```{r Muestraposible, echo=FALSE, fig.cap="Tabla4", out.width='100%' }
+```{r Muestraposible, echo=FALSE, fig.cap="Tabla4" , out.width='100%' }
 knitr::include_graphics('imagenes/tabla_4.png')
 ```
 
@@ -908,7 +908,7 @@ Formalmente, una **variable** es una propiedad o atributo de las unidades de an�
 Una variable es un concepto y, como tal, puede tener una acepción diferente a la que el sentido común le otorga a esa palabra (si existe) o bien puede no ser comprendido por el entrevistado o bien puede ser interpretada de forma diferente por los distintos entrevistados. Por tanto, para medir una variable es preciso realizar un proceso que la transforme en algo medible. Ese proceso se denomina **operacionalización** e implica el pasaje desde una definición nominal o conceptual a una definición operacional o medible. A su vez, esa operacionalización puede implicar que un único concepto requiera de una o más preguntas en el cuestionario para su efectiva medición. La o las preguntas deben ser sencillas y de entendimiento intuitivo para el entrevistado, de modo que su respuesta obedezca realmente a la información que se pretende obtener.\
 
 ::: {.note}
-Por ejemplo, el entorno habitual es una variable con un alto nivel de abstracción, cuya definición indica que "es la zona geográfica donde se ubica su residencia habitual y, además de ésta, las zonas geográficas en las que se desenvuelve cotidianamente (ya sea por trabajo, estudio u otras actividades regulares)". Claramente, si al encuestado se le pregunta, sin más, si en su viaje salió de su entorno habitual, más que probablemente no se obtenga la respuesta deseada. Si se avanza un paso más y se le plantea la definición conceptual, la respuesta obtenida no será comparable con la de otros entrevistados, pues no todos considerarán un espacio similar a la hora de pensar en "la zona geográfica cercana", del mismo modo que no todos entenderán lo mismo por zona no cercana en la que se "desenvuelve cotidianamente". Por tanto, es preciso establecer una definición operacional concreta y clara, que permita obtener respuestas comparables y ligadas al objetivo planteado. En el ejemplo, podría plantearse entonces que se considera que un destino está fuera del entorno habitual si se ubica a más de una determinada distancia (por ej., 20 kilómetros) del lugar de residencia y si, además, es visitado con una frecuencia menor a una vez por semana. Lógicamente, esta definición operacional precisará, para no confundir al entrevistado, de al menos dos preguntas, una relativa a la distancia entre su lugar de residencia y el destino, y otra relativa a la frecuencia con la que visita el destino.
+Por ejemplo, el entorno habitual es una variable con un alto nivel de abstracción, cuya definición indica que "es la zona geográfica donde se ubica su residencia habitual y, además de ésta, las zonas geográficas en las que se desenvuelve cotidianamente (ya sea por trabajo, estudio u otras actividades regulares)". Claramente, si al encuestado se le pregunta, sin más, si en su viaje salió de su entorno habitual, más que probablemente no se obtenga la respuesta deseada. Si se avanza un paso más y se le plantea la definición conceptual, la respuesta obtenida no será comparable con la de otros entrevistados, pues no todos considerarán un espacio similar a la hora de pensar en "la zona geográfica cercana" , del mismo modo que no todos entenderán lo mismo por zona no cercana en la que se "desenvuelve cotidianamente". Por tanto, es preciso establecer una definición operacional concreta y clara, que permita obtener respuestas comparables y ligadas al objetivo planteado. En el ejemplo, podría plantearse entonces que se considera que un destino está fuera del entorno habitual si se ubica a más de una determinada distancia (por ej., 20 kilómetros) del lugar de residencia y si, además, es visitado con una frecuencia menor a una vez por semana. Lógicamente, esta definición operacional precisará, para no confundir al entrevistado, de al menos dos preguntas, una relativa a la distancia entre su lugar de residencia y el destino, y otra relativa a la frecuencia con la que visita el destino.
 :::
 
 Para que los valores de una variable sean comparables entre dos estudios realizados en diferentes momentos del tiempo o bien entre estudios aplicados a diferentes lugares, es precondición necesaria que se parta de una **misma definición conceptual**.
@@ -922,17 +922,17 @@ No obstante, muchas variables que pueden ser relevantes (recorrido del viaje, ca
 
 Ligado a esto, una variable deberá contar con un **sistema de categorías,** que son los atributos o valores que puede asumir la variable para las diferentes unidades de análisis. Un sistema de categorías debe cumplir las siguientes pautas:
 
--   **Pertinencia teórica**: Las categorías deben estar lógicamente relacionadas con la pregunta formulada. Por ejemplo, si se realiza la siguiente pregunta: "¿Les gustó la comida típica del lugar", las categorías deben ser "Si" y "No", y no "Muy bueno", "Bueno", "Regular", etc.
+-   **Pertinencia teórica**: Las categorías deben estar lógicamente relacionadas con la pregunta formulada. Por ejemplo, si se realiza la siguiente pregunta: "¿Les gustó la comida típica del lugar" , las categorías deben ser "Si" y "No" , y no "Muy bueno" , "Bueno" , "Regular" , etc.
 
--   **Exclusividad**: Implica la definición unívoca de cada categoría, es decir, que cada respuesta obtenida sólo pueda ser englobada en una categoría. Por ejemplo, si se indaga por el tramo de edad y las opciones son "Hasta 18 años" y "18 años o más", una persona de 18 años podría ser ubicada en cualquiera de las dos categorías.
+-   **Exclusividad**: Implica la definición unívoca de cada categoría, es decir, que cada respuesta obtenida sólo pueda ser englobada en una categoría. Por ejemplo, si se indaga por el tramo de edad y las opciones son "Hasta 18 años" y "18 años o más" , una persona de 18 años podría ser ubicada en cualquiera de las dos categorías.
 
--   **Exhaustividad**: Todas las respuestas posibles deben estar contenidas en el sistema de categorías. Por ejemplo, si se indaga por el alojamiento utilizado, no podrían establecerse como opciones de respuesta únicamente "Hotel" y "Camping", pues una parte de los turistas se pudo haber alojado en vivienda de familiares o amigos, segundas viviendas, casas o departamentos de alquiler, etc.
+-   **Exhaustividad**: Todas las respuestas posibles deben estar contenidas en el sistema de categorías. Por ejemplo, si se indaga por el alojamiento utilizado, no podrían establecerse como opciones de respuesta únicamente "Hotel" y "Camping" , pues una parte de los turistas se pudo haber alojado en vivienda de familiares o amigos, segundas viviendas, casas o departamentos de alquiler, etc.
 
-Nuevamente, **es preciso que los sistemas de categorías de las variables sean comparables entre sí**. Ello no implica que deban ser exactamente iguales, pero sí deben ser equivalentes en determinado punto. Por ejemplo, ciertos destinos, como Bariloche o Carlos Paz, podrían considerar relevante presentar por separado el motivo "Viaje de egresados", que constituye un subtipo del motivo "Ocio, recreación, esparcimiento", mientras que en otros lugares esto no sería necesario y, eventualmente, de surgir algún caso con este motivo, sería incluido en la categoría general de "Ocio, recreación, esparcimiento". Como puede observarse, esto no afecta la comparabilidad, pues al momento de comparar la preeminencia de los viajes por ocio, simplemente sería suficiente con que las dos localidades mencionadas agreguen en una misma categoría tanto a los visitantes que han viajado por motivo de su viaje de egresados como a los que lo han hecho por otras razones ligadas al ocio o esparcimiento. Esto no debería constituir una salvedad, sino que incluso, en vistas de la necesidad de armonizar las estadísticas provinciales y locales, **es recomendable partir de sistemas de categorías comparables a un determinado nivel con bajo nivel de apertura, a partir del cual cada destino pueda desagregar aquellas cuestiones que considera relevantes**[^propuestas_metodologicas-80].\
+Nuevamente, **es preciso que los sistemas de categorías de las variables sean comparables entre sí**. Ello no implica que deban ser exactamente iguales, pero sí deben ser equivalentes en determinado punto. Por ejemplo, ciertos destinos, como Bariloche o Carlos Paz, podrían considerar relevante presentar por separado el motivo "Viaje de egresados" , que constituye un subtipo del motivo "Ocio, recreación, esparcimiento" , mientras que en otros lugares esto no sería necesario y, eventualmente, de surgir algún caso con este motivo, sería incluido en la categoría general de "Ocio, recreación, esparcimiento". Como puede observarse, esto no afecta la comparabilidad, pues al momento de comparar la preeminencia de los viajes por ocio, simplemente sería suficiente con que las dos localidades mencionadas agreguen en una misma categoría tanto a los visitantes que han viajado por motivo de su viaje de egresados como a los que lo han hecho por otras razones ligadas al ocio o esparcimiento. Esto no debería constituir una salvedad, sino que incluso, en vistas de la necesidad de armonizar las estadísticas provinciales y locales, **es recomendable partir de sistemas de categorías comparables a un determinado nivel con bajo nivel de apertura, a partir del cual cada destino pueda desagregar aquellas cuestiones que considera relevantes**[^propuestas_metodologicas-80].\
 
 [^propuestas_metodologicas-80]: Esto es especialmente aplicable a lo referido a una variable crucial como el tipo de alojamiento utilizado, donde la variabilidad que se encuentra en los distintos destinos del país es muy alta.
 
-No obstante, es preciso remarcar que un sistema de categorías, en atención a los requisitos planteados, pero también al contexto de la entrevista y al tamaño de la muestra, debe **presentar un nivel de apertura razonable**. Por un lado, si el tipo de pregunta indica que las opciones de respuesta deben ser leídas al entrevistado (preguntas de respuesta **guiada**), un listado largo probablemente resulte cansador y genere un déficit de atención en el entrevistado que lo lleve a responder incorrectamente, mientras que del lado de quien aplica la encuesta puede haber errores en el registro de la opción indicada por el encuestado. Por otra parte, las más de las veces la inclusión de largos listados resulta una carga de trabajo inútil, pues los resultados obtenidos para las categorías con mayor prevalencia carecerán de una mínima robustez estadística. Por lo general, si bien esto dependerá del tamaño de cada muestra, categorías cuya participación en el total de respuesta sea inferior al $3\%$ o bien correspondan a menos de 25 casos estarán sometidas a un nivel de error estadístico muy grande que harán inviable su comparación entre distintos grupos o bien a lo largo del tiempo. En este punto, la inclusión de la categoría "Otros", donde registrar los casos no especificados en las categorías listadas, siempre resulta de utilidad (y, además, garantiza la exhaustividad del sistema de categorías).
+No obstante, es preciso remarcar que un sistema de categorías, en atención a los requisitos planteados, pero también al contexto de la entrevista y al tamaño de la muestra, debe **presentar un nivel de apertura razonable**. Por un lado, si el tipo de pregunta indica que las opciones de respuesta deben ser leídas al entrevistado (preguntas de respuesta **guiada**), un listado largo probablemente resulte cansador y genere un déficit de atención en el entrevistado que lo lleve a responder incorrectamente, mientras que del lado de quien aplica la encuesta puede haber errores en el registro de la opción indicada por el encuestado. Por otra parte, las más de las veces la inclusión de largos listados resulta una carga de trabajo inútil, pues los resultados obtenidos para las categorías con mayor prevalencia carecerán de una mínima robustez estadística. Por lo general, si bien esto dependerá del tamaño de cada muestra, categorías cuya participación en el total de respuesta sea inferior al $3\%$ o bien correspondan a menos de 25 casos estarán sometidas a un nivel de error estadístico muy grande que harán inviable su comparación entre distintos grupos o bien a lo largo del tiempo. En este punto, la inclusión de la categoría "Otros" , donde registrar los casos no especificados en las categorías listadas, siempre resulta de utilidad (y, además, garantiza la exhaustividad del sistema de categorías).
 
 Finalmente, cabe hacer mención a la "**no respuesta**". Esto puede deberse o bien al desconocimiento del entrevistado o bien a su negativa a responder una determinada pregunta (diferencia que al menos en algunas preguntas, y de ser posible, es conveniente registrar). Si bien siempre el dispositivo de carga de la información debe contemplar esta situación, no es recomendable incluir en el formulario esta opción (excepto que ello suceda en preguntas como el gasto, donde es esperable cierto nivel de no respuesta), pues el entrevistador podría verse tentado a señalar dicha opción en lugar de profundizar la indagación hasta obtener una respuesta válida[^propuestas_metodologicas-81].
 
@@ -1083,7 +1083,7 @@ Es importante remarcar que el gasto en los servicios contenidos dentro del paque
 
 Cabe señalar que tanto la ETI como la EVyTH en su versión 2006 se nutren de esta clasificación y la profundizan, constituyendo un insumo esencial a la hora de plantear la construcción de la Cuenta Satélite de Turismo.
 
-```{r Gastototal, echo=FALSE, fig.cap="figura3", out.width='100%' }
+```{r Gastototal, echo=FALSE, fig.cap="figura3" , out.width='100%' }
 knitr::include_graphics('imagenes/figura_3.png')
 ```
 
@@ -1121,7 +1121,7 @@ Finalmente, un tema de especial relevancia lo constituye el transporte[^propuest
 
 [^propuestas_metodologicas-97]: De acuerdo a la EVyTH 2006, entre los viajes realizados por los residentes del país dentro del mismo, aproximadamente el $30\%$ del gasto turístico total corresponde al transporte desde, hacia y entre los destinos del viaje.
 
-```{r Tipodetraslado, echo=FALSE, fig.cap="Tabla5", out.width='100%' }
+```{r Tipodetraslado, echo=FALSE, fig.cap="Tabla5" , out.width='100%' }
 knitr::include_graphics('imagenes/tabla_5.png')
 ```
 
@@ -1141,7 +1141,7 @@ Cómo se ha mencionado (ver apartado 2.4.3), dicho formulario pretende constitui
 
 Con el objetivo de evitar la duplicación de los gastos, la estrategia consiste en relevar únicamente los gastos del viaje relativos a la localidad de referencia, pero excediendo el alcance de las mediciones habituales, que se ciñen al gasto en ese destino (lo cual puede ser pertinente desde la perspectiva de una localidad), sin considerar el gasto realizado en la localidad donde residen los visitantes (para quienes residen en la misma provincia), el gasto en transporte, y, en muchos casos, el gasto realizado en visitas del día a otras localidades mientras se encuentran alojados en la localidad de referencia.
 
-El **gasto en la localidad de residencia** en consumos directamente relacionados con el viaje (alimentos y bebidas, transporte hacia terminales o aeropuerto, alquiler de vehículos, impresión de fotografías al regreso, etc.)[^propuestas_metodologicas-99] se indaga únicamente para los visitantes residentes en otras localidades de la provincia (pues carece de importancia cuando este gasto se realiza fuera del territorio provincial) en los siguientes casos: excursionistas "puros", es decir, aquellos que viajan por el día desde su localidad de residencia a la localidad de referencia; turistas que tienen como único destino la localidad de referencia; turistas que llegan desde su lugar de residencia pero que pernoctarán posteriormente en otra localidad (en este caso, sólo se indaga por los gastos realizados antes del viaje) y turistas que no llegan desde su localidad pero que desde la localidad de referencia regresarán a ella (aquí se pide que estimen los gastos que realizarán después del viaje)[^propuestas_metodologicas-100]. Es decir, además de los no residentes en la provincia, no se indaga sobre este gasto en aquellos turistas de la localidad de referencia que no provienen ni regresan desde allí a su localidad de residencia, ni en aquellos que son excursionistas de la localidad de referencia pero que están alojados en otra localidad.
+El **gasto en la localidad de residencia** en consumos directamente relacionados con el viaje (alimentos y bebidas, transporte hacia terminales o aeropuerto, alquiler de vehículos, impresión de fotografías al regreso, etc.)[^propuestas_metodologicas-99] se indaga únicamente para los visitantes residentes en otras localidades de la provincia (pues carece de importancia cuando este gasto se realiza fuera del territorio provincial) en los siguientes casos: excursionistas "puros" , es decir, aquellos que viajan por el día desde su localidad de residencia a la localidad de referencia; turistas que tienen como único destino la localidad de referencia; turistas que llegan desde su lugar de residencia pero que pernoctarán posteriormente en otra localidad (en este caso, sólo se indaga por los gastos realizados antes del viaje) y turistas que no llegan desde su localidad pero que desde la localidad de referencia regresarán a ella (aquí se pide que estimen los gastos que realizarán después del viaje)[^propuestas_metodologicas-100]. Es decir, además de los no residentes en la provincia, no se indaga sobre este gasto en aquellos turistas de la localidad de referencia que no provienen ni regresan desde allí a su localidad de residencia, ni en aquellos que son excursionistas de la localidad de referencia pero que están alojados en otra localidad.
 
 [^propuestas_metodologicas-99]: Se excluye taxativamente en la formulación de la pregunta la contratación de servicios vía Internet o por medio de agencias de viaje "físicas" de la localidad de origen del transporte, de paquetes turísticos y de cualquier producto turístico (alojamiento, excursiones, alquiler de vehículo, etc.) cuyo consumo sea realizado en el destino.
 
@@ -1217,7 +1217,7 @@ Las encuestas de perfil se suelen realizar a individuos en tanto que forman part
 
 En base a esta información se puede estimar el gasto diario promedio. Si bien hay diversas formas de arribar a un resultado, sólo una de ellas es matemáticamente correcta (sin embargo, lamentablemente, no es esta forma la que habitualmente se utiliza). Cómo se verá, esto está íntimamente ligado con la forma en que se definen el universo bajo estudio, las unidades de análisis y las unidades de relevamiento. A continuación se desarrolla en detalle un ejemplo para echar luz sobre esta determinante cuestión.
 
-```{r Casos, echo=FALSE, fig.cap="Tabla6", out.width='100%' }
+```{r Casos, echo=FALSE, fig.cap="Tabla6" , out.width='100%' }
 knitr::include_graphics('imagenes/tabla_6.png')
 ```
 
@@ -1239,7 +1239,7 @@ Ahora bien, ¿las tres formas son correctas? En caso negativo, ¿se puede identi
 
 De la tabla anterior, la suma de los turistas que componían los tres grupos de los que formaban parte los encuestados arroja un total de 11 turistas entre los que se contabilizan 72 pernoctes y un gasto total de \$21.000. ¿Qué sucede con los totales en cada reconstrucción frente al total real?
 
-```{r Totalreal, echo=FALSE, fig.cap="Tabla7", out.width='100%' }
+```{r Totalreal, echo=FALSE, fig.cap="Tabla7" , out.width='100%' }
 knitr::include_graphics('imagenes/tabla_7.png')
 ```
 
@@ -1259,9 +1259,9 @@ Para dar respuesta a este interrogante, se recurrirá a un ejemplo contundente y
 
 Aplicando las fórmulas comentadas más arriba sobre la base de datos de la EVyTH, de acuerdo a la forma de cálculo 1, la estadía promedio sería de 5,67 noches mientras que la media del gasto diario llegaría a \$341,9. En la forma 2, se replica la estadía (5,65 noches) y el gasto diario promedio se ubica en \$246,1. Finalmente, de acuerdo a la forma de cálculo 3, la estadía promedio era de 5,65 noches (valor muy similar a los anteriores), mientras que el gasto promedio era de \$197,4, valor sustancialmente inferior a los de las otras dos formas de cálculo, especialmente al correspondiente a la forma 1.
 
-Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo", obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un $73,7\%$ al valor correcto (\$58.594 millones frente a los \$33.739 millones reales).
+Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo" , obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un $73,7\%$ al valor correcto (\$58.594 millones frente a los \$33.739 millones reales).
 
-```{r Formadecalculo, echo=FALSE, fig.cap="Tabla8", out.width='100%' }
+```{r Formadecalculo, echo=FALSE, fig.cap="Tabla8" , out.width='100%' }
 knitr::include_graphics('imagenes/tabla_8.png')
 ```
 
@@ -1277,7 +1277,7 @@ Esto obedece a que el gasto turístico (al igual que en muchos otros casos) resp
 
 [^propuestas_metodologicas-110]: Para dar un ejemplo cotidiano: suponiendo que una habitación doble para dos personas en un hotel cuesta \$500, el gasto diario en alojamiento para cada una de las personas será de \$250. Si sólo viajara una persona, el costo de una habitación (la misma u otra simple), sería el mismo o algo menor, pero difícilmente la mitad de aquel. Así, si el costo de una habitación en el mismo hotel para una persona fuera de \$400, es evidente que el gasto diario en este rubro resulta superior al que se registraba cuando la habitación la compartían dos personas (\$250).
 
-[^propuestas_metodologicas-111]: Nuevamente, hay ciertos gastos que adquieren la forma de "componente fijo" en el gasto total del viaje, como es el caso del transporte a destino, donde se gastará lo mismo sea cual sea la estadía (por ejemplo \$1.000), pero su monto en el gasto diario dependerá de cuánto dure la estadía: si la estadía se extiende por dos noches, el gastos diario en transporte será de \$500, en cambio, si el viaje se extiende por 20 noches, el gasto diario en transporte será de sólo \$50; además, no sólo caerá su valor absoluto, sino también su peso relativo: cuanto más se extienda el viaje, menor será el gasto en transporte en relación al resto de los rubros (por ejemplo, alimentación y alojamiento). En otros rubros, la relación no es tan directa pero evidentemente existe: el tipo de gasto en comidas y bebidas no será el mismo para quien viaja una noche (y que probablemente concurrirá a restaurantes para alimentarse) para quien lo hace por dos semanas, donde quizás acuda algunas veces a restaurantes pero otras se alimente mediante estrategias más económicas (comprar comida "para llevar", cocinar sus propios alimentos, etc.): si bien en el segundo caso el monto global del gasto en alimentación será mayor que en el primero, al prorratear ese monto por la extensión del viaje el gasto diario de quien viajó por una noche y se alimentó en restaurante será sustancialmente superior.
+[^propuestas_metodologicas-111]: Nuevamente, hay ciertos gastos que adquieren la forma de "componente fijo" en el gasto total del viaje, como es el caso del transporte a destino, donde se gastará lo mismo sea cual sea la estadía (por ejemplo \$1.000), pero su monto en el gasto diario dependerá de cuánto dure la estadía: si la estadía se extiende por dos noches, el gastos diario en transporte será de \$500, en cambio, si el viaje se extiende por 20 noches, el gasto diario en transporte será de sólo \$50; además, no sólo caerá su valor absoluto, sino también su peso relativo: cuanto más se extienda el viaje, menor será el gasto en transporte en relación al resto de los rubros (por ejemplo, alimentación y alojamiento). En otros rubros, la relación no es tan directa pero evidentemente existe: el tipo de gasto en comidas y bebidas no será el mismo para quien viaja una noche (y que probablemente concurrirá a restaurantes para alimentarse) para quien lo hace por dos semanas, donde quizás acuda algunas veces a restaurantes pero otras se alimente mediante estrategias más económicas (comprar comida "para llevar" , cocinar sus propios alimentos, etc.): si bien en el segundo caso el monto global del gasto en alimentación será mayor que en el primero, al prorratear ese monto por la extensión del viaje el gasto diario de quien viajó por una noche y se alimentó en restaurante será sustancialmente superior.
 
 [^propuestas_metodologicas-112]: Evidentemente, existe un amplio abanico de variables relacionadas con el nivel del monto del gasto de los turistas (el tipo de alojamiento, las actividades realizadas, los lugares y formas de alimentarse, etc.), pero esas variables están referidas a la multiplicidad de características que puede asumir un viaje y, por tanto, con los valores que asumirá dicho gasto en cada contexto específico, lo cual es algo independiente y totalmente distinto a los errores en las fórmulas de estimación de los indicadores, que es lo que aquí se pone en cuestión.
 
@@ -1295,12 +1295,12 @@ library(ggtext)
 cols_arg <- "#37BBED"
 
 #Secundarios
-cols_arg2 <- c("#EE3D8F", # "ROJO"
-               "#50B8B1", # "VERDE"
-               "#F7941E","#FFD100","#D7DF23", "#9283BE")
+cols_arg2 <- c("#EE3D8F" , # "ROJO"
+               "#50B8B1" , # "VERDE"
+               "#F7941E" ,"#FFD100" ,"#D7DF23" , "#9283BE")
 # Tema para visualización
 theme_imet <- function() {
-  theme(legend.position = "none",
+  theme(legend.position = "none" ,
         plot.subtitle  = element_markdown(), 
         text = element_text(family = familia_fuente))
 }
@@ -1314,15 +1314,15 @@ familia_fuente <- fonttable() %>%
   unique()
 #Gráficos 18
 #Gráfico 18_a
-data_grafico18_a <- data.frame(Integrantes = c("Uno","Dos","Tres","Cuatro","Cinco","Seis o más","Total"),
+data_grafico18_a <- data.frame(Integrantes = c("Uno" ,"Dos" ,"Tres" ,"Cuatro" ,"Cinco" ,"Seis o más" ,"Total"),
            Media = c(1674L,1236L,927L,781L,634L,553L,1003L))
 
-grafico_18a <- ggplot(data_grafico18_a[data_grafico18_a$Integrantes != "Total",],aes(x=factor(Integrantes,levels = c("Uno","Dos","Tres",
-                                                                           "Cuatro","Cinco",
-                                                                           "Seis o más","Total")),y=Media))+
+grafico_18a <- ggplot(data_grafico18_a[data_grafico18_a$Integrantes != "Total" ,],aes(x=factor(Integrantes,levels = c("Uno" ,"Dos" ,"Tres" ,
+                                                                           "Cuatro" ,"Cinco" ,
+                                                                           "Seis o más" ,"Total")),y=Media))+
   geom_col(fill=cols_arg2[2])+
-  geom_hline(yintercept = data_grafico18_a[data_grafico18_a$Integrantes == "Total","Media"],linetype="dashed")+
-  geom_text(aes(x="Seis o más",y=data_grafico18_a[data_grafico18_a$Integrantes == "Total","Media"],label="Total"),
+  geom_hline(yintercept = data_grafico18_a[data_grafico18_a$Integrantes == "Total" ,"Media"],linetype="dashed")+
+  geom_text(aes(x="Seis o más" ,y=data_grafico18_a[data_grafico18_a$Integrantes == "Total" ,"Media"],label="Total"),
             vjust= -.5)+
   theme_minimal() +
   scale_y_continuous(breaks = seq(0,1700,by=100),labels = scales::number_format(big.mark = "."))+
@@ -1331,19 +1331,19 @@ grafico_18a <- ggplot(data_grafico18_a[data_grafico18_a$Integrantes != "Total",]
     plot.title    = element_text(size = 10, face = "bold"),
     plot.subtitle = element_text(size = 8, face = "bold"),
     plot.caption  = element_text(size = 5),
-    plot.caption.position = "plot",
+    plot.caption.position = "plot" ,
     axis.text.x   = element_text(size = 8,angle=90,hjust=0.95),
     axis.text.y   = element_markdown(size=6),
     panel.grid.major.x = element_blank(),
     #panel.grid.minor.x = element_blank(),
     panel.grid.major.y = element_line( size = .1),
-    legend.position = "none",
-    strip.placement = "outside",
+    legend.position = "none" ,
+    strip.placement = "outside" ,
     strip.text.y = element_text(size = 5),
     strip.text.y.right = element_text(angle = 0)
   )+
-  labs(x="Grupo de viaje (Turistas)",y="Gasto diario promedio",
-       title="Gasto diario promedio por turista según cantidad de turistas en el grupo de viaje",
+  labs(x="Grupo de viaje (Turistas)" ,y="Gasto diario promedio" ,
+       title="Gasto diario promedio por turista según cantidad de turistas en el grupo de viaje" ,
        subtitle="Turismo Interno, EVyTH 2019"
   )
 ###################
@@ -1351,25 +1351,25 @@ grafico_18a <- ggplot(data_grafico18_a[data_grafico18_a$Integrantes != "Total",]
 data_grafico18_b <- data.frame(
     stringsAsFactors = FALSE,
          check.names = FALSE,
-                                 estadia = c("1","2","3",
-                                                        "4","5","6","7",
-                                                        "8","9","10","11 a 13",
-                                                        "14 a 15","16 a 20",
-                                                        "21 a 30","Más de 30","Total"),
+                                 estadia = c("1" ,"2" ,"3" ,
+                                                        "4" ,"5" ,"6" ,"7" ,
+                                                        "8" ,"9" ,"10" ,"11 a 13" ,
+                                                        "14 a 15" ,"16 a 20" ,
+                                                        "21 a 30" ,"Más de 30" ,"Total"),
                                               gasto.prom = c(1672L,1126L,
                                                         1338L,1402L,1467L,
                                                         1139L,1079L,1667L,1069L,
                                                         1079L,772L,691L,
                                                         599L,459L,217L,1003L)
                                )
-grafico_18b <- ggplot(data_grafico18_b[data_grafico18_b$estadia != "Total",],aes(x=factor(estadia,levels = c("1","2","3",
-                                                                                                             "4","5","6","7",
-                                                                                                             "8","9","10","11 a 13",
-                                                                                                             "14 a 15","16 a 20",
-                                                                                                             "21 a 30","Más de 30")),y=gasto.prom))+
+grafico_18b <- ggplot(data_grafico18_b[data_grafico18_b$estadia != "Total" ,],aes(x=factor(estadia,levels = c("1" ,"2" ,"3" ,
+                                                                                                             "4" ,"5" ,"6" ,"7" ,
+                                                                                                             "8" ,"9" ,"10" ,"11 a 13" ,
+                                                                                                             "14 a 15" ,"16 a 20" ,
+                                                                                                             "21 a 30" ,"Más de 30")),y=gasto.prom))+
   geom_col(fill=cols_arg2[4])+
-  geom_hline(yintercept = data_grafico18_b[data_grafico18_b$estadia == "Total","gasto.prom"],linetype="dashed")+
-  geom_text(aes(x="Más de 30",y=data_grafico18_b[data_grafico18_b$estadia == "Total","gasto.prom"],label="Total"),
+  geom_hline(yintercept = data_grafico18_b[data_grafico18_b$estadia == "Total" ,"gasto.prom"],linetype="dashed")+
+  geom_text(aes(x="Más de 30" ,y=data_grafico18_b[data_grafico18_b$estadia == "Total" ,"gasto.prom"],label="Total"),
             vjust= -.5)+
   theme_minimal() +
   scale_y_continuous(breaks = seq(0,1700,by=100),labels = scales::number_format(big.mark = "."))+
@@ -1378,19 +1378,19 @@ grafico_18b <- ggplot(data_grafico18_b[data_grafico18_b$estadia != "Total",],aes
     plot.title    = element_text(size = 10, face = "bold"),
     plot.subtitle = element_text(size = 8, face = "bold"),
     plot.caption  = element_text(size = 5),
-    plot.caption.position = "plot",
+    plot.caption.position = "plot" ,
     axis.text.x   = element_text(size = 8,angle=90,hjust=0.95),
     axis.text.y   = element_markdown(size=6),
     panel.grid.major.x = element_blank(),
     #panel.grid.minor.x = element_blank(),
     panel.grid.major.y = element_line( size = .1),
-    legend.position = "none",
-    strip.placement = "outside",
+    legend.position = "none" ,
+    strip.placement = "outside" ,
     strip.text.y = element_text(size = 5),
     strip.text.y.right = element_text(angle = 0)
   )+
-  labs(x="Estadía (Noches)",y="Gasto diario promedio",
-       title="Gasto diario promedio según estadía",
+  labs(x="Estadía (Noches)" ,y="Gasto diario promedio" ,
+       title="Gasto diario promedio según estadía" ,
        subtitle="Turismo Interno, EVyTH 2019"
   )
 #####################################################
@@ -1398,25 +1398,25 @@ grafico_18b <- ggplot(data_grafico18_b[data_grafico18_b$estadia != "Total",],aes
 data_grafico18_c <- data.frame(
   stringsAsFactors = FALSE,
        check.names = FALSE,
-                                              suma.pernoctes = c("1","2","3 ó 4","5 ó 6",
-                                                      "7 a 10","11 a 14",
-                                                      "15 a 19","20 a 25",
-                                                      "26 a 30","31 a 40","41 a 50",
-                                                      "51 a 75","76 a 100",
-                                                      "Más de 100","Total"),
+                                              suma.pernoctes = c("1" ,"2" ,"3 ó 4" ,"5 ó 6" ,
+                                                      "7 a 10" ,"11 a 14" ,
+                                                      "15 a 19" ,"20 a 25" ,
+                                                      "26 a 30" ,"31 a 40" ,"41 a 50" ,
+                                                      "51 a 75" ,"76 a 100" ,
+                                                      "Más de 100" ,"Total"),
                                            gasto.prom = c(3951L,2347L,1898L,1613L,
                                                       1365L,1065L,1074L,940L,
                                                       828L,814L,663L,606L,
                                                       439L,240L,1003L)
                                )
 
-grafico_18c <- ggplot(data_grafico18_c[data_grafico18_c$suma.pernoctes != "Total",],aes(x=factor(suma.pernoctes,levels = c("1","2","3 ó 4","5 ó 6","7 a 10",
-                                                                              "11 a 14","15 a 19","20 a 25","26 a 30","31 a 40",
-                                                                              "41 a 50","51 a 75","76 a 100","Más de 100",
+grafico_18c <- ggplot(data_grafico18_c[data_grafico18_c$suma.pernoctes != "Total" ,],aes(x=factor(suma.pernoctes,levels = c("1" ,"2" ,"3 ó 4" ,"5 ó 6" ,"7 a 10" ,
+                                                                              "11 a 14" ,"15 a 19" ,"20 a 25" ,"26 a 30" ,"31 a 40" ,
+                                                                              "41 a 50" ,"51 a 75" ,"76 a 100" ,"Más de 100" ,
                                                                               "Total")),y=gasto.prom))+
   geom_col(fill=cols_arg2[6])+
-  geom_hline(yintercept = data_grafico18_c[data_grafico18_c$suma.pernoctes == "Total","gasto.prom"],linetype="dashed")+
-  geom_text(aes(x="Más de 100",y=data_grafico18_c[data_grafico18_c$suma.pernoctes == "Total","gasto.prom"],label="Total"),
+  geom_hline(yintercept = data_grafico18_c[data_grafico18_c$suma.pernoctes == "Total" ,"gasto.prom"],linetype="dashed")+
+  geom_text(aes(x="Más de 100" ,y=data_grafico18_c[data_grafico18_c$suma.pernoctes == "Total" ,"gasto.prom"],label="Total"),
             vjust= -.5)+
   theme_minimal() +
   scale_y_continuous(breaks = seq(0,4000,by=500),labels = scales::number_format(big.mark = "."))+
@@ -1425,20 +1425,20 @@ grafico_18c <- ggplot(data_grafico18_c[data_grafico18_c$suma.pernoctes != "Total
     plot.title    = element_text(size = 10, face = "bold"),
     plot.subtitle = element_text(size = 8, face = "bold"),
     plot.caption  = element_text(size = 5),
-    plot.caption.position = "plot",
+    plot.caption.position = "plot" ,
     axis.text.x   = element_text(size = 8,angle=90,hjust=0.95),
     axis.text.y   = element_markdown(size=6),
     panel.grid.major.x = element_blank(),
     #panel.grid.minor.x = element_blank(),
     panel.grid.major.y = element_line( size = .1),
-    legend.position = "none",
-    strip.placement = "outside",
+    legend.position = "none" ,
+    strip.placement = "outside" ,
     strip.text.y = element_text(size = 5),
     strip.text.y.right = element_text(angle = 0)
   )+
-  labs(x="Suma de pernoctes del grupo de viaje (turistas x estadía)",y="Gasto diario promedio",
+  labs(x="Suma de pernoctes del grupo de viaje (turistas x estadía)" ,y="Gasto diario promedio" ,
        title="Gasto diario promedio según suma de
-pernoctes del grupo de viaje (turistas x estadía)",
+pernoctes del grupo de viaje (turistas x estadía)" ,
        subtitle="Turismo Interno, EVyTH 2019"
   )
 
@@ -1508,7 +1508,7 @@ La recepción y el análisis constituye una etapa crucial, pues allí deben apli
 
 Al respecto, pueden mencionarse inconsistencias de dos tipos: errores, es decir situaciones que carecen de lógica (por ejemplo, si un grupo de viaje encuestado menciona haberse alojado en un hotel, no puede no tener gasto en alojamiento) y advertencias, es decir, situaciones que si bien no son normales o esperadas, pueden llegar a ser verdaderas, pero requieren de una explicación que así lo justifique (por ejemplo, puede no haber gastos en el día de referencia de la indagación de los gastos porque ese día el grupo de viaje se alojó en la casa de familiares, donde comieron sobras de una fiesta del día anterior). Para organizar y hacer más eficiente esta etapa del trabajo, es recomendable preparar previamente **listados de consistencias** estandarizados.
 
-Otro insumo para este puesto de trabajo son los **libros de códigos**, es decir, tablas que permitan consignar códigos a las respuestas a preguntas abiertas, referidas a lugares geográficos, opiniones, etc. Del mismo modo, en esta etapa debe revisarse la descripción que comúnmente acompaña al registro de la opción "otros", evaluando si realmente se trata de una respuesta no contenida en las opciones previstas o si debe ser asignada a alguna de ellas.
+Otro insumo para este puesto de trabajo son los **libros de códigos**, es decir, tablas que permitan consignar códigos a las respuestas a preguntas abiertas, referidas a lugares geográficos, opiniones, etc. Del mismo modo, en esta etapa debe revisarse la descripción que comúnmente acompaña al registro de la opción "otros" , evaluando si realmente se trata de una respuesta no contenida en las opciones previstas o si debe ser asignada a alguna de ellas.
 
 Cuanto más se compriman temporalmente las etapas de levantamiento de las encuestas, de la recepción y análisis y de la carga informática de las mismas, mayor será la calidad de la información, pues cuanto menor tiempo transcurra entre ellas, mayor será la oportunidad de corregir errores u omisiones en el registro de las respuestas por parte de los encuestadores.
 
