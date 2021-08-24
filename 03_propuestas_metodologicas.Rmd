@@ -365,7 +365,7 @@ Así, manteniendo constantes los otros elementos (tamaño de la muestra y nivel 
 [^propuestas_metodologicas-32]: Esto sucede porque el producto de $p^*q$ disminuye a medida que el valor estimado se aleja del $50\%$, donde el componente dispersión asume el máximo valor, es decir $0,25$ ($0,5^*0,5$). En los casos mencionados ($p=20\%$ y $p=80\%$) $p^*q$ asume el mismo valor, que es inferior a $0,25\%$ (lógicamente, $0,8^*0,2$ es equivalente a $0,2^*0,8$, y el producto de ambos términos asciende a $0,16$)
 
 ::: {.note}
-$$e = z ^2 pqn = (1,6452 ^* (0,2 ^* 0,8)752 = (2,706 ^* 0,16)752 = 0,432964752 = 0,024 = 2,4%$$
+$$ e = \sqrt{\frac{z^2pq}{n}} = \sqrt{\frac{(1,6452^2 * (0,2 * 0,8))}{752}} = \sqrt{\frac{(2,7 * 0,16)}{752}} = \sqrt{\frac{0,43}{752}} = 0,024 = 2,4 \% $$
 :::
 
 No obstante, debe notarse que el nivel de error relativo disminuye significativamente en forma inversamente proporcional al valor de la estimación. Así, el intervalo de confianza de una estimación del $3\%$ muestra una gran variabilidad (oscila entre el $2\%$ y el $4\%$), brindando realmente poca precisión para la estimación obtenida (es decir, los elementos del universo que cumplen con la condición estimada pueden ser o bien uno de cada $50$ o bien uno de cada $25$); en cambio, el intervalo de confianza de una estimación del $97\%$ se ubica entre $96\%$ y $98\%$: si bien el rango entre el límite inferior y el superior para ambas estimaciones es de dos puntos porcentuales (lo que equivale a un margen de error de $1\%$), en este caso sí permite obtener una conclusión fuerte: la gran mayoría de los elementos del universo cumplen con la condición estimada (es decir, son varones, o extranjeros, o adquirieron paquetes turístico, etc.).
