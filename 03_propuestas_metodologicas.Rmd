@@ -1464,17 +1464,18 @@ ggsave(grafico_18c, filename = "imagenes/grafico_18c.png")
 
 
 
-```{r grafico18a, echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+```{r grafico18a, caption = "Gasto diario promedio por turista según cantidad de turistas en el grupo de viaje", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
 knitr::include_graphics("imagenes/DT4_grafico18_a.jpg")
 ```
 
 
-```{r grafico18b, echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+```{r grafico18b,caption = "Gasto diario promedio según estadía", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
 knitr::include_graphics("imagenes/DT4_grafico18_b.jpg")
 ```
 
 
-```{r grafico18c,  echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+```{r grafico18c, caption = "Gasto diario promedio según suma de
+pernoctes del grupo de viaje (turistas x estadía)", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
 knitr::include_graphics("imagenes/DT4_grafico18_c.jpg")
 ```
 
