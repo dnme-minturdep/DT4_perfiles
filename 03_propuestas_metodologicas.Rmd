@@ -675,7 +675,7 @@ El ponderador final indica a cuantos casos del universo representa cada caso de 
 Nótese que, por ejemplo, la suma de los ponderadores de quienes residen en el exterior y pernoctaron en el destino (casos 4, 7 y 19) asciende a 34 personas ($17+4,25+12,75$). Como puede observarse, el resultado del total de personas para cada segmento (definido por lugar de residencia y pernocte o no en el destino) coincide exactamente con la información del marco (pues, justamente, la función de este ponderador es expandir a toda la población respetando la participación en la población de cada uno de los segmentos que es posible definir a partir de los datos del marco muestral). En otras palabras, aquí se demuestra cómo los ponderadores permiten que los resultados obtenidos de la muestra sean representativos de la población en relación a dos variables relevantes, el lugar de residencia y la pernoctación o no en el destino.
 
 
-```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3" , out.width='100%' }
+```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Ejemplificación de cómo se reproduce la estructura poblacional, en base a la clasificación de las personas que ingresan a un Centro de Información Turística, en una muestra luego del uso de ponderadores para expandir los resultados de la misma" , out.width='100%' }
 
 knitr::include_graphics('imagenes/tabla_3.png')
 ```
