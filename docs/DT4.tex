@@ -868,7 +868,7 @@ Nótese que, por ejemplo, la suma de los ponderadores de quienes residen en el e
 
 }
 
-\caption{Tabla3}\label{fig:Clasificaciondepersonas}
+\caption{Ejemplificación de cómo se reproduce la estructura poblacional, en base a la clasificación de las personas que ingresan a un Centro de Información Turística, en una muestra luego del uso de ponderadores para expandir los resultados de la misma}\label{fig:Clasificaciondepersonas}
 \end{figure}
 
 Lógicamente, la finalidad de esos ponderadores no es reconstruir los datos del marco sino permitir realizar estimaciones estadísticamente válidas para las variables que se procura analizar mediante la encuesta de perfil, garantizando la representatividad de la muestra en cuanto a parámetros importantes de la población\footnote{El parámetro es el resultado conocido que una variable adquiere para toda la población o universo bajo estudio. Ajustar los ponderadores a esos parámetros garantiza que no se introducirán sesgos relacionados con esas variables, es decir que, por ejemplo, el peso que los residentes en el exterior tendrán en los resultados obtenidos mediante la encuesta por muestreo será el mismo que tienen en el universo.}.
@@ -1397,8 +1397,9 @@ En base a esta información se puede estimar el gasto diario promedio. Si bien h
 
 \textbf{Forma de cálculo 3}: En esta alternativa se toman en cuenta tanto los integrantes de cada grupo como su estadía. La estadía promedio surge de dividir la suma de los pernoctes totales (estadía por cantidad de integrantes) de todos los grupos por la suma de los turistas de cada grupo. En tanto, el gasto promedio diario surge de dividir la suma de los gastos totales de los grupos por la suma de los pernoctes totales de los grupos.
 
-Estadía promedio 72/11 = 6,5
-Gasto diario promedio 21000/72 = 292
+Estadía promedio = 72/11 = 6,5
+
+Gasto diario promedio = 21000/72 = 292
 
 Como puede apreciarse en este ejemplo ficticio, las formas de cálculo arrojan resultados sensiblemente diferentes en el caso de la estadía promedio y muy distinto en el caso del gasto promedio diario.
 
@@ -1412,7 +1413,7 @@ De la tabla anterior, la suma de los turistas que componían los tres grupos de 
 
 }
 
-\caption{Tabla7}\label{fig:Totalreal}
+\caption{Ejemplificación de las diferencias en la estimación del total de pernoctes y del gasto total según la forma de cálculo de la estadía promedio y el gasto promedio diario}\label{fig:Totalreal}
 \end{figure}
 
 Como se observa, \textbf{sólo a partir de la forma de cálculo 3 se obtienen resultados que permiten reconstruir correctamente el total}. Las dos primeras formas subestiman la cantidad total de noches -en la misma magnitud, pues la fórmula era idéntica- (66 noches contra 72 noches reales), mientras que el gasto total de los turistas en la primera forma casi duplica al gasto real (\$41.800 frente a \$21.000), mientras que en la segunda forma la estimación arroja resultados un \(15,2\%\) superior a los reales (\$24.200 versus \$21.000)\footnote{Esta segunda forma de cálculo arrojaría resultados válidos sí y sólo sí se trabajara con diseños muestrales donde la unidad de muestreo (aquellas teóricamente posibles de ser encuestadas) fuesen los individuos, sin importar el grupo de pertenencia (es decir, donde existiese la probabilidad de encuestar a dos o más integrantes de un mismo grupo, si la selección aleatoria así lo dispusiera). Cómo se comentó más arriba, esta posibilidad, quizás la ideal desde el punto de vista teórico, es impracticable en la realidad, debido a la complejidad que ello supondría para el trabajo de campo.}.
@@ -1433,7 +1434,7 @@ Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en
 
 }
 
-\caption{Tabla8}\label{fig:Formadecalculo}
+\caption{Ejemplificación de las diferencias en la estimación del total de pernoctes y del gasto total según la forma de cálculo de la estadía promedio y el gasto promedio diario en base a datos anuales del 2013 provenientes de la EVyTH}\label{fig:Formadecalculo}
 \end{figure}
 
 Estos resultados no indican que en todos los casos se registrará esta tendencia y menos aún que es esperable la misma brecha. No obstante, se trata de una simulación sobre una base de datos sumamente robusta, y con resultados contra los cuales contrastar las estimaciones obtenidas, lo cual permite extraer importantes conclusiones.
@@ -1450,7 +1451,7 @@ Esto obedece a que el gasto turístico (al igual que en muchos otros casos) resp
 
 \begin{center}\includegraphics[width=1\linewidth,height=1\textheight]{imagenes/DT4_grafico18_b} \end{center}
 
-\begin{center}\includegraphics[width=1\linewidth,height=1\textheight]{imagenes/DT4_grafico18_c} \end{center}
+\texttt{\{r\ grafico18c,\ caption\ =\ "Gasto\ diario\ promedio\ según\ suma\ de\ pernoctes\ del\ grupo\ de\ viaje\ (turistas\ x\ estadía)",\ echo=FALSE,warning=FALSE,message=FALSE,\ dev=\textquotesingle{}cairo\_pdf\textquotesingle{},\ out.width=\textquotesingle{}100\%\textquotesingle{},\ out.height=\textquotesingle{}100\%\textquotesingle{}\}\ knitr::include\_graphics("imagenes/DT4\_grafico18\_c.jpg")}
 
 Recapitulando, las formas 1 y 2 son incorrectas porque sus fórmulas no contemplan estas variables, y la cuestión de gasto de escala asociada a ellas. La forma 1 de calcular el gasto promedio es incorrecta porque no contempla ni el tamaño del grupo de viaje ni la extensión de la estadía, con lo cual, trayendo a cuenta un ejemplo extremo, a la hora de calcular el gasto diario valdrían lo mismo (pues se realiza un promedio simple) un turista japonés que viajó sólo y estuvo una noche en el destino, alojado en un hotel de alta categoría y utilizando servicios de alta gama, que un encuestado residente en la misma provincia, que viajó a otra localidad junto a toda su familia (cinco integrantes en total), con quienes se alojó en un camping económico durante 30 noches, procurando gastar lo menos posible en alimentación y sin gastar dinero, prácticamente, en otros rubros. En el caso de la forma 2 el error se subsana en parte, pues al estimar el gasto promedio diario de los turistas de un destino toma en cuenta la duración de la estadía (siguiendo el ejemplo, el turista japonés valdría uno, mientras el turista proveniente de provincia limítrofe valdría 30), pero sigue sin tomar en cuenta el tamaño del grupo de viaje. \textbf{La única manera entonces, de arribar a resultados válidos, es tomar en cuenta no sólo el nivel de gasto diario del encuestado sino también la duración de su estadía y el tamaño del grupo de viaje del que formaba parte}.
 
