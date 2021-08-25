@@ -675,7 +675,7 @@ El ponderador final indica a cuantos casos del universo representa cada caso de 
 Nótese que, por ejemplo, la suma de los ponderadores de quienes residen en el exterior y pernoctaron en el destino (casos 4, 7 y 19) asciende a 34 personas ($17+4,25+12,75$). Como puede observarse, el resultado del total de personas para cada segmento (definido por lugar de residencia y pernocte o no en el destino) coincide exactamente con la información del marco (pues, justamente, la función de este ponderador es expandir a toda la población respetando la participación en la población de cada uno de los segmentos que es posible definir a partir de los datos del marco muestral). En otras palabras, aquí se demuestra cómo los ponderadores permiten que los resultados obtenidos de la muestra sean representativos de la población en relación a dos variables relevantes, el lugar de residencia y la pernoctación o no en el destino.
 
 
-```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Tabla3" , out.width='100%' }
+```{r Clasificaciondepersonas, echo=FALSE, fig.cap="Ejemplificación de cómo se reproduce la estructura poblacional, en base a la clasificación de las personas que ingresan a un Centro de Información Turística, en una muestra luego del uso de ponderadores para expandir los resultados de la misma" , out.width='100%' }
 
 knitr::include_graphics('imagenes/tabla_3.png')
 ```
@@ -1239,8 +1239,9 @@ knitr::include_graphics('imagenes/tabla_6.png')
 ::: {.note}
 **Forma de cálculo 3**: En esta alternativa se toman en cuenta tanto los integrantes de cada grupo como su estadía. La estadía promedio surge de dividir la suma de los pernoctes totales (estadía por cantidad de integrantes) de todos los grupos por la suma de los turistas de cada grupo. En tanto, el gasto promedio diario surge de dividir la suma de los gastos totales de los grupos por la suma de los pernoctes totales de los grupos.
 
-Estadía promedio 72/11 = 6,5 
-Gasto diario promedio 21000/72 = 292
+Estadía promedio = 72/11 = 6,5
+
+Gasto diario promedio = 21000/72 = 292
 :::
 
 Como puede apreciarse en este ejemplo ficticio, las formas de cálculo arrojan resultados sensiblemente diferentes en el caso de la estadía promedio y muy distinto en el caso del gasto promedio diario.
@@ -1249,7 +1250,7 @@ Ahora bien, ¿las tres formas son correctas? En caso negativo, ¿se puede identi
 
 De la tabla anterior, la suma de los turistas que componían los tres grupos de los que formaban parte los encuestados arroja un total de 11 turistas entre los que se contabilizan 72 pernoctes y un gasto total de \$21.000. ¿Qué sucede con los totales en cada reconstrucción frente al total real?
 
-```{r Totalreal, echo=FALSE, fig.cap="Tabla7" , out.width='100%' }
+```{r Totalreal, echo=FALSE, fig.cap="Ejemplificación de las diferencias en la estimación del total de pernoctes y del gasto total según la forma de cálculo de la estadía promedio y el gasto promedio diario" , out.width='100%' }
 knitr::include_graphics('imagenes/tabla_7.png')
 ```
 
@@ -1271,7 +1272,7 @@ Aplicando las fórmulas comentadas más arriba sobre la base de datos de la EVyT
 
 Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo" , obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un $73,7\%$ al valor correcto (\$58.594 millones frente a los \$33.739 millones reales).
 
-```{r Formadecalculo, echo=FALSE, fig.cap="Tabla8" , out.width='100%' }
+```{r Formadecalculo, echo=FALSE, fig.cap="Ejemplificación de las diferencias en la estimación del total de pernoctes y del gasto total según la forma de cálculo de la estadía promedio y el gasto promedio diario en base a datos anuales del 2013 provenientes de la EVyTH" , out.width='100%' }
 knitr::include_graphics('imagenes/tabla_8.png')
 ```
 
@@ -1464,17 +1465,18 @@ ggsave(grafico_18c, filename = "imagenes/grafico_18c.png")
 
 
 
-```{r grafico18a, echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+```{r grafico18a, caption = "Gasto diario promedio por turista según cantidad de turistas en el grupo de viaje", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
 knitr::include_graphics("imagenes/DT4_grafico18_a.jpg")
 ```
 
 
-```{r grafico18b, echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+```{r grafico18b,caption = "Gasto diario promedio según estadía", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
 knitr::include_graphics("imagenes/DT4_grafico18_b.jpg")
 ```
 
 
-```{r grafico18c,  echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+```{r grafico18c, caption = "Gasto diario promedio según suma de
+pernoctes del grupo de viaje (turistas x estadía)", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
 knitr::include_graphics("imagenes/DT4_grafico18_c.jpg")
 ```
 
