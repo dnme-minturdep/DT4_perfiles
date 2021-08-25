@@ -1239,8 +1239,9 @@ knitr::include_graphics('imagenes/tabla_6.png')
 ::: {.note}
 **Forma de cálculo 3**: En esta alternativa se toman en cuenta tanto los integrantes de cada grupo como su estadía. La estadía promedio surge de dividir la suma de los pernoctes totales (estadía por cantidad de integrantes) de todos los grupos por la suma de los turistas de cada grupo. En tanto, el gasto promedio diario surge de dividir la suma de los gastos totales de los grupos por la suma de los pernoctes totales de los grupos.
 
-Estadía promedio 72/11 = 6,5 
-Gasto diario promedio 21000/72 = 292
+Estadía promedio = 72/11 = 6,5
+
+Gasto diario promedio = 21000/72 = 292
 :::
 
 Como puede apreciarse en este ejemplo ficticio, las formas de cálculo arrojan resultados sensiblemente diferentes en el caso de la estadía promedio y muy distinto en el caso del gasto promedio diario.
