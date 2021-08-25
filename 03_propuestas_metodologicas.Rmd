@@ -1250,7 +1250,7 @@ Ahora bien, ¿las tres formas son correctas? En caso negativo, ¿se puede identi
 
 De la tabla anterior, la suma de los turistas que componían los tres grupos de los que formaban parte los encuestados arroja un total de 11 turistas entre los que se contabilizan 72 pernoctes y un gasto total de \$21.000. ¿Qué sucede con los totales en cada reconstrucción frente al total real?
 
-```{r Totalreal, echo=FALSE, fig.cap="Tabla7" , out.width='100%' }
+```{r Totalreal, echo=FALSE, fig.cap="Ejemplificación de las diferencias en la estimación del total de pernoctes y del gasto total según la forma de cálculo de la estadía promedio y el gasto promedio diario" , out.width='100%' }
 knitr::include_graphics('imagenes/tabla_7.png')
 ```
 
@@ -1272,7 +1272,7 @@ Aplicando las fórmulas comentadas más arriba sobre la base de datos de la EVyT
 
 Aplicando ahora estos valores a los poco más de 30 millones de turistas (que en este ejercicio, se asumen como dato "externo" , obtenido por medio de otro estudio), se concluye que casi no habría diferencias en la cantidad total de pernoctes, pero sí se verificarían altísimas sobrestimaciones en el caso del gasto total para la forma de cálculo 2 y, fundamentalmente, para la forma 1, donde el resultado obtenido superaría en un $73,7\%$ al valor correcto (\$58.594 millones frente a los \$33.739 millones reales).
 
-```{r Formadecalculo, echo=FALSE, fig.cap="Tabla8" , out.width='100%' }
+```{r Formadecalculo, echo=FALSE, fig.cap="Ejemplificación de las diferencias en la estimación del total de pernoctes y del gasto total según la forma de cálculo de la estadía promedio y el gasto promedio diario en base a datos anuales del 2013 provenientes de la EVyTH" , out.width='100%' }
 knitr::include_graphics('imagenes/tabla_8.png')
 ```
 
