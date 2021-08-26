@@ -21,7 +21,7 @@
   <meta name="twitter:description" content="Propuestas Metodológicas para las Encuestas de Perfil del Visitante" />
   
 
-<meta name="author" content="Dirección Nacional de Mercados y Estadística - Subsecretaría de Desarrollo Estratégico" />
+<meta name="author" content="Dirección Nacional de Mercados y Estadísticas - Subsecretaría de Desarrollo Estratégico" />
 
 
 
@@ -843,9 +843,24 @@ Figura 3.16: Ejemplificación de las diferencias en la estimación del total de 
 </p>
 <p>En segundo lugar, sí se registraría un error de magnitud al utilizar las formas erróneas de cálculo del gasto promedio diario. Si bien no es lógicamente imposible que suceda, resultaría verdaderamente muy difícil encontrar una situación real en la que la estimación mediante la forma 2 y, especialmente, mediante la forma 1 arrojen valores inferiores a los correctos (es decir, a los que se arriba mediante la forma de cálculo 3); por lo general, el valor alcanzado será sustancialmente más elevado que el real.</p>
 <p>Esto obedece a que el gasto turístico (al igual que en muchos otros casos) responde a lógicas de escala: manteniendo constantes las mismas variables (medio de transporte, tipo de alojamiento, motivo, etc.) la tendencia es que el gasto promedio diario por turista disminuya a medida que se incrementa la cantidad de integrantes del grupo de viaje<a href="#fn120" class="footnote-ref" id="fnref120"><sup>120</sup></a> y a medida que se incrementa la estadía<a href="#fn121" class="footnote-ref" id="fnref121"><sup>121</sup></a>. Cómo se mencionó, la relación no es lineal (es decir no se verifica en todos los casos), pero sí presenta un alto nivel de probabilidad de ocurrencia. Además, esta relación no afecta por igual a todos los rubros, lo que implica también que estas variables afectan la estructura relativa del gasto turístico (es decir, qué parte corresponde a alimentación, alojamiento, etc.).<a href="#fn122" class="footnote-ref" id="fnref122"><sup>122</sup></a> Las siguientes figuras muestran (siguiendo con el turismo interno de la EVyTH<a href="#fn123" class="footnote-ref" id="fnref123"><sup>123</sup></a>) cómo disminuye el gasto promedio diario cuando aumenta la cantidad de integrantes del grupo de viaje (columnas verdes), cuando aumenta la estadía (columnas amarillas) y también cuando aumenta el resultado de la combinación de ambas (columnas violetas).<a href="#fn124" class="footnote-ref" id="fnref124"><sup>124</sup></a></p>
-<p><img src="imagenes/DT4_grafico18_a.jpg" width="100%" height="100%" style="display: block; margin: auto;" /></p>
-<p><img src="imagenes/DT4_grafico18_b.jpg" width="100%" height="100%" style="display: block; margin: auto;" /></p>
-<p><code>{r grafico18c, caption = "Gasto diario promedio según suma de pernoctes del grupo de viaje (turistas x estadía)", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'} knitr::include_graphics("imagenes/DT4_grafico18_c.jpg")</code></p>
+<div class="figure" style="text-align: center"><span id="fig:grafico18a"></span>
+<img src="imagenes/grafico_18a.jpg" alt="Gasto diario promedio por turista según cantidad de turistas en el grupo de viaje" width="100%" height="100%" />
+<p class="caption">
+Figura 3.17: Gasto diario promedio por turista según cantidad de turistas en el grupo de viaje
+</p>
+</div>
+<div class="figure" style="text-align: center"><span id="fig:grafico18b"></span>
+<img src="imagenes/DT4_grafico18_b.jpg" alt="Gasto diario promedio según estadía" width="100%" height="100%" />
+<p class="caption">
+Figura 3.18: Gasto diario promedio según estadía
+</p>
+</div>
+<div class="figure" style="text-align: center"><span id="fig:grafico18c"></span>
+<img src="imagenes/DT4_grafico18_c.jpg" alt="Gasto diario promedio según suma de pernoctes del grupo de viaje (turistas x estadía)" width="100%" height="100%" />
+<p class="caption">
+Figura 3.19: Gasto diario promedio según suma de pernoctes del grupo de viaje (turistas x estadía)
+</p>
+</div>
 <p>Recapitulando, las formas 1 y 2 son incorrectas porque sus fórmulas no contemplan estas variables, y la cuestión de gasto de escala asociada a ellas. La forma 1 de calcular el gasto promedio es incorrecta porque no contempla ni el tamaño del grupo de viaje ni la extensión de la estadía, con lo cual, trayendo a cuenta un ejemplo extremo, a la hora de calcular el gasto diario valdrían lo mismo (pues se realiza un promedio simple) un turista japonés que viajó sólo y estuvo una noche en el destino, alojado en un hotel de alta categoría y utilizando servicios de alta gama, que un encuestado residente en la misma provincia, que viajó a otra localidad junto a toda su familia (cinco integrantes en total), con quienes se alojó en un camping económico durante 30 noches, procurando gastar lo menos posible en alimentación y sin gastar dinero, prácticamente, en otros rubros. En el caso de la forma 2 el error se subsana en parte, pues al estimar el gasto promedio diario de los turistas de un destino toma en cuenta la duración de la estadía (siguiendo el ejemplo, el turista japonés valdría uno, mientras el turista proveniente de provincia limítrofe valdría 30), pero sigue sin tomar en cuenta el tamaño del grupo de viaje. <strong>La única manera entonces, de arribar a resultados válidos, es tomar en cuenta no sólo el nivel de gasto diario del encuestado sino también la duración de su estadía y el tamaño del grupo de viaje del que formaba parte</strong>.</p>
 </div>
 </div>

@@ -19,7 +19,7 @@ knitr::include_graphics('imagenes/graf02.png')
 ```
 
 
-```{r 001, echo=FALSE, fig.cap="Formulario modelo perfil" }
+```{r 002, echo=FALSE, fig.cap="Formulario modelo perfil" }
 knitr::include_graphics('imagenes/graf01.png')
 ```
 

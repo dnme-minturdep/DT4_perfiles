@@ -38,7 +38,7 @@
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
   pdftitle={Documento Técnico N°4: Encuestas a Visitantes},
-  pdfauthor={Dirección Nacional de Mercados y Estadística - Subsecretaría de Desarrollo Estratégico},
+  pdfauthor={Dirección Nacional de Mercados y Estadísticas - Subsecretaría de Desarrollo Estratégico},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
@@ -102,8 +102,8 @@
 }
 \makeatother
 \subtitle{Propuestas Metodológicas para las Encuestas de Perfil del Visitante}
-\author{Dirección Nacional de Mercados y Estadística - Subsecretaría de Desarrollo Estratégico}
-\date{25 de agosto de 2021}
+\author{Dirección Nacional de Mercados y Estadísticas - Subsecretaría de Desarrollo Estratégico}
+\date{26 de agosto de 2021}
 
 \begin{document}
 \maketitle
@@ -122,7 +122,7 @@
 \chapter*{\texorpdfstring{\textbf{Presentación}}{Presentación}}\label{presentaciuxf3n}}
 \addcontentsline{toc}{chapter}{\textbf{Presentación}}
 
-El presente documento \textbf{Propuestas Metodológicas para las Encuestas de Perfil del Visitante} se enmarca en el proyecto de \href{https://armonizacion.yvera.tur.ar//}{Armonización de las Estadísticas de Turismo en las Provincias} de la \textbf{Dirección Nacional de Mercados y Estadística de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes}. El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
+El presente documento \textbf{Propuestas Metodológicas para las Encuestas de Perfil del Visitante} se enmarca en el proyecto de \href{https://armonizacion.yvera.tur.ar//}{Armonización de las Estadísticas de Turismo en las Provincias} de la \textbf{Dirección Nacional de Mercados y Estadísticas de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes}. El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
 
 Además de este, se encuentran disponibles una serie de documentos técnicos que abordan otras problemáticas vinculadas a la producción de estadística de turismo:
 
@@ -1447,11 +1447,32 @@ Esto obedece a que el gasto turístico (al igual que en muchos otros casos) resp
 
   No obstante, como se sugirió en la sección anterior, el gasto en transporte (la parte correspondiente a la provincia) no debe ser soslayado en la medición de la contribución económica del turismo.}) cómo disminuye el gasto promedio diario cuando aumenta la cantidad de integrantes del grupo de viaje (columnas verdes), cuando aumenta la estadía (columnas amarillas) y también cuando aumenta el resultado de la combinación de ambas (columnas violetas) \footnote{Otra manera de expresar esta relación, de modo sintético, es a partir de coeficientes de correlación, como el r de Pearson (que varía entre -1 y +1, no existiendo correlación en el valor 0). Este coeficiente alcanza un valor de -0,157 al considerar el gasto diario promedio y la cantidad de participantes del viaje (se suele considerar que la existe correlación significativa a partir de valores de 0,05/-0,05) y llega hasta -0,301 en el caso de la estadía y el gasto. Es decir, existe una correlación inversa (cuando una variable crece la otra disminuye) fuerte entre gasto diario y tamaño del grupo viajero y una correlación inversa muy fuerte entre gasto diario y estadía del viaje.}.
 
-\begin{center}\includegraphics[width=1\linewidth,height=1\textheight]{imagenes/DT4_grafico18_a} \end{center}
+\begin{figure}
 
-\begin{center}\includegraphics[width=1\linewidth,height=1\textheight]{imagenes/DT4_grafico18_b} \end{center}
+{\centering \includegraphics[width=1\linewidth,height=1\textheight]{imagenes/grafico_18a} 
 
-\texttt{\{r\ grafico18c,\ caption\ =\ "Gasto\ diario\ promedio\ según\ suma\ de\ pernoctes\ del\ grupo\ de\ viaje\ (turistas\ x\ estadía)",\ echo=FALSE,warning=FALSE,message=FALSE,\ dev=\textquotesingle{}cairo\_pdf\textquotesingle{},\ out.width=\textquotesingle{}100\%\textquotesingle{},\ out.height=\textquotesingle{}100\%\textquotesingle{}\}\ knitr::include\_graphics("imagenes/DT4\_grafico18\_c.jpg")}
+}
+
+\caption{Gasto diario promedio por turista según cantidad de turistas en el grupo de viaje}\label{fig:grafico18a}
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth,height=1\textheight]{imagenes/DT4_grafico18_b} 
+
+}
+
+\caption{Gasto diario promedio según estadía}\label{fig:grafico18b}
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth,height=1\textheight]{imagenes/DT4_grafico18_c} 
+
+}
+
+\caption{Gasto diario promedio según suma de pernoctes del grupo de viaje (turistas x estadía)}\label{fig:grafico18c}
+\end{figure}
 
 Recapitulando, las formas 1 y 2 son incorrectas porque sus fórmulas no contemplan estas variables, y la cuestión de gasto de escala asociada a ellas. La forma 1 de calcular el gasto promedio es incorrecta porque no contempla ni el tamaño del grupo de viaje ni la extensión de la estadía, con lo cual, trayendo a cuenta un ejemplo extremo, a la hora de calcular el gasto diario valdrían lo mismo (pues se realiza un promedio simple) un turista japonés que viajó sólo y estuvo una noche en el destino, alojado en un hotel de alta categoría y utilizando servicios de alta gama, que un encuestado residente en la misma provincia, que viajó a otra localidad junto a toda su familia (cinco integrantes en total), con quienes se alojó en un camping económico durante 30 noches, procurando gastar lo menos posible en alimentación y sin gastar dinero, prácticamente, en otros rubros. En el caso de la forma 2 el error se subsana en parte, pues al estimar el gasto promedio diario de los turistas de un destino toma en cuenta la duración de la estadía (siguiendo el ejemplo, el turista japonés valdría uno, mientras el turista proveniente de provincia limítrofe valdría 30), pero sigue sin tomar en cuenta el tamaño del grupo de viaje. \textbf{La única manera entonces, de arribar a resultados válidos, es tomar en cuenta no sólo el nivel de gasto diario del encuestado sino también la duración de su estadía y el tamaño del grupo de viaje del que formaba parte}.
 
@@ -1592,11 +1613,20 @@ Una persona de 18 años o más oficiará de informante de las características y
 
 \begin{figure}
 
+{\centering \includegraphics[width=1\linewidth]{imagenes/graf02} 
+
+}
+
+\caption{Formulario modelo CIT}\label{fig:001}
+\end{figure}
+
+\begin{figure}
+
 {\centering \includegraphics[width=1\linewidth]{imagenes/graf01} 
 
 }
 
-\caption{1}\label{fig:001}
+\caption{Formulario modelo perfil}\label{fig:002}
 \end{figure}
 
   \bibliography{book.bib,packages.bib}

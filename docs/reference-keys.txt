@@ -14,7 +14,11 @@ fig:Tipodetraslado
 fig:Casos
 fig:Totalreal
 fig:Formadecalculo
+fig:grafico18a
+fig:grafico18b
+fig:grafico18c
 fig:001
+fig:002
 principales-desafios
 encuestas-nacionales-de-perfil
 eti

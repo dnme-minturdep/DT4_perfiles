@@ -1466,7 +1466,7 @@ ggsave(grafico_18c, filename = "imagenes/grafico_18c.png")
 
 
 ```{r grafico18a, fig.cap="Gasto diario promedio por turista según cantidad de turistas en el grupo de viaje", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
-knitr::include_graphics("imagenes/DT4_grafico18_a.jpg")
+knitr::include_graphics("imagenes/grafico_18a.jpg")
 ```
 
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.9)  25 AUG 2021 17:59
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.9)  26 AUG 2021 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -956,7 +956,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 116.
 
-Overfull \hbox (116.17204pt too wide) in paragraph at lines 116--116
+Overfull \hbox (120.80405pt too wide) in paragraph at lines 116--116
  [][] 
  []
 
@@ -1396,82 +1396,69 @@ LaTeX Info: Redefining \% on input line 1443.
 LaTeX Info: Redefining \. on input line 1449.
 LaTeX Info: Redefining \% on input line 1449.
 [101]
-File: imagenes/DT4_grafico18_a.jpg Graphic file (type bmp)
-<imagenes/DT4_grafico18_a.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 1450.
-LaTeX Info: Redefining \% on input line 1450.
-[102]
+File: imagenes/grafico_18a.png Graphic file (type bmp)
+<imagenes/grafico_18a.png>
 File: imagenes/DT4_grafico18_b.jpg Graphic file (type bmp)
 <imagenes/DT4_grafico18_b.jpg>
-
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1455
-[]\TU/lmtt/m/n/10 {r grafico18c, caption = "Gasto diario promedio según suma de
-
- []
-
-
-Overfull \hbox (132.75pt too wide) in paragraph at lines 1454--1455
-\TU/lmtt/m/n/10 pernoctes del grupo de viaje (turistas x estadía)", echo=FALSE,
-warning=FALSE,message=FALSE,
- []
-
-
-Overfull \hbox (225.33362pt too wide) in paragraph at lines 1454--1455
-\TU/lmtt/m/n/10 dev=[]cairo_pdf[], out.width=[]100$ $%[], out.height=[]100$ $%[
-]} knitr::include_graphics(ïmagenes/DT4_grafico18_c.jpg") 
- []
-
-LaTeX Info: Redefining \. on input line 1457.
-LaTeX Info: Redefining \% on input line 1457.
+File: imagenes/DT4_grafico18_c.jpg Graphic file (type bmp)
+<imagenes/DT4_grafico18_c.jpg>
+LaTeX Info: Redefining \. on input line 1478.
+LaTeX Info: Redefining \% on input line 1478.
+[102]
+LaTeX Info: Redefining \. on input line 1478.
+LaTeX Info: Redefining \% on input line 1478.
 [103]
-LaTeX Info: Redefining \. on input line 1474.
-LaTeX Info: Redefining \% on input line 1474.
+LaTeX Info: Redefining \. on input line 1478.
+LaTeX Info: Redefining \% on input line 1478.
 [104]
-LaTeX Info: Redefining \. on input line 1490.
-LaTeX Info: Redefining \% on input line 1490.
+LaTeX Info: Redefining \. on input line 1499.
+LaTeX Info: Redefining \% on input line 1499.
 [105]
-LaTeX Info: Redefining \. on input line 1505.
-LaTeX Info: Redefining \% on input line 1505.
+LaTeX Info: Redefining \. on input line 1517.
+LaTeX Info: Redefining \% on input line 1517.
 [106]
-LaTeX Info: Redefining \. on input line 1526.
-LaTeX Info: Redefining \% on input line 1526.
+LaTeX Info: Redefining \. on input line 1529.
+LaTeX Info: Redefining \% on input line 1529.
 [107]
-LaTeX Info: Redefining \. on input line 1546.
-LaTeX Info: Redefining \% on input line 1546.
+LaTeX Info: Redefining \. on input line 1556.
+LaTeX Info: Redefining \% on input line 1556.
 [108]
-Underfull \vbox (badness 4859) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 1560.
-LaTeX Info: Redefining \% on input line 1560.
+LaTeX Info: Redefining \. on input line 1573.
+LaTeX Info: Redefining \% on input line 1573.
 [109]
-Underfull \hbox (badness 10000) in paragraph at lines 1574--1575
+LaTeX Info: Redefining \. on input line 1590.
+LaTeX Info: Redefining \% on input line 1590.
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 1595--1596
 
  []
 
-LaTeX Info: Redefining \. on input line 1577.
-LaTeX Info: Redefining \% on input line 1577.
-[110]
-LaTeX Info: Redefining \. on input line 1577.
-LaTeX Info: Redefining \% on input line 1577.
+LaTeX Info: Redefining \. on input line 1598.
+LaTeX Info: Redefining \% on input line 1598.
 [111]
-LaTeX Info: Redefining \. on input line 1577.
-LaTeX Info: Redefining \% on input line 1577.
+LaTeX Info: Redefining \. on input line 1598.
+LaTeX Info: Redefining \% on input line 1598.
 [112
 
 ]
+File: imagenes/graf02.png Graphic file (type bmp)
+<imagenes/graf02.png>
+
+LaTeX Warning: Float too large for page by 24.04878pt on input line 1621.
+
 File: imagenes/graf01.png Graphic file (type bmp)
 <imagenes/graf01.png>
 
-LaTeX Warning: Float too large for page by 24.04865pt on input line 1600.
+LaTeX Warning: Float too large for page by 24.04865pt on input line 1630.
 
 No file DT4.bbl.
 [113]
-LaTeX Info: Redefining \. on input line 1604.
-LaTeX Info: Redefining \% on input line 1604.
-[114] (./DT4.aux
+LaTeX Info: Redefining \. on input line 1634.
+LaTeX Info: Redefining \% on input line 1634.
+[114]
+LaTeX Info: Redefining \. on input line 1634.
+LaTeX Info: Redefining \% on input line 1634.
+[115] (./DT4.aux
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
 )
@@ -1479,12 +1466,12 @@ Package rerunfilecheck Info: File `DT4.out' has not changed.
 (rerunfilecheck)             Checksum: 954FFEF42E3C7A6AE3C2CF8958C4B92C;1849.
  ) 
 Here is how much of TeX's memory you used:
- 19831 strings out of 478461
- 358363 string characters out of 5856973
- 865514 words of memory out of 5000000
- 39828 multiletter control sequences out of 15000+600000
+ 19863 strings out of 478461
+ 359234 string characters out of 5856973
+ 865885 words of memory out of 5000000
+ 39858 multiletter control sequences out of 15000+600000
  407457 words of font info for 75 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  87i,18n,120p,4293b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on DT4.pdf (116 pages).
+Output written on DT4.pdf (117 pages).
