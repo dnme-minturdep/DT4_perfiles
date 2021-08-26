@@ -13,6 +13,14 @@ Se considera VISITANTES a aquellas personas que no residen en la localidad  y se
 El cuestionario aplica para todos los integrantes del grupo de viaje (personas que viajan juntas y comparten los gastos del viaje). 
 Una persona de 18 años o más oficiará de informante de las características y los gastos de todo el grupo de viaje.
 
-```{r 001, echo=FALSE, fig.cap="1" }
+
+```{r 001, echo=FALSE, fig.cap="Formulario modelo CIT" }
+knitr::include_graphics('imagenes/graf02.png')
+```
+
+
+```{r 001, echo=FALSE, fig.cap="Formulario modelo perfil" }
 knitr::include_graphics('imagenes/graf01.png')
 ```
+
+
