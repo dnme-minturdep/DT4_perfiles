@@ -1465,21 +1465,19 @@ ggsave(grafico_18c, filename = "imagenes/grafico_18c.png")
 
 
 
-```{r grafico18a, caption = "Gasto diario promedio por turista según cantidad de turistas en el grupo de viaje", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+```{r grafico18a, fig.cap="Gasto diario promedio por turista según cantidad de turistas en el grupo de viaje", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
 knitr::include_graphics("imagenes/DT4_grafico18_a.jpg")
 ```
 
 
-```{r grafico18b,caption = "Gasto diario promedio según estadía", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+```{r grafico18b, fig.cap="Gasto diario promedio según estadía", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
 knitr::include_graphics("imagenes/DT4_grafico18_b.jpg")
 ```
 
 
-```{r grafico18c, caption = "Gasto diario promedio según suma de
-pernoctes del grupo de viaje (turistas x estadía)", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
+```{r grafico18c, fig.cap="Gasto diario promedio según suma de pernoctes del grupo de viaje (turistas x estadía)", echo=FALSE,warning=FALSE,message=FALSE, dev='cairo_pdf', out.width='100%', out.height='100%'}
 knitr::include_graphics("imagenes/DT4_grafico18_c.jpg")
 ```
-
 
 
 Recapitulando, las formas 1 y 2 son incorrectas porque sus fórmulas no contemplan estas variables, y la cuestión de gasto de escala asociada a ellas. La forma 1 de calcular el gasto promedio es incorrecta porque no contempla ni el tamaño del grupo de viaje ni la extensión de la estadía, con lo cual, trayendo a cuenta un ejemplo extremo, a la hora de calcular el gasto diario valdrían lo mismo (pues se realiza un promedio simple) un turista japonés que viajó sólo y estuvo una noche en el destino, alojado en un hotel de alta categoría y utilizando servicios de alta gama, que un encuestado residente en la misma provincia, que viajó a otra localidad junto a toda su familia (cinco integrantes en total), con quienes se alojó en un camping económico durante 30 noches, procurando gastar lo menos posible en alimentación y sin gastar dinero, prácticamente, en otros rubros. En el caso de la forma 2 el error se subsana en parte, pues al estimar el gasto promedio diario de los turistas de un destino toma en cuenta la duración de la estadía (siguiendo el ejemplo, el turista japonés valdría uno, mientras el turista proveniente de provincia limítrofe valdría 30), pero sigue sin tomar en cuenta el tamaño del grupo de viaje. **La única manera entonces, de arribar a resultados válidos, es tomar en cuenta no sólo el nivel de gasto diario del encuestado sino también la duración de su estadía y el tamaño del grupo de viaje del que formaba parte**.
