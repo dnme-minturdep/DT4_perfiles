@@ -67,9 +67,9 @@ Una persona de 18 años o más oficiará de informante de las características y
 :::
 
 
-
 ```{r 0013, echo=FALSE}
 knitr::include_graphics('imagenes/graf13.png')
 ```
 
 
+**[(Visualización de la imagen)](https://raw.githubusercontent.com/dnme-minturdep/DT4_perfiles/master/imagenes/graf13.png){target="_blank"}**
