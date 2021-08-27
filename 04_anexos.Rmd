@@ -2,6 +2,10 @@
 
 Anexo 1. Formulario modelo CIT
 
+```{r 001, echo=FALSE}
+knitr::include_graphics('imagenes/graf02.png')
+```
+
 Anexo 2. Formulario modelo perfil
 
 Se considera VISITANTES a aquellas personas que no residen en la localidad  y se alojan allí (en cualquier tipo de alojamiento) o pasan al menos dos o tres horas en ella. Además de los residentes en la localidad y de los no residentes que se quedan menos de dos horas, se EXCLUYE (no debe encuestarse) a quienes cumplen al menos una de las siguientes condiciones:
@@ -14,10 +18,6 @@ El cuestionario aplica para todos los integrantes del grupo de viaje (personas q
 Una persona de 18 años o más oficiará de informante de las características y los gastos de todo el grupo de viaje.
 
 
-
-```{r 001, echo=FALSE}
-knitr::include_graphics('imagenes/graf02.png')
-```
 
 ```{r 002, echo=FALSE}
 knitr::include_graphics('imagenes/graf01.png')
