@@ -14,12 +14,12 @@ El cuestionario aplica para todos los integrantes del grupo de viaje (personas q
 Una persona de 18 años o más oficiará de informante de las características y los gastos de todo el grupo de viaje.
 
 
-```{r 001, echo=FALSE, fig.cap="Formulario modelo CIT" }
+
+```{r 001, echo=FALSE}
 knitr::include_graphics('imagenes/graf02.png')
 ```
 
-
-```{r 002, echo=FALSE, fig.cap="Formulario modelo perfil" }
+```{r 002, echo=FALSE}
 knitr::include_graphics('imagenes/graf01.png')
 ```
 
