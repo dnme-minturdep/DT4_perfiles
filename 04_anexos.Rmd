@@ -5,6 +5,13 @@
 knitr::include_graphics('imagenes/graf13.png')
 ```
 
+
+
+**[(Visualización de la imagen)](https://raw.githubusercontent.com/dnme-minturdep/DT4_perfiles/master/imagenes/graf13.png){target="_blank"}**
+
+
+
+
 **Anexo 2. Formulario modelo perfil**
 
 ::: {.note}
@@ -18,17 +25,6 @@ El cuestionario aplica para **todos los integrantes del grupo de viaje** (person
 Una persona de 18 años o más oficiará de informante de las características y los gastos de todo el grupo de viaje.
 
 :::
-
-
-
-```{r 0013, echo=FALSE}
-knitr::include_graphics('imagenes/graf13.png')
-```
-
-
-**[(Visualización de la imagen)](https://raw.githubusercontent.com/dnme-minturdep/DT4_perfiles/master/imagenes/graf13.png){target="_blank"}**
-
-
 
 
 **Anexo 2. Formulario modelo perfil**
