@@ -36,8 +36,8 @@ Debido a que la encuesta fue diseñada para obtener resultados a niveles regiona
 Para más información de la EVyTH podes consultar los informes técnicos de resultados y las series estadísticas en:
 
 - [Data abierta](http://datos.yvera.gob.ar/dataset/encuesta-viajes-turismo-hogares-evyth){target="_blank"}  
-- [Informes técnicos](https://www.yvera.tur.ar/estadistica/info/encuesta-de-viajes-y-turismo-de-los-hogares-evyth){target="_blank"} 
+- [Informes técnicos](https://www.yvera.tur.ar/estadistica/informe/info/encuesta-de-viajes-y-turismo-de-los-hogares-evyth){target="_blank"} 
 
-Para ver un ejemplo de cómo el MINTURDEP utiliza estos datos para las provinciales se pueden visitar las fichas de [Estadísticas de turismo por provincia](https://www.yvera.tur.ar/estadistica/info/estadisticas-de-turismo-por-provincias){target="_blank"} 
+Para ver un ejemplo de cómo el MINTURDEP utiliza estos datos para las provinciales se pueden visitar las fichas de [Estadísticas de turismo por provincia](https://www.yvera.tur.ar/estadistica/informe/info/estadisticas-de-turismo-por-provincias){target="_blank"} 
 :::
 
