@@ -4,14 +4,13 @@
 %
 \documentclass[
 ]{book}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amsmath}
 \usepackage{ifxetex,ifluatex}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
-  \usepackage{amssymb}
 \else % if luatex or xetex
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
@@ -42,7 +41,7 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs}
+\usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -103,7 +102,7 @@
 \makeatother
 \subtitle{Propuestas Metodológicas para las Encuestas de Perfil del Visitante}
 \author{Dirección Nacional de Mercados y Estadísticas - Subsecretaría de Desarrollo Estratégico}
-\date{17 de diciembre de 2021}
+\date{14 de febrero de 2022}
 
 \begin{document}
 \maketitle
@@ -1395,7 +1394,17 @@ En base a esta información se puede estimar el gasto diario promedio. Si bien h
 \caption{Ejemplificación del cálculo del gasto diario promedio}\label{fig:Casos}
 \end{figure}
 
+\textbf{Forma de cálculo 1}: Cada caso vale uno. Tanto la estadía como el gasto diario promedio se estiman como un promedio simple de los valores registrados en cada caso.
+
+Estadía promedio = (2+4+12)/3 = 6,0
+
+Gasto diario promedio (1500+150+250)/3 = 633
+
 \textbf{Forma de cálculo 2}: Cada caso vale uno para la estadía promedio (como en la forma anterior), pero en el caso del gasto diario se toman en cuenta los pernoctes (es decir se realiza un promedio ponderado: el gasto diario se multiplica por su estadía y luego se divide por la suma de las estadías\footnote{La multiplicación del gasto diario promedio por la estadía arroja el gasto total por turista.}).
+
+Estadía promedio = (2+4+12)/3= 6,0
+
+Gasto diario promedio = ((2x1500+4x150+12x250) / (2+4+12)= 367
 
 \textbf{Forma de cálculo 3}: En esta alternativa se toman en cuenta tanto los integrantes de cada grupo como su estadía. La estadía promedio surge de dividir la suma de los pernoctes totales (estadía por cantidad de integrantes) de todos los grupos por la suma de los turistas de cada grupo. En tanto, el gasto promedio diario surge de dividir la suma de los gastos totales de los grupos por la suma de los pernoctes totales de los grupos.
 
