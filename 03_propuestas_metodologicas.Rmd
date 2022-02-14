@@ -1231,7 +1231,21 @@ knitr::include_graphics('imagenes/tabla_6.png')
 ```
 
 ::: {.note}
+**Forma de cálculo 1**:  Cada caso vale uno. Tanto la estadía como el gasto diario promedio se  estiman como un promedio simple de los valores registrados en cada caso.
+
+Estadía promedio = (2+4+12)/3 = 6,0
+
+Gasto diario promedio (1500+150+250)/3 = 633
+
+:::
+
+::: {.note}
 **Forma de cálculo 2**: Cada caso vale uno para la estadía promedio (como en la forma anterior), pero en el caso del gasto diario se toman en cuenta los pernoctes (es decir se realiza un promedio ponderado: el gasto diario se multiplica por su estadía y luego se divide por la suma de las estadías[^propuestas_metodologicas-106]).
+
+Estadía promedio = (2+4+12)/3= 6,0
+
+Gasto diario promedio = ((2x1500+4x150+12x250) / (2+4+12)= 367
+
 :::
 
 [^propuestas_metodologicas-106]: La multiplicación del gasto diario promedio por la estadía arroja el gasto total por turista.
